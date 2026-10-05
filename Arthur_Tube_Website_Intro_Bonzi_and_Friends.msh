@@ -158,11 +158,11 @@ Set Req = Merlin.Speak("Explore at your own pace. Thanks for visiting Arthur Tub
 WaitFor Req
 Set Req = Bonzi.Play("Wave")
 WaitFor Req
-Set Req = Bonzi.Speak("See you in the next video!")
+Set Req = Bonzi.Speak("Enjoy exploring Arthur Tube's website!")
 WaitFor Req
 Set Req = Peedy.Play("Wave")
 WaitFor Req
-Set Req = Peedy.Speak("And bring your memory. Bonzi might need to borrow it.")
+Set Req = Peedy.Speak("And if you try Memory Match, Bonzi might need to borrow your memory.")
 WaitFor Req
 
 [Commands]
