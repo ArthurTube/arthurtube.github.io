@@ -1,0 +1,173 @@
+[MASH Script]
+Version=7.5
+
+[Characters]
+Bonzi=Bonzi.acs
+Peedy=Peedy.acs
+Max=MaxALERT.acs
+Genie=Genie.acs
+Merlin=Merlin.acs
+
+[LanguageIDs]
+Bonzi=&H409
+Peedy=&H409
+Max=&H409
+Genie=&H409
+Merlin=&H409
+
+[Script]
+Bonzi.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Bonzi.MoveTo 100, 430
+Set Req = Bonzi.Show()
+WaitFor Req
+Peedy.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Peedy.MoveTo 320, 430
+Set Req = Peedy.Show()
+WaitFor Req
+Max.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Max.MoveTo 540, 430
+Set Req = Max.Show()
+WaitFor Req
+Genie.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273000}"
+Genie.MoveTo 760, 430
+Set Req = Genie.Show()
+WaitFor Req
+Merlin.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273002}"
+Merlin.MoveTo 980, 430
+Set Req = Merlin.Show()
+WaitFor Req
+Set Req = Genie.Play("Announce")
+WaitFor Req
+Set Req = Genie.Speak("Everybody ready? We have a website to introduce!")
+WaitFor Req
+Set Req = Bonzi.Play("Pleased")
+WaitFor Req
+Set Req = Bonzi.Speak("Ready. I practiced my welcome face.")
+WaitFor Req
+Set Req = Peedy.Play("Confused")
+WaitFor Req
+Set Req = Peedy.Speak("That looks exactly like your banana face.")
+WaitFor Req
+Set Req = Max.Play("Wave")
+WaitFor Req
+Set Req = Max.Speak("Hello! Welcome to Arthur Tube's website!")
+WaitFor Req
+Set Req = Merlin.Play("Greet")
+WaitFor Req
+Set Req = Merlin.Speak("A little corner of the internet for videos, projects, and classic desktop characters.")
+WaitFor Req
+Set Req = Bonzi.Play("Wave")
+WaitFor Req
+Set Req = Bonzi.Speak("Including a very handsome purple gorilla.")
+WaitFor Req
+Set Req = Peedy.Play("Acknowledge")
+WaitFor Req
+Set Req = Peedy.Speak("And a green bird who keeps the introduction moving.")
+WaitFor Req
+Set Req = Genie.Play("GestureRight")
+WaitFor Req
+Set Req = Genie.Speak("The address is arthur tube dot github dot io.")
+WaitFor Req
+Set Req = Max.Play("Acknowledge")
+WaitFor Req
+Set Req = Max.Speak("Arthur Tube. One website, plenty to explore.")
+WaitFor Req
+Set Req = Merlin.Play("Suggest")
+WaitFor Req
+Set Req = Merlin.Speak("Start with the video shelf. You can find his first website video there.")
+WaitFor Req
+Set Req = Peedy.Play("Pleased")
+WaitFor Req
+Set Req = Peedy.Speak("There are Microsoft Agent videos and CyberBuddy demonstrations, too.")
+WaitFor Req
+Set Req = Bonzi.Play("Suggest")
+WaitFor Req
+Set Req = Bonzi.Speak("So you can watch us after watching us introduce the place where you can watch us.")
+WaitFor Req
+Set Req = Genie.Play("Confused")
+WaitFor Req
+Set Req = Genie.Speak("I think you just made a circle.")
+WaitFor Req
+Set Req = Max.Play("Pleased")
+WaitFor Req
+Set Req = Max.Speak("A video circle. Very efficient.")
+WaitFor Req
+Set Req = Merlin.Play("Announce")
+WaitFor Req
+Set Req = Merlin.Speak("Now, the projects. Arthur Tube created CyberBuddy Classic Proxy.")
+WaitFor Req
+Set Req = Peedy.Play("GestureRight")
+WaitFor Req
+Set Req = Peedy.Speak("It is an unofficial compatibility project for the original CyberBuddy client.")
+WaitFor Req
+Set Req = Genie.Play("Acknowledge")
+WaitFor Req
+Set Req = Genie.Speak("The site explains its weather, news, and other online features.")
+WaitFor Req
+Set Req = Max.Play("GestureUp")
+WaitFor Req
+Set Req = Max.Speak("It also explains the shared directory and online presence.")
+WaitFor Req
+Set Req = Merlin.Play("Think")
+WaitFor Req
+Set Req = Merlin.Speak("Chat is still under development. Reliable sending and receiving still need testing.")
+WaitFor Req
+Set Req = Bonzi.Play("Acknowledge")
+WaitFor Req
+Set Req = Bonzi.Speak("Then we shall have our conversation right here.")
+WaitFor Req
+Set Req = Peedy.Play("Suggest")
+WaitFor Req
+Set Req = Peedy.Speak("There is also the BonziBuddy Customizer, another project by Arthur Tube.")
+WaitFor Req
+Set Req = Bonzi.Play("Pleased")
+WaitFor Req
+Set Req = Bonzi.Speak("You can edit recognized joke, fact, personality, and song data. I approve of more jokes.")
+WaitFor Req
+Set Req = Max.Play("GestureRight")
+WaitFor Req
+Set Req = Max.Speak("Check the download section for instructions and compatibility details.")
+WaitFor Req
+Set Req = Genie.Play("Suggest")
+WaitFor Req
+Set Req = Genie.Speak("And if you feel like a game, try the memory match page.")
+WaitFor Req
+Set Req = Bonzi.Play("Think")
+WaitFor Req
+Set Req = Bonzi.Speak("I remember that game. Probably.")
+WaitFor Req
+Set Req = Merlin.Play("Pleased")
+WaitFor Req
+Set Req = Merlin.Speak("The about section tells you more about Arthur Tube, a creator from Brazil.")
+WaitFor Req
+Set Req = Peedy.Play("Acknowledge")
+WaitFor Req
+Set Req = Peedy.Speak("Bonzi and I are his favorite Microsoft Agent characters.")
+WaitFor Req
+Set Req = Max.Play("Surprised")
+WaitFor Req
+Set Req = Max.Speak("Excuse me, I am standing right here!")
+WaitFor Req
+Set Req = Genie.Play("Pleased")
+WaitFor Req
+Set Req = Genie.Speak("You are still invited, Max.")
+WaitFor Req
+Set Req = Merlin.Play("Wave")
+WaitFor Req
+Set Req = Merlin.Speak("Explore at your own pace. Thanks for visiting Arthur Tube's website!")
+WaitFor Req
+Set Req = Bonzi.Play("Wave")
+WaitFor Req
+Set Req = Bonzi.Speak("See you in the next video!")
+WaitFor Req
+Set Req = Peedy.Play("Wave")
+WaitFor Req
+Set Req = Peedy.Speak("And bring your memory. Bonzi might need to borrow it.")
+WaitFor Req
+
+[Commands]
+MenuName=MASH Menu
+ACO=Advanced Character Options|~|Advanced Character Options
+
+[CommandScript:ACO]
+AgentControl.PropertySheet.Visible = True
