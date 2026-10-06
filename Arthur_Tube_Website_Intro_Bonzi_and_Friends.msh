@@ -110,11 +110,11 @@ Set Req = Max.Speak("It also explains the shared directory and online presence."
 WaitFor Req
 Set Req = Merlin.Play("Think")
 WaitFor Req
-Set Req = Merlin.Speak("Self chat now works in Arthur's tests with the two thousand five and twenty twelve CyberBuddy versions. Longer messages worked, too.")
+Set Req = Merlin.Speak("Self chat worked in Arthur's test using a local I P address. Longer messages worked, too. Sending by U I N did not work in that test.")
 WaitFor Req
 Set Req = Max.Speak("The next test is between two separate clients. Both should send a message and receive a reply.")
 WaitFor Req
-Set Req = Genie.Speak("Select Private, and use the other client's actual U I N or reachable I P address.")
+Set Req = Genie.Speak("Select Private, and use the other client's reachable I P address for the next test.")
 WaitFor Req
 Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
 WaitFor Req
@@ -127,6 +127,17 @@ Set Req = Bonzi.Speak("Then we shall have our conversation right here.")
 WaitFor Req
 Set Req = Peedy.Play("Suggest")
 WaitFor Req
+Set Req = Bonzi.Speak("Arthur Tube added Fantasyland to his website!")
+WaitFor Req
+Set Req = Peedy.Speak("It is also known as YouTube Video Editor Remastered, a revival of the classic editor.")
+WaitFor Req
+Set Req = Max.Speak("The editor was created by jimmy edits fourteen. Arthur added a page to open it from his website.")
+WaitFor Req
+Set Req = Genie.Speak("Choose Fantasyland on the homepage to open the editor.")
+WaitFor Req
+Set Req = Merlin.Speak("If it does not appear inside the page, use the link to open the original editor.")
+WaitFor Req
+
 Set Req = Peedy.Speak("There is also the BonziBuddy Customizer, another project by Arthur Tube.")
 WaitFor Req
 Set Req = Bonzi.Play("Pleased")

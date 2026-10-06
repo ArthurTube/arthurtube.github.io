@@ -1,0 +1,169 @@
+[MASH Script]
+Version=7.5
+
+[Characters]
+Bonzi=Bonzi.acs
+Peedy=Peedy.acs
+Max=MaxALERT.acs
+Genie=Genie.acs
+Merlin=Merlin.acs
+
+[LanguageIDs]
+Bonzi=&H409
+Peedy=&H409
+Max=&H409
+Genie=&H409
+Merlin=&H409
+
+[Script]
+Bonzi.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Bonzi.MoveTo 100, 430
+Set Req = Bonzi.Show()
+WaitFor Req
+Peedy.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Peedy.MoveTo 320, 430
+Set Req = Peedy.Show()
+WaitFor Req
+Max.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273001}"
+Max.MoveTo 540, 430
+Set Req = Max.Show()
+WaitFor Req
+Genie.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273000}"
+Genie.MoveTo 760, 430
+Set Req = Genie.Show()
+WaitFor Req
+Merlin.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273002}"
+Merlin.MoveTo 980, 430
+Set Req = Merlin.Show()
+WaitFor Req
+Set Req = Bonzi.Play("Wave")
+WaitFor Req
+Set Req = Bonzi.Speak("Hi! Arthur Tube has updated his website!")
+WaitFor Req
+Set Req = Max.Play("Wave")
+WaitFor Req
+Set Req = Max.Speak("The website is at arthur tube dot github dot io.")
+WaitFor Req
+Set Req = Merlin.Play("Greet")
+WaitFor Req
+Set Req = Merlin.Speak("This time, we are taking a look at the new information on the site.")
+WaitFor Req
+Set Req = Peedy.Play("Greet")
+WaitFor Req
+Set Req = Peedy.Speak("His name on the page is now Arthur Tube, with a space.")
+WaitFor Req
+Set Req = Genie.Play("Announce")
+WaitFor Req
+Set Req = Genie.Speak("The video shelf includes his first website video.")
+WaitFor Req
+Set Req = Max.Play("Acknowledge")
+WaitFor Req
+Set Req = Max.Speak("You can open that video directly from the website.")
+WaitFor Req
+Set Req = Genie.Play("Suggest")
+WaitFor Req
+Set Req = Genie.Speak("There are also direct links to his CyberBuddy demonstration videos.")
+WaitFor Req
+Set Req = Peedy.Play("Suggest")
+WaitFor Req
+Set Req = Peedy.Speak("The CyberBuddy section explains the project and its release history.")
+WaitFor Req
+Set Req = Merlin.Play("Suggest")
+WaitFor Req
+Set Req = Merlin.Speak("Arthur Tube started CyberBuddy Classic Proxy on September twenty fifth, twenty twenty six.")
+WaitFor Req
+Set Req = Bonzi.Play("Pleased")
+WaitFor Req
+Set Req = Bonzi.Speak("It is an unofficial compatibility project for the original CyberBuddy client.")
+WaitFor Req
+Set Req = Genie.Play("GestureRight")
+WaitFor Req
+Set Req = Genie.Speak("The original CyberBuddy program is not included.")
+WaitFor Req
+Set Req = Max.Play("GestureRight")
+WaitFor Req
+Set Req = Max.Speak("The page explains the shared U I N directory and online presence.")
+WaitFor Req
+Set Req = Bonzi.Play("Suggest")
+WaitFor Req
+Set Req = Bonzi.Speak("A saved directory entry and being online are different things.")
+WaitFor Req
+Set Req = Peedy.Play("Acknowledge")
+WaitFor Req
+Set Req = Peedy.Speak("Self chat worked in Arthur's test using a local I P address. Longer messages worked, too. Sending by U I N did not work in that test.")
+WaitFor Req
+Set Req = Max.Speak("The next test is between two separate clients. Both should send a message and receive a reply.")
+WaitFor Req
+Set Req = Genie.Speak("Select Private, and use the other client's reachable I P address for the next test.")
+WaitFor Req
+Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
+WaitFor Req
+Set Req = Merlin.Speak("The website has a short testing tutorial. Chat is experimental, and the new fixes are in the updated test zip.")
+WaitFor Req
+
+Set Req = Merlin.Play("Acknowledge")
+WaitFor Req
+Set Req = Merlin.Speak("The download section now has clearer Windows compatibility information.")
+WaitFor Req
+Set Req = Bonzi.Play("Acknowledge")
+WaitFor Req
+Set Req = Bonzi.Speak("The current installer is intended for Windows ten and Windows eleven.")
+WaitFor Req
+Set Req = Genie.Play("Pleased")
+WaitFor Req
+Set Req = Bonzi.Speak("Arthur Tube added Fantasyland to his website!")
+WaitFor Req
+Set Req = Peedy.Speak("It is also known as YouTube Video Editor Remastered, a revival of the classic editor.")
+WaitFor Req
+Set Req = Max.Speak("The editor was created by jimmy edits fourteen. Arthur added a page to open it from his website.")
+WaitFor Req
+Set Req = Genie.Speak("Choose Fantasyland on the homepage to open the editor.")
+WaitFor Req
+Set Req = Merlin.Speak("If it does not appear inside the page, use the link to open the original editor.")
+WaitFor Req
+
+Set Req = Genie.Speak("You can also read about the BonziBuddy Customizer.")
+WaitFor Req
+Set Req = Merlin.Play("GestureRight")
+WaitFor Req
+Set Req = Merlin.Speak("It is Arthur Tube's Python tool for editing recognized BonziBuddy data layouts.")
+WaitFor Req
+Set Req = Peedy.Play("GestureRight")
+WaitFor Req
+Set Req = Peedy.Speak("The website has a memory match game, too.")
+WaitFor Req
+Set Req = Max.Play("Pleased")
+WaitFor Req
+Set Req = Max.Speak("You can try it when you feel like playing. We are just talking today!")
+WaitFor Req
+Set Req = Bonzi.Play("GestureRight")
+WaitFor Req
+Set Req = Bonzi.Speak("The about section tells you more about Arthur Tube and his interests.")
+WaitFor Req
+Set Req = Max.Play("GestureUp")
+WaitFor Req
+Set Req = Max.Speak("He is a Microsoft Agent fan from Brazil.")
+WaitFor Req
+Set Req = Genie.Play("Acknowledge")
+WaitFor Req
+Set Req = Genie.Speak("His projects also include a continuation of the old Unisys Weather website.")
+WaitFor Req
+Set Req = Peedy.Play("Pleased")
+WaitFor Req
+Set Req = Peedy.Speak("The site distinguishes archived weather pages from current forecasts.")
+WaitFor Req
+Set Req = Merlin.Play("Think")
+WaitFor Req
+Set Req = Merlin.Speak("Take a look around, and watch Arthur Tube's videos on his official YouTube channel!")
+WaitFor Req
+Set Req = Bonzi.Play("Think")
+WaitFor Req
+Set Req = Bonzi.Speak("Thanks for checking out the website update!")
+WaitFor Req
+
+[Commands]
+MenuName=MASH Menu
+ACO=Advanced Character Options|~|Advanced Character Options
+
+[CommandScript:ACO]
+AgentControl.PropertySheet.Visible = True
