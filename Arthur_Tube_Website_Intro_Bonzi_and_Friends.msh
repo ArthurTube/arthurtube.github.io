@@ -110,8 +110,17 @@ Set Req = Max.Speak("It also explains the shared directory and online presence."
 WaitFor Req
 Set Req = Merlin.Play("Think")
 WaitFor Req
-Set Req = Merlin.Speak("Chat is still under development. Reliable sending and receiving still need testing.")
+Set Req = Merlin.Speak("Self chat now works in Arthur's tests with the two thousand five and twenty twelve CyberBuddy versions. Longer messages worked, too.")
 WaitFor Req
+Set Req = Max.Speak("The next test is between two separate clients. Both should send a message and receive a reply.")
+WaitFor Req
+Set Req = Genie.Speak("Select Private, and use the other client's actual U I N or reachable I P address.")
+WaitFor Req
+Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
+WaitFor Req
+Set Req = Merlin.Speak("The website has a short testing tutorial. Chat is experimental, and the new fixes are in the updated test zip.")
+WaitFor Req
+
 Set Req = Bonzi.Play("Acknowledge")
 WaitFor Req
 Set Req = Bonzi.Speak("Then we shall have our conversation right here.")
