@@ -1,0 +1,37 @@
+name: Refresh CyberBuddy news
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: refresh-cyberbuddy-news
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh news from proxy source renderer
+        run: python scripts/update_news.py
+      - name: Commit changed page
+        id: commit
+        shell: bash
+        run: |
+          git add cyberbuddy/news.html
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh CyberBuddy headlines'
+          git push
+          echo 'changed=true' >> "$GITHUB_OUTPUT"
+      - name: Request GitHub Pages rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST repos/${{ github.repository }}/pages/builds

@@ -225,7 +225,21 @@
   },
   "http://thecyberbuddy.com/advanced/no.gif": {
     "path": "advanced/no.gif",
-    "error": "HTTP Error 404: Not Found"
+    "error": "HTTP Error 404: Not Found",
+    "retry_attempts": [
+      {
+        "url": "http://thecyberbuddy.com/advanced/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://thecyberbuddy.com/advanced/no.gif",
+        "error": "HTTP Error 502: Bad Gateway"
+      },
+      {
+        "url": "https://web.archive.org/web/20120830220108id_/http://thecyberbuddy.com/advanced/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
   },
   "http://thecyberbuddy.com/advanced/page11.html": {
     "path": "advanced/page11.html",
@@ -481,7 +495,21 @@
   },
   "http://thecyberbuddy.com/no.gif": {
     "path": "no.gif",
-    "error": "HTTP Error 404: Not Found"
+    "error": "HTTP Error 404: Not Found",
+    "retry_attempts": [
+      {
+        "url": "http://thecyberbuddy.com/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://thecyberbuddy.com/no.gif",
+        "error": "HTTP Error 502: Bad Gateway"
+      },
+      {
+        "url": "https://web.archive.org/web/20120830220108id_/http://thecyberbuddy.com/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
   },
   "http://thecyberbuddy.com/oscar.gif": {
     "path": "oscar.gif",
@@ -701,7 +729,21 @@
   },
   "http://thecyberbuddy.com/speechrecognition/no.gif": {
     "path": "speechrecognition/no.gif",
-    "error": "HTTP Error 404: Not Found"
+    "error": "HTTP Error 404: Not Found",
+    "retry_attempts": [
+      {
+        "url": "http://thecyberbuddy.com/speechrecognition/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://thecyberbuddy.com/speechrecognition/no.gif",
+        "error": "HTTP Error 502: Bad Gateway"
+      },
+      {
+        "url": "https://web.archive.org/web/20120830220108id_/http://thecyberbuddy.com/speechrecognition/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
   },
   "http://thecyberbuddy.com/speechrecognition/pix1p1.gif": {
     "path": "speechrecognition/pix1p1.gif",
@@ -809,7 +851,21 @@
   },
   "http://thecyberbuddy.com/characterbuilder/no.gif": {
     "path": "characterbuilder/no.gif",
-    "error": "HTTP Error 404: Not Found"
+    "error": "HTTP Error 404: Not Found",
+    "retry_attempts": [
+      {
+        "url": "http://thecyberbuddy.com/characterbuilder/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://thecyberbuddy.com/characterbuilder/no.gif",
+        "error": "HTTP Error 502: Bad Gateway"
+      },
+      {
+        "url": "https://web.archive.org/web/20120830220108id_/http://thecyberbuddy.com/characterbuilder/no.gif",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
   },
   "http://thecyberbuddy.com/characterbuilder/orderOnline.jpg": {
     "path": "characterbuilder/orderOnline.jpg",
