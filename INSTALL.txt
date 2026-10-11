@@ -1,0 +1,1 @@
+Replace these three files inside the weather folder of your repository. Keep other files and images. Commit and Push origin. Each search opens ONE location directly; no location picker. CEP identifies the municipality and state. City names default to Brazil; for a specific namesake use city, state or city, country. The displayed heading identifies the selected city.
