@@ -98,7 +98,7 @@ Set Req = Genie.Speak("Select Private, and use the other client's reachable I P 
 WaitFor Req
 Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
 WaitFor Req
-Set Req = Merlin.Speak("The website has a short testing tutorial. Chat is experimental, and the new fixes are in the updated test zip.")
+Set Req = Merlin.Speak("The website has a short testing tutorial. Chat remains experimental; messaging between separate networks is not confirmed.")
 WaitFor Req
 
 Set Req = Merlin.Play("Acknowledge")
@@ -156,6 +156,23 @@ Set Req = Merlin.Play("Think")
 WaitFor Req
 Set Req = Merlin.Speak("Take a look around, and watch Arthur Tube's videos on his official YouTube channel!")
 WaitFor Req
+Set Req = Bonzi.Speak("Arthur Tube added a CyberBuddy museum to his website!")
+WaitFor Req
+Set Req = Peedy.Speak("It uses downloaded pages and images from the original CyberBuddy website.")
+WaitFor Req
+Set Req = Max.Speak("The original CyberBuddy was developed by John M. DeFino. Arthur Tube is working on an unofficial continuation.")
+WaitFor Req
+Set Req = Genie.Speak("Open Museum and weather on the homepage to find all the new pages.")
+WaitFor Req
+Set Req = Merlin.Speak("The weather page uses the Classic Proxy layout. Current forecasts and historical archives are kept separate.")
+WaitFor Req
+Set Req = Peedy.Speak("There is a dated news snapshot, plus jokes and thoughts from the proxy.")
+WaitFor Req
+Set Req = Max.Speak("Email needs the local proxy running on your computer. The website does not run the email bridge.")
+WaitFor Req
+Set Req = Bonzi.Speak("And chat is still experimental. Visit the project pages to read the current status.")
+WaitFor Req
+
 Set Req = Bonzi.Play("Think")
 WaitFor Req
 Set Req = Bonzi.Speak("Thanks for checking out the website update!")
