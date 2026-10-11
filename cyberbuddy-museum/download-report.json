@@ -1,0 +1,990 @@
+{
+  "http://thecyberbuddy.com/": {
+    "path": "index.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/4cows.gif": {
+    "path": "4cows.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/5star.gif": {
+    "path": "5star.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/CBicon.gif": {
+    "path": "CBicon.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Contact.gif": {
+    "path": "Contact.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page11.html": {
+    "path": "Page11.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page13.html": {
+    "path": "Page13.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page14.html": {
+    "path": "Page14.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page15.html": {
+    "path": "Page15.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page17.html": {
+    "path": "Page17.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page18.html": {
+    "path": "Page18.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page2.html": {
+    "path": "Page2.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page25.html": {
+    "path": "Page25.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page3.html": {
+    "path": "Page3.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page35.html": {
+    "path": "Page35.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page36.html": {
+    "path": "Page36.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page43.html": {
+    "path": "Page43.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page5.html": {
+    "path": "Page5.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page51.html": {
+    "path": "Page51.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page57.html": {
+    "path": "Page57.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page61.html": {
+    "path": "Page61.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page7.html": {
+    "path": "Page7.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page8.html": {
+    "path": "Page8.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page9.html": {
+    "path": "Page9.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/Page11.html": {
+    "path": "advanced/Page11.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back1.gif": {
+    "path": "back1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/buddies.html": {
+    "path": "buddies.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/index.html": {
+    "path": "characterbuilder/index.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/cobanner4.gif": {
+    "path": "cobanner4.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help10.html": {
+    "path": "help/help10.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/nonags6.gif": {
+    "path": "nonags6.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/page40.html": {
+    "path": "page40.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix0p1.jpg": {
+    "path": "pix0p1.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p1.jpg": {
+    "path": "pix1p1.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p1.gif": {
+    "path": "pix5p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p3.gif": {
+    "path": "pix5p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p1.gif": {
+    "path": "pix6p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix8p1.gif": {
+    "path": "pix8p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/software_informer_award.gif": {
+    "path": "software_informer_award.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/Page6.html": {
+    "path": "speechrecognition/Page6.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/index.html": {
+    "path": "speechrecognition/index.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tucows1.gif": {
+    "path": "tucows1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/zdsmall.gif": {
+    "path": "zdsmall.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/CBIconTrans.gif": {
+    "path": "CBIconTrans.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Jenni_promo.gif": {
+    "path": "Jenni_promo.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/PIX1P14.gif": {
+    "path": "PIX1P14.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page12.html": {
+    "path": "Page12.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page16.html": {
+    "path": "Page16.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page4.html": {
+    "path": "Page4.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page40.html": {
+    "path": "Page40.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page45.html": {
+    "path": "Page45.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page56.html": {
+    "path": "Page56.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/Page60.html": {
+    "path": "Page60.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/Page13.html": {
+    "path": "advanced/Page13.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/Page9.html": {
+    "path": "advanced/Page9.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/back11.gif": {
+    "path": "advanced/back11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/no.gif": {
+    "path": "advanced/no.gif",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "http://thecyberbuddy.com/advanced/page11.html": {
+    "path": "advanced/page11.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/page2.html": {
+    "path": "advanced/page2.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/pix1p11.jpg": {
+    "path": "advanced/pix1p11.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/pix2p11.gif": {
+    "path": "advanced/pix2p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/pix3p11.gif": {
+    "path": "advanced/pix3p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back13.gif": {
+    "path": "back13.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back17.gif": {
+    "path": "back17.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back18.gif": {
+    "path": "back18.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back2.jpg": {
+    "path": "back2.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back25.gif": {
+    "path": "back25.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back3.gif": {
+    "path": "back3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back35.gif": {
+    "path": "back35.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back36.gif": {
+    "path": "back36.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back40.gif": {
+    "path": "back40.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back43.gif": {
+    "path": "back43.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back5.gif": {
+    "path": "back5.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back51.gif": {
+    "path": "back51.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back57.gif": {
+    "path": "back57.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back7.gif": {
+    "path": "back7.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back8.gif": {
+    "path": "back8.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back9.gif": {
+    "path": "back9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/catcountry.html": {
+    "path": "catcountry.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/Page2.html": {
+    "path": "characterbuilder/Page2.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/Page6.html": {
+    "path": "characterbuilder/Page6.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/back1.gif": {
+    "path": "characterbuilder/back1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/page2.html": {
+    "path": "characterbuilder/page2.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/page3.html": {
+    "path": "characterbuilder/page3.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/page4.html": {
+    "path": "characterbuilder/page4.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix0p1.jpg": {
+    "path": "characterbuilder/pix0p1.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix1p1.jpg": {
+    "path": "characterbuilder/pix1p1.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix2p1.gif": {
+    "path": "characterbuilder/pix2p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix3p1.gif": {
+    "path": "characterbuilder/pix3p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix4p1.gif": {
+    "path": "characterbuilder/pix4p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix5p1.gif": {
+    "path": "characterbuilder/pix5p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix6p1.gif": {
+    "path": "characterbuilder/pix6p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix7p1.gif": {
+    "path": "characterbuilder/pix7p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix8p1.gif": {
+    "path": "characterbuilder/pix8p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/claude.gif": {
+    "path": "claude.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/cyberbuddyicon.gif": {
+    "path": "cyberbuddyicon.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/emailimage.gif": {
+    "path": "emailimage.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/LogoButtonSmall.png": {
+    "path": "help/LogoButtonSmall.png",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help100.html": {
+    "path": "help/help100.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help110.html": {
+    "path": "help/help110.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help130.html": {
+    "path": "help/help130.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help150.html": {
+    "path": "help/help150.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help200.html": {
+    "path": "help/help200.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help260.html": {
+    "path": "help/help260.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help270.html": {
+    "path": "help/help270.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help280.html": {
+    "path": "help/help280.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help30.html": {
+    "path": "help/help30.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help330.html": {
+    "path": "help/help330.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help360.html": {
+    "path": "help/help360.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help40.html": {
+    "path": "help/help40.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help430.html": {
+    "path": "help/help430.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help50.html": {
+    "path": "help/help50.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help500.html": {
+    "path": "help/help500.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help520.html": {
+    "path": "help/help520.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help60.html": {
+    "path": "help/help60.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help70.html": {
+    "path": "help/help70.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help80.html": {
+    "path": "help/help80.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/help90.html": {
+    "path": "help/help90.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/james.gif": {
+    "path": "james.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/milton.gif": {
+    "path": "milton.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/no.gif": {
+    "path": "no.gif",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "http://thecyberbuddy.com/oscar.gif": {
+    "path": "oscar.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/page11.html": {
+    "path": "page11.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/page60.html": {
+    "path": "page60.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/page9.html": {
+    "path": "page9.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix0p43.gif": {
+    "path": "pix0p43.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix0p5.jpg": {
+    "path": "pix0p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix0p57.jpg": {
+    "path": "pix0p57.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p15.jpg": {
+    "path": "pix1p15.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p17.jpg": {
+    "path": "pix1p17.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p25.jpg": {
+    "path": "pix1p25.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p3.gif": {
+    "path": "pix1p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p35.jpg": {
+    "path": "pix1p35.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p36.jpg": {
+    "path": "pix1p36.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p43.gif": {
+    "path": "pix1p43.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p5.jpg": {
+    "path": "pix1p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p51.gif": {
+    "path": "pix1p51.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p57.jpg": {
+    "path": "pix1p57.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p7.gif": {
+    "path": "pix1p7.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p8.gif": {
+    "path": "pix1p8.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p17.gif": {
+    "path": "pix2p17.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p36.gif": {
+    "path": "pix2p36.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p43.gif": {
+    "path": "pix2p43.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p5.jpg": {
+    "path": "pix2p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p8.gif": {
+    "path": "pix2p8.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p9.gif": {
+    "path": "pix2p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p11.gif": {
+    "path": "pix3p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p3.gif": {
+    "path": "pix3p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p5.jpg": {
+    "path": "pix3p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p8.gif": {
+    "path": "pix3p8.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p9.gif": {
+    "path": "pix3p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p11.jpg": {
+    "path": "pix4p11.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p5.jpg": {
+    "path": "pix4p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p9.gif": {
+    "path": "pix4p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p11.gif": {
+    "path": "pix5p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p2.jpg": {
+    "path": "pix5p2.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p5.jpg": {
+    "path": "pix5p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p9.gif": {
+    "path": "pix5p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p2.gif": {
+    "path": "pix6p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p5.jpg": {
+    "path": "pix6p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p9.gif": {
+    "path": "pix6p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix7p11.gif": {
+    "path": "pix7p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix7p2.gif": {
+    "path": "pix7p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix7p5.jpg": {
+    "path": "pix7p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix7p9.gif": {
+    "path": "pix7p9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix8p45.gif": {
+    "path": "pix8p45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix8p5.jpg": {
+    "path": "pix8p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix9p45.gif": {
+    "path": "pix9p45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix9p5.jpg": {
+    "path": "pix9p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/CBIconTrans.gif": {
+    "path": "speechrecognition/CBIconTrans.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/Page11.html": {
+    "path": "speechrecognition/Page11.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/Page4.html": {
+    "path": "speechrecognition/Page4.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/Page7.html": {
+    "path": "speechrecognition/Page7.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/Page9.html": {
+    "path": "speechrecognition/Page9.html",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/back1.gif": {
+    "path": "speechrecognition/back1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/no.gif": {
+    "path": "speechrecognition/no.gif",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix1p1.gif": {
+    "path": "speechrecognition/pix1p1.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix1p6.jpg": {
+    "path": "speechrecognition/pix1p6.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix2p6.gif": {
+    "path": "speechrecognition/pix2p6.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix0p5.jpg": {
+    "path": "tpix0p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix1p5.jpg": {
+    "path": "tpix1p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix2p5.jpg": {
+    "path": "tpix2p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix3p5.jpg": {
+    "path": "tpix3p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix4p5.jpg": {
+    "path": "tpix4p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix5p5.jpg": {
+    "path": "tpix5p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix6p5.jpg": {
+    "path": "tpix6p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix7p5.jpg": {
+    "path": "tpix7p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix8p5.jpg": {
+    "path": "tpix8p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/tpix9p5.jpg": {
+    "path": "tpix9p5.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/CBIconTrans.gif": {
+    "path": "advanced/CBIconTrans.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/ScriptorderOnline.gif": {
+    "path": "advanced/ScriptorderOnline.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/Scriptorderbyck.gif": {
+    "path": "advanced/Scriptorderbyck.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/pix1p2.gif": {
+    "path": "advanced/pix1p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/advanced/pix2p13.jpg": {
+    "path": "advanced/pix2p13.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back12.gif": {
+    "path": "back12.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back4.gif": {
+    "path": "back4.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back45.gif": {
+    "path": "back45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/back56.gif": {
+    "path": "back56.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/cdromorderbtn4.gif": {
+    "path": "cdromorderbtn4.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/cdromorderbtn5.gif": {
+    "path": "cdromorderbtn5.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/OrderCheck.jpg": {
+    "path": "characterbuilder/OrderCheck.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/back2.gif": {
+    "path": "characterbuilder/back2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/no.gif": {
+    "path": "characterbuilder/no.gif",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "http://thecyberbuddy.com/characterbuilder/orderOnline.jpg": {
+    "path": "characterbuilder/orderOnline.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix0p2.gif": {
+    "path": "characterbuilder/pix0p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix0p3.gif": {
+    "path": "characterbuilder/pix0p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix1p2.gif": {
+    "path": "characterbuilder/pix1p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix1p3.gif": {
+    "path": "characterbuilder/pix1p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix1p6.gif": {
+    "path": "characterbuilder/pix1p6.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix2p2.gif": {
+    "path": "characterbuilder/pix2p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix2p3.gif": {
+    "path": "characterbuilder/pix2p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix3p2.gif": {
+    "path": "characterbuilder/pix3p2.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix3p3.gif": {
+    "path": "characterbuilder/pix3p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix4p3.gif": {
+    "path": "characterbuilder/pix4p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix5p3.gif": {
+    "path": "characterbuilder/pix5p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/characterbuilder/pix6p3.gif": {
+    "path": "characterbuilder/pix6p3.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/getfree.jpg": {
+    "path": "getfree.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/CBIcons.png": {
+    "path": "help/CBIcons.png",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/CamBtn.png": {
+    "path": "help/CamBtn.png",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/OnlineIcons.png": {
+    "path": "help/OnlineIcons.png",
+    "error": null
+  },
+  "http://thecyberbuddy.com/help/PeedyListen2.png": {
+    "path": "help/PeedyListen2.png",
+    "error": null
+  },
+  "http://thecyberbuddy.com/orderprembtn.gif": {
+    "path": "orderprembtn.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix0p45.gif": {
+    "path": "pix0p45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p12.gif": {
+    "path": "pix1p12.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p16.jpg": {
+    "path": "pix1p16.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p45.jpg": {
+    "path": "pix1p45.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p56.gif": {
+    "path": "pix1p56.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix1p60.jpg": {
+    "path": "pix1p60.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p12.gif": {
+    "path": "pix2p12.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p40.jpg": {
+    "path": "pix2p40.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix2p45.jpg": {
+    "path": "pix2p45.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p40.gif": {
+    "path": "pix3p40.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix3p45.jpg": {
+    "path": "pix3p45.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p2.jpg": {
+    "path": "pix4p2.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p40.gif": {
+    "path": "pix4p40.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix4p45.jpg": {
+    "path": "pix4p45.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix5p45.gif": {
+    "path": "pix5p45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p40.gif": {
+    "path": "pix6p40.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/pix6p45.gif": {
+    "path": "pix6p45.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/rprod_on.gif": {
+    "path": "rprod_on.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/back11.gif": {
+    "path": "speechrecognition/back11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/back4.gif": {
+    "path": "speechrecognition/back4.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/back7.gif": {
+    "path": "speechrecognition/back7.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/back9.gif": {
+    "path": "speechrecognition/back9.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix1p11.gif": {
+    "path": "speechrecognition/pix1p11.gif",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix1p9.jpg": {
+    "path": "speechrecognition/pix1p9.jpg",
+    "error": null
+  },
+  "http://thecyberbuddy.com/speechrecognition/pix2p9.gif": {
+    "path": "speechrecognition/pix2p9.gif",
+    "error": null
+  }
+}

@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Unisys Weather </title>
+<meta name="description" content="The intent of this weather site is to provide a complete source of graphical weather 		information. This is intended to satisfy the needs of the weather professional, but can be a tool for the casual user as well. The graphics and data are displayed as a meteorologist would expect to see. For the novice user, there are detailed explanation pages to guide them through the various plots, charts and images. The data on this site are provided from the National Weather Service via the NOAAPORT satellite data service. All the images are generated using the Weather Processor (WXP) analysis package which is available from Unisys. "/>
+<meta name="keywords" content="weather, unisys, unisys weather, weather maps, maps, nam, wrf, GFS, GFSx, hurricane, radar, satellite, surface, upper air" />
+<meta name="copyright" content="Unisys Corp - 2011" />
+<meta name="author" content="Unisys Corporation" />
+<meta name="email" content="technical-support@weather.unisys.com" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="Revisit-after" content="7 Days" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<link rel="stylesheet" type="text/css" href="../css/WMAX.css" />
+</head>
+<body><div style="background:#fff6d8;color:#302139;padding:12px;border:2px solid #75538b;font:14px Arial"><strong>Arthur Tube — historical Unisys Weather archive (2013).</strong> Archived maps and observations are not current. <a href="../forecast.html">Current forecasts</a> · <a href="/cyberbuddy/">Classic Proxy</a> · <a href="/cyberbuddy-continuation/">Continuation</a> · <a href="/">Arthur Tube home</a></div>
+<div id="wrap">
+  <div id="top-menu">
+    <ul id="top-navigation" class="inline-navigation-list">
+      <li><a href="http://www.unisys.com" title="Unisys Home Page">Unisys.com</a></li>
+      <li><a href="../index.html" title="Unisys Weather">Weather Home</a></li>
+      <li><a href="../analyses.html" title="Analyses">Analyses</a></li>
+      <li><a href="../forehome.html" title="Forecast">Forecasts</a></li>
+      <li><a href="../archives.html" title="Archives">Archives</a></li>
+      <li><a href="../links.html" title="NOAA Links">NOAA Links</a></li>
+      <li><a href="../contactus.html" title="Contact Us">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <div id="header"> <a href="http://unisys.com"><img src="../images/Unisys_logo.gif" alt="Unisys" /></a>
+    <h1>Unisys Weather</h1>
+  </div>
+
+<div id="leftside">
+  <ul class="avmenu">
+    <li><a href="../index.html" class="purple">Unisys Weather</a></li>
+    <li><a href="../index.html"> Weather Home</a></li>
+    <li><a href="../solutions/index.html">Weather Solutions</a></li>
+    <li><a href="../mobile/index.html"><img id="mobile_icon" src="../mobile/Icon.png" width="24" height="24" alt="Download Unisys Weather Mobile App"/>iPhone App</a></li>
+    <li><a href="../info/index.html">Information</a></li>
+    <li><a href="../content.html">Contents</a></li>
+    <li><a href="../analyses.html" class="purple">Analyses</a></li>
+    <li><a href="../satellite/index.html">Satellite Images</a></li>
+    <li><a href="../surface/index.html">Surface Data</a></li>
+    <li><a href="index.html">Upper Air Data</a></li>
+    <li><a href="../radar/index.html">Radar Data</a></li>
+    <li><a href="../forehome.html" class="purple">Forecasts</a></li>
+    <li><a href="../mos/index.html">Model Statistics</a></li>
+    <li><a href="../nam/index.html">NAM/Wrf Model</a></li>
+    <li><a href="../gfs/index.html?r=us">GFS/Avn Model</a></li>
+    <li><a href="../gfsx/index.html?r=us">GFSx/MRF Model</a></li>
+    <li><a href="../rap/index.html">RAP Model</a></li>
+    <li><a href="../ecmwf/index.html">ECMWF Model</a></li>
+    <li><a href="../archives.html" class="purple">Archive</a></li>
+    <li><a href="../hurricane/index.html">Hurricane Data</a></li>
+    <li><a href="../archive/index.html">Archive of Images</a></li>
+    <li><a href="../usgs/index.html">USGS Maps</a></li>
+  </ul>
+</div>
+
+<div id="extras">
+  <ul class="avmenu">
+    <li><a href="../foresetup.html" class="purple">Get a Forecast</a></li>
+  </ul>
+
+
+
+  <form method="get" id="Forecast" action="../forecast.html">
+    <p class="center"> Enter a zip code or city name to get forecast:
+      <input type="text" name="Name" id="Name" size="15" />
+      <br />
+      <button type="submit" style="border:none; background-color:transparent;">
+         <img src="../images/GO.png" id="Go" alt="Get Forecast Data" style="height:30px;" />
+      </button>
+      <a href="../foresetup.html"><img src="../images/setup.png" alt="Setup Location" height="30" width="70" /></a> </p>
+  </form>
+  
+  <ul class="avmenu">
+    <li><a href="../links.html" class="purple">NOAA Links</a></li>
+    <li><a href="http://lwf.ncdc.noaa.gov/">National Climatic Data Center</a></li>
+    <li><a href="http://www.cpc.noaa.gov/">Climate Prediction Center</a></li>
+    <li><a href="http://oceanservice.noaa.gov/">National Ocean Service</a></li>
+    <li><a href="http://www.lib.noaa.gov/">NOAA Library</a></li>
+    <li><a href="http://www.oar.noaa.gov/">NOAA Office of Oceanic and Atmospheric Research</a></li>
+    <li><a href="http://www.esrl.noaa.gov/">Earth Systems Research Laboratory</a></li>
+    <li><a href="../overview.html" class="purple">About Us</a></li>
+    <li><a href="../overview.html" title="Contact Us">Overview</a></li>
+    <li><a href="../contactus.html" title="Contact Us">Contact Us</a></li>
+  </ul>
+</div>
+<div id="content">
+<h3>Upper Air Data Details</h3>
+
+<p>Upper air data is taken from balloons which measure upper 
+air conditions over a particular location. The plots of data include plots 
+on common mandatory and height levels, contours of various upper air 
+parameters and a set of sounding plots for all US sites. These data update 
+once every 12 hours at around 9:45 EST. </p>
+
+<p>Meteorology uses pressure as the vertical coordinate and 
+not height. This works out better for thermodynamic computations that are 
+done on a regular basis. Pressure decreases in the atmosphere exponentially 
+as height increases reaching 0 pressure in space. The standard unit of 
+pressure is millibars (mb or hectopascals-hPa) of which sea level is around 
+1015 mb. Standard pressure levels and approximate heights: </p>
+
+<table border="1">
+  <tr>
+    <td class="right"><b>Pressure</b></td>
+    <td class="right" colspan="2"><b>Approximate Height</b></td>
+    <td class="right" colspan="2"><b>Approximate Temp</b></td>
+  </tr>
+  <tr>
+    <td class="right"><b>Sea level</b></td>
+    <td class="right">0 m</td>
+    <td class="right">0 ft</td>
+    <td class="right">15 C</td>
+    <td class="right">59 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>1000 mb</b></td>
+    <td class="right">100 m</td>
+    <td class="right">300 ft</td>
+    <td class="right">15 C</td>
+    <td class="right">59 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>850 mb</b></td>
+    <td class="right">1500 m</td>
+    <td class="right">5000 ft</td>
+    <td class="right">5 C</td>
+    <td class="right">41 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>700 mb</b></td>
+    <td class="right">3000 m</td>
+    <td class="right">10000 ft</td>
+    <td class="right">-5 C</td>
+    <td class="right">23 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>500 mb</b></td>
+    <td class="right">5000 m</td>
+    <td class="right">18000 ft</td>
+    <td class="right">-20 C</td>
+    <td class="right">-4 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>300 mb</b></td>
+    <td class="right">9000 m</td>
+    <td class="right">30000 ft</td>
+    <td class="right">-45 C</td>
+    <td class="right">-49 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>200 mb</b></td>
+    <td class="right">12000 m</td>
+    <td class="right">40000 ft</td>
+    <td class="right">-55 C</td>
+    <td class="right">-67 F</td>
+  </tr>
+  <tr>
+    <td class="right"><b>100 mb</b></td>
+    <td class="right">16000 m</td>
+    <td class="right">53000 ft</td>
+    <td class="right">-56 C</td>
+    <td class="right">-69 F</td>
+  </tr>
+</table>
+
+<hr />
+<a name="mand"></a><h3>Mandatory Level Plots</h3>
+
+<p><img src="images/ua_300_sample.gif" alt="Sample 300 mb plot" height="240" width="300" /><br /><i>Sample 300 mb plot</i></p>
+
+<p>
+<b>850 mb Map</b><br />
+<b>700 mb Map</b><br />
+<b>500 mb Map</b><br />
+This is a composite upper air plot for the 850, 700, and 500 mb level. The 
+plot contains a individual station reports for that level along with contours 
+of height (bold light gray lines) every 30 meters (60 at 500 mb) and 
+temperature (yellow dashed lines) every 5 degrees Celsius.</p>
+
+<p><img src="images/ua_500_sample.gif" alt="Sample 500 mb plot" height="240" width="300" /><br /><i>Sample 500 mb plot</i></p>
+
+<p><b>300 mb Map</b><br />
+<b>200 mb Map</b><br />
+This is a composite upper air plot for the 300 and 200 mb level. The plot 
+contains a individual station reports for that level along with contours 
+of height (bold light gray lines) every 120 meters and wind speed (blue 
+dashed lines) every 20 knots at 10,30,50,70,... knots. Wind speed areas 
+between 70 and 110 knots are shaded in stippled dark blue. Wind areas 
+between 110 and 150 knots are shaded in solid blue. Winds greater than 
+150 knots are once again shaded in stippled dark blue.</p>
+
+<a name="upper_air"></a><h3>Upper Air Data Plot</h3>
+
+<p>The upper air data plot gives the following information:</p>
+
+<p><img src="images/ua_plot_lgnd.gif" alt="UA_Plot_Lgnd" height="68" width="358" /></p>
+<table border="1">
+  <tr>
+    <td ><b>Data</b></td>
+    <td ><b>Description</b></td>
+  </tr>
+  <tr>
+    <td >temperature (C)</td>
+    <td >upper left</td>
+  </tr>
+  <tr>
+    <td >dewpoint (C)</td>
+    <td >lower left</td>
+  </tr>
+  <tr>
+    <td >height (m)</td>
+    <td >upper right and coded<br />
+    850 mb - last 3 digits - 543 = 1543m<br />
+    700 mb - last 3 digits - 972 = 2972m, 013 = 3013m<br />
+    500 mb - first 3 digits - 543 = 5430m<br />
+    300 mb - first 3 digits - 912 = 9120m<br />
+    200 mb - middle 3 digits - 102 = 11020m</td>
+  </tr>
+  <tr>
+    <td >winds</td>
+    <td >wind barb (see below)</td>
+  </tr>
+</table>
+<img src="../images/winds_lgnd.gif" height="255" width="148" alt="Winds Legend" />
+
+<hr />
+<a name="height"></a><h3>Constant Height Plots</h3>
+
+<p><img src="images/ua_24000_sample.gif" alt="Sample 24,000 ft plot sample" height="240" width="300" /><br /><i>Sample 24,000 ft plot</i></p>
+
+<p><b>3000 ft Plot</b><br />
+<b>6000 ft Plot</b><br />
+<b>9000 ft Plot</b><br />
+<b>12000 ft Plot</b><br />
+<b>18000 ft Plot<br />
+24000 ft Plot<br />
+30000 ft Plot<br />
+36000 ft Plot</b><br />
+This is a set of upper air charts for various flight levels primarily for 
+aviation concerns. The plots include plotted data, temperatures are contoured 
+in yellow, and wind speeds are contoured in blue. Increasing speeds are 
+highlighted in varying shades of blue.  The lowest speeds are not shaded. 
+Above a certain level, the winds are shaded in alternating dark blue stippled 
+and solid blue on 20 knot levels. The lowest level of shading is 30 knots 
+for 3, 6, 9 and 12 thousand feet. It is 50 knots at 18 and 24 thousand
+feet and 70 knots at 30 and 36 thousand feet. The data plotted include: </p>
+
+<table border="1">
+  <tr>
+    <td class="fifty"><b>Data</b></td>
+    <td class="fifty"><b>Description</b></td>
+  </tr>
+  <tr>
+    <td class="fifty">temperature (C)</td>
+    <td class="fifty">upper left</td>
+  </tr>
+  <tr>
+    <td class="fifty">dewpoint (C)</td>
+    <td class="fifty">lower left</td>
+  </tr>
+  <tr>
+    <td class="fifty">pressure (mb)</td>
+    <td class="fifty">upper right</td>
+  </tr>
+  <tr>
+    <td class="fifty">winds</td>
+    <td class="fifty">wind barb (see above)</td>
+  </tr>
+</table>
+
+<hr />
+<a name="hemispheric"></a><h3>Hemispheric Plots</h3>
+
+<p><b>Northern Hemisphere 500 mb Plot</b><br />
+<b>Southern Hemisphere 500 mb Plot</b><br />
+
+<img src="images/ua_nhem_500p_sample.gif" alt="Sample 500 mb plot" height="180" width="240" /><br /><i>Sample 500 mb plot</i></p>
+
+<p>These two maps are composite 500 mb height and sea level 
+pressure maps for the entire northern and southern hemisphere. The color 
+contours are the 500 mb height field which shows middle level air flow 
+around the mid-latitudes. Air follows the contours and the tighter the 
+packing, the faster the flow. Where air is moving from north to south,
+temperatures are generally below normal. Where air is moving south to north, 
+temperatures are generally above normal. The sea level pressure field is 
+plotted in black lines. High and low pressure systems can be determined 
+from the locations of Hs and Ls on the plot.  Low pressure systems usually 
+have some kind of precipitation associated with them whether it be rain or 
+snow. </p>
+
+<p><b>Northern Hemisphere 850 mb Plot</b><br />
+<img src="images/ua_nhem_850_sample.gif" alt="Sample 850 mb plot" height="180" width="240" /><br /><i>Sample 850 mb plot</i></p>
+
+<p>This plot is comprised of 850 mb temperatures and 850 mb 
+heights. The color contours are 850 temperatures in C with an interval of 2C. 
+These are the temperatures at roughly the 5000 ft level and can be used to 
+determine maximum temperatures. <br />
+<img src="../model/images/850_lgnd.gif" alt="850_Lgnd" height="20" width="254" /><br />
+The line contours are 850 mb heights at an interval of 60m. This shows the 
+location of high and low pressure systems at the 5000 ft level and the 
+contours can be used to describe the flow at that level.</p>
+
+<p><b>Northern Hemisphere 300 mb Plot</b><br />
+<img src="images/ua_nhem_300_sample.gif" alt="Sample 300 mb plot" height="180" width="240" /><br /><i>Sample 300 mb plot</i></p>
+
+<p>This plot is comprised of 300 mb wind speeds and 300 mb 
+heights. The color contours are 300 mb wind speeds. The maximum speeds at 
+this level denote the location of jet streams and/or cores. A jet core is 
+a discontinuous area of bold winds often greater than 100 knots.<br />
+<img src="../model/images/300_lgnd.gif" alt="300_Lgnd" height="21" width="257" /><br />
+The line contours are 300 mb heights contoured at 120m. This shows the 
+direction of winds at this level.</p>
+
+<hr />
+<a name="contour"></a><h3>Contour Plots</h3>
+
+<p>
+<a name="500h"><b>500 mb Height Contour</b></a><br />
+This is a contour plot of 500 mb height in meters with a interval of 60 
+meters. The 500 mb level is often referred to as the steering level as most 
+weather systems and precipitation follow the winds at this level. The winds 
+follow the height contours and generally run from 30 to 100 knots. The speeds 
+can be roughly estimated from the 300 mb winds as roughly 2/3rds their 
+magnitude. This level averages around 18,000 feet above sea level and is
+roughly half-way up through the weather producing part of the atmosphere 
+called the troposphere.</p>
+
+<p>
+<a name="850t"><b>850 mb Temperature Contour</b></a><br />
+This a contour plot of temperature in Celsius at the 850 mb level. The 
+interval is 5 degrees. The temperature field shows where warm and cold air 
+are located. Temperatures at this level do not show the diurnal temperature 
+changes from morning low to afternoon high we see at the earth's surface. 
+The 850 temperature is also a decent indicator of the type of precipitation. 
+Since most precipitation forms at 5000 feet or above, a temperature of 
+freezing (0 Celsius) or below would indicate snow whereas a temperature 
+above freezing would indicate rain.</p>
+
+<p>
+<a name="thick"><b>1000-500 mb Thickness Contour</b></a><br />
+This is contour plot of thickness in meters with an interval of 60 meters. 
+Thickness is a measure of mean temperature in a layer of the atmosphere and 
+ranges from 4900m in cold wintertime atmospheres to 5900m in warm summertime 
+atmospheres. The 5400 meter line is often used as an indicator of the 
+rain-snow line.</p>
+
+<p>
+<a name="300w"><b>300 mb Wind Speeds</b></a><br />
+This is a contour plot of 300 mb wind speeds in knots. The contour interval 
+is 10 knots.  This level is referred to as the jet stream level. Areas of 
+bold winds at this level (winds > 100 knots or 115 mph), commonly referred 
+to as jets, indicate areas of high atmospheric energy. These are created by 
+bold temperature contrasts in the lower and middle tropopause and reflect 
+areas of potential storm development. A bold jet (winds &gt;130 knots) can 
+indicate the potential for the development of a bold low pressure system 
+especially when if moves over the Rocky mountains and into the Plains states. 
+A bold jet hitting the west coast can indicate the existence of a bold 
+precipitation producing system.</p>
+
+<p>
+<a name="300v"><b>300 mb Wind Streamlines</b></a><br />
+<img src="images/ua_vect_300_sample.gif" alt="UA_Vect_300_Sample" height="180" width="240" /><br />
+This is a streamline plot of 300 mb winds. The lines follow the direction of 
+the wind. Small arrows denote actual direction. The streamlines are colored 
+based on their speed.<br />
+<img src="images/ua_vect_300_lgnd.gif" alt="UA_Vect_300_Lgnd" height="22" width="304" /></p>
+
+<p>
+<a name="water"><b>Precipitable Water Contour</b></a><br />
+This is a contour plot of precipitable water in inches. The contour interval 
+is .2 inches.  Precipitatable water reflects the amount of water contained 
+in a vertical column above the surface if it were all precipitated out. This 
+is a good indicator of how much rain or snow might fall as a result of a 
+thunderstorm or low pressure system.</p>
+
+<p>
+<a name="lift"><b>Lifted Index Stability Contour</b></a><br />
+This is a contour plot of lifted index with a contour interval of 2 degrees 
+Celsius. The LI field shows instability in the atmosphere by lifting a parcel 
+of air from the surface to 500 mb and comparing its temperature to that of 
+the environment. Where LIs are less than 0, thunderstorms are possible. The 
+lower the number, the more unstable the atmosphere is and as a result, the 
+bold the thunderstorms could become. Values of -4 or lower indicate areas 
+where severe thunderstorms are possible. Values &gt;10 indicate areas of
+stable weather where skies are generally clear.</p>
+
+<p>
+<a name="tt"><b>Total Totals Index Stability Contour</b></a><br />
+This is a contour plot of total totals index with a contour interval of 2. 
+The TT field shows instability in the atmosphere based on the lapse rate 
+from 850 to 500 mb plus dewpoint at 850 mb. Where TTs are greater than 45, 
+thunderstorms are possible. The higher the number, the more unstable the 
+atmosphere is and as a result, the bold the thunderstorms could become. 
+Values of 52 or higher indicate areas where severe thunderstorms are 
+possible. Values &lt;40 indicate areas of stable weather where skies
+are generally clear.</p>
+
+<p>
+<a name="ki"><b>K Index Stability Contour</b></a><br />
+This is a contour plot of K index with a contour interval of 4. The KI field 
+shows instability in the atmosphere as it relates to the development of air 
+mass thunderstorms.  It is based on the 850 to 500 mb lapse rate plus 850 mb 
+dewpoint minus the 700 mb dewpoint depression. Strong Springtime thunderstorms 
+often require dry air at mid levels to cap the convection. On the other hand, 
+summer air mass thunderstorms need a very moist atmosphere at mid levels to 
+prevent evaporation through entrainment. Where KIs are greater than 35, air 
+mass thunderstorms are likely. the higher the number, the higher the 
+probability. Values &lt;10 indicate areas of stable weather where skies 
+are generally clear.</p>
+
+<p>
+<a name="cape"><b>CAPE Contour</b></a><br />
+This is a contour plot of CAPE or Convective Available Potential Energy. CAPE 
+represents the amount of energy a parcel might have if it were lifted. Often 
+this reflects the strength of updrafts within a thunderstorm. CAPE values of 
+greater than 2000 represent enough energy to produce thunderstorms. A value 
+greater than 3000 represents enough energy to produce bold thunderstorms. 
+Values &lt;1000 denote a reletively stable atmosphere.</p>
+
+<p>
+<a name="hel"><b>Helicity Contour</b></a><br />
+This is a contour plot of helicity which is the amount of storm relative 
+rotation/shear in the atmosphere. Helicity is used to indicate where 
+rotation/shear is high enough to allow thunderstorms to organize into 
+severe or supercell storms. In the lack of helicity, storms develop 
+vertically and the precipitation will snuff out the updraft killing the
+thunderstorm. Severe storms need helicity to maintain an organized structure 
+allowing the storm to develop to severe limits. A value of 400-500 is often 
+needed to produce severe storms. Often this is used in conjunction with 
+CAPE to determine severe storm location.</p>
+
+<div class="clearboth">&nbsp;</div>
+
+</div>
+
+<div id="footer"> <span id="copyright"><small>Copyright &copy; Unisys 2012</small></span>
+  <ul class="inline-navigation-list" id="bottom-navigation">
+    <li><a href="http://www.unisys.com/unisys/privacy.html" target="_blank">Privacy Notice</a></li>
+    <li><a href="http://www.unisys.com/unisys/terms-and-conditions.html" target="_blank">Terms of Use</a></li>
+    <li><a href="../contactus.html">Contact Us</a></li>
+    <li><a href="http://www.unisys.com/unisys/trademarks.html" target="_blank">Trademarks</a></li>
+  </ul>
+</div>
+</div>
+</body>
+</html>

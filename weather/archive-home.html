@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Unisys Weather </title>
+<meta name="description" content="The intent of this weather site is to provide a complete source of graphical weather 		information. This is intended to satisfy the needs of the weather professional, but can be a tool for the casual user as well. The graphics and data are displayed as a meteorologist would expect to see. For the novice user, there are detailed explanation pages to guide them through the various plots, charts and images. The data on this site are provided from the National Weather Service via the NOAAPORT satellite data service. All the images are generated using the Weather Processor (WXP) analysis package which is available from Unisys. "/>
+<meta name="keywords" content="weather, unisys, unisys weather, weather maps, maps, nam, wrf, GFS, GFSx, hurricane, radar, satellite, surface, upper air" />
+<meta name="copyright" content="Unisys Corp - 2011" />
+<meta name="author" content="Unisys Corporation" />
+<meta name="email" content="technical-support@weather.unisys.com" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="Revisit-after" content="7 Days" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<link rel="stylesheet" type="text/css" href="css/WMAX.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/jscrollpane.css" />
+
+</head>
+<body><div style="background:#fff6d8;color:#302139;padding:12px;border:2px solid #75538b;font:14px Arial"><strong>Arthur Tube — historical Unisys Weather archive (2013).</strong> Archived maps and observations are not current. <a href="forecast.html">Current forecasts</a> · <a href="/cyberbuddy/">Classic Proxy</a> · <a href="/cyberbuddy-continuation/">Continuation</a> · <a href="/">Arthur Tube home</a></div>
+<div id="wrap">
+  <div id="top-menu">
+    <ul id="top-navigation" class="inline-navigation-list">
+      <li><a href="http://www.unisys.com" title="Unisys Home Page">Unisys.com</a></li>
+      <li><a href="index.html" title="Unisys Weather">Weather Home</a></li>
+      <li><a href="analyses.html" title="Analyses">Analyses</a></li>
+      <li><a href="forehome.html" title="Forecast">Forecasts</a></li>
+      <li><a href="archives.html" title="Archives">Archives</a></li>
+      <li><a href="links.html" title="NOAA Links">NOAA Links</a></li>
+      <li><a href="contactus.html" title="Contact Us">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <div id="header"> <a href="http://unisys.com"><img src="images/Unisys_logo.gif" alt="Unisys" /></a>
+    <h1>Unisys Weather</h1>
+  </div>
+
+<div id="leftside">
+  <ul class="avmenu">
+    <li><a href="index.html" class="purple">Unisys Weather</a></li>
+    <li><a href="index.html"> Weather Home</a></li>
+    <li><a href="solutions/index.html">Weather Solutions</a></li>
+    <li><a href="mobile/index.html"><img id="mobile_icon" src="mobile/Icon.png" width="24" height="24" alt="Download Unisys Weather Mobile App"/>iPhone App</a></li>
+    <li><a href="info/index.html">Information</a></li>
+    <li><a href="content.html">Contents</a></li>
+    <li><a href="analyses.html" class="purple">Analyses</a></li>
+    <li><a href="satellite/index.html">Satellite Images</a></li>
+    <li><a href="surface/index.html">Surface Data</a></li>
+    <li><a href="upper_air/index.html">Upper Air Data</a></li>
+    <li><a href="radar/index.html">Radar Data</a></li>
+    <li><a href="forehome.html" class="purple">Forecasts</a></li>
+    <li><a href="mos/index.html">Model Statistics</a></li>
+    <li><a href="nam/index.html">NAM/Wrf Model</a></li>
+    <li><a href="gfs/index.html?r=us">GFS/Avn Model</a></li>
+    <li><a href="gfsx/index.html?r=us">GFSx/MRF Model</a></li>
+    <li><a href="rap/index.html">RAP Model</a></li>
+    <li><a href="ecmwf/index.html">ECMWF Model</a></li>
+    <li><a href="archives.html" class="purple">Archive</a></li>
+    <li><a href="hurricane/index.html">Hurricane Data</a></li>
+    <li><a href="archive/index.html">Archive of Images</a></li>
+    <li><a href="usgs/index.html">USGS Maps</a></li>
+  </ul>
+</div>
+
+<div id="extras">
+  <ul class="avmenu">
+    <li><a href="foresetup.html" class="purple">Get a Forecast</a></li>
+  </ul>
+
+
+
+  <form method="get" id="Forecast" action="forecast.html">
+    <p class="center"> Enter a zip code or city name to get forecast:
+      <input type="text" name="Name" id="Name" size="15" />
+      <br />
+      <button type="submit" style="border:none; background-color:transparent;">
+         <img src="images/GO.png" id="Go" alt="Get Forecast Data" style="height:30px;" />
+      </button>
+      <a href="foresetup.html"><img src="images/setup.png" alt="Setup Location" height="30" width="70" /></a> </p>
+  </form>
+  
+  <ul class="avmenu">
+    <li><a href="links.html" class="purple">NOAA Links</a></li>
+    <li><a href="http://lwf.ncdc.noaa.gov/">National Climatic Data Center</a></li>
+    <li><a href="http://www.cpc.noaa.gov/">Climate Prediction Center</a></li>
+    <li><a href="http://oceanservice.noaa.gov/">National Ocean Service</a></li>
+    <li><a href="http://www.lib.noaa.gov/">NOAA Library</a></li>
+    <li><a href="http://www.oar.noaa.gov/">NOAA Office of Oceanic and Atmospheric Research</a></li>
+    <li><a href="http://www.esrl.noaa.gov/">Earth Systems Research Laboratory</a></li>
+    <li><a href="overview.html" class="purple">About Us</a></li>
+    <li><a href="overview.html" title="Contact Us">Overview</a></li>
+    <li><a href="contactus.html" title="Contact Us">Contact Us</a></li>
+  </ul>
+</div>
+<div id="content">
+
+<div class="drop">
+  <div class="center">
+    <map name="forecast_map">
+      <area href="forecast.html?Name=CYVR" shape="circle" coords="70, 12, 15" alt="" />
+      <area href="forecast.html?Name=KSEA" shape="circle" coords="66, 30, 15" alt="" />
+      <area href="forecast.html?Name=KGEG" shape="circle" coords="97, 41, 15" alt="" />
+      <area href="forecast.html?Name=KPDX" shape="circle" coords="57, 46, 15" alt="" />
+      <area href="forecast.html?Name=KMFR" shape="circle" coords="39, 74, 15" alt="" />
+      <area href="forecast.html?Name=KSFO" shape="circle" coords="21, 123, 15" alt="" />
+      <area href="forecast.html?Name=KLAX" shape="circle" coords="39, 174, 15" alt="" />
+      <area href="forecast.html?Name=KSAN" shape="circle" coords="44, 192, 15" alt="" />
+      <area href="forecast.html?Name=CYYC" shape="circle" coords="130, 15, 15" alt="" />
+      <area href="forecast.html?Name=KGGW" shape="circle" coords="170, 54, 15" alt="" />
+      <area href="forecast.html?Name=KBOI" shape="circle" coords="93, 83, 15" alt="" />
+      <area href="forecast.html?Name=KPIH" shape="circle" coords="117, 98, 15" alt="" />
+      <area href="forecast.html?Name=KSLC" shape="circle" coords="115, 122, 15" alt="" />
+      <area href="forecast.html?Name=KRNO" shape="circle" coords="49, 113, 15" alt="" />
+      <area href="forecast.html?Name=KLAS" shape="circle" coords="75, 162, 15" alt="" />
+      <area href="forecast.html?Name=KPHX" shape="circle" coords="93, 199, 15" alt="" />
+      <area href="forecast.html?Name=KTUS" shape="circle" coords="100, 216, 15" alt="" />
+      <area href="forecast.html?Name=KTUS" shape="circle" coords="100, 216, 15" alt="" />
+      <area href="forecast.html?Name=KBIL" shape="circle" coords="152, 76, 15" alt="" />
+      <area href="forecast.html?Name=KCPR" shape="circle" coords="164, 108, 15" alt="" />
+      <area href="forecast.html?Name=KDEN" shape="circle" coords="171, 142, 15" alt="" />
+      <area href="forecast.html?Name=KGJT" shape="circle" coords="137, 144, 15" alt="" />
+      <area href="forecast.html?Name=KABQ" shape="circle" coords="147, 191, 15" alt="" />
+      <area href="forecast.html?Name=KELP" shape="circle" coords="141, 229, 15" alt="" />
+      <area href="forecast.html?Name=KBRO" shape="circle" coords="229, 305, 15" alt="" />
+      <area href="forecast.html?Name=KSAT" shape="circle" coords="219, 261, 15" alt="" />
+      <area href="forecast.html?Name=KDFW" shape="circle" coords="234, 223, 15" alt="" />
+      <area href="forecast.html?Name=KAMA" shape="circle" coords="191, 195, 15" alt="" />
+      <area href="forecast.html?Name=KIAH" shape="circle" coords="250, 257, 15" alt="" />
+      <area href="forecast.html?Name=KMSY" shape="circle" coords="302, 252, 15" alt="" />
+      <area href="forecast.html?Name=KSHV" shape="circle" coords="264, 227, 15" alt="" />
+      <area href="forecast.html?Name=KLIT" shape="circle" coords="277, 200, 15" alt="" />
+      <area href="forecast.html?Name=KOKC" shape="circle" coords="228, 195, 15" alt="" />
+      <area href="forecast.html?Name=KDDC" shape="circle" coords="207, 168, 15" alt="" />
+      <area href="forecast.html?Name=KMCI" shape="circle" coords="253, 152, 15" alt="" />
+      <area href="forecast.html?Name=KLBF" shape="circle" coords="204, 132, 15" alt="" />
+      <area href="forecast.html?Name=KOMA" shape="circle" coords="244, 131, 15" alt="" />
+      <area href="forecast.html?Name=KOMA" shape="circle" coords="244, 131, 15" alt="" />
+      <area href="forecast.html?Name=KRAP" shape="circle" coords="187, 99, 15" alt="" />
+      <area href="forecast.html?Name=KBIS" shape="circle" coords="210, 73, 15" alt="" />
+      <area href="forecast.html?Name=KFAR" shape="circle" coords="236, 73, 15" alt="" />
+      <area href="forecast.html?Name=CYWG" shape="circle" coords="233, 43, 15" alt="" />
+      <area href="forecast.html?Name=KDLH" shape="circle" coords="267, 72, 15" alt="" />
+      <area href="forecast.html?Name=KMSP" shape="circle" coords="261, 93, 15" alt="" />
+      <area href="forecast.html?Name=KDSM" shape="circle" coords="261, 128, 15" alt="" />
+      <area href="forecast.html?Name=KSTL" shape="circle" coords="289, 155, 15" alt="" />
+      <area href="forecast.html?Name=KORD" shape="circle" coords="305, 118, 15" alt="" />
+      <area href="forecast.html?Name=KGRB" shape="circle" coords="300, 92, 15" alt="" />
+      <area href="forecast.html?Name=KY62" shape="circle" coords="322, 67, 15" alt="" />
+      <area href="forecast.html?Name=KDTW" shape="circle" coords="340, 108, 15" alt="" />
+      <area href="forecast.html?Name=KIND" shape="circle" coords="321, 139, 15" alt="" />
+      <area href="forecast.html?Name=KCVG" shape="circle" coords="337, 145, 15" alt="" />
+      <area href="forecast.html?Name=KTYS" shape="circle" coords="351, 177, 15" alt="" />
+      <area href="forecast.html?Name=KBNA" shape="circle" coords="324, 179, 15" alt="" />
+      <area href="forecast.html?Name=KMEM" shape="circle" coords="298, 195, 15" alt="" />
+      <area href="forecast.html?Name=KJAN" shape="circle" coords="301, 226, 15" alt="" />
+      <area href="forecast.html?Name=KBHM" shape="circle" coords="331, 207, 15" alt="" />
+      <area href="forecast.html?Name=KATL" shape="circle" coords="351, 201, 15" alt="" />
+      <area href="forecast.html?Name=KMOB" shape="circle" coords="320, 241, 15" alt="" />
+      <area href="forecast.html?Name=KTLH" shape="circle" coords="361, 239, 15" alt="" />
+      <area href="forecast.html?Name=KJAX" shape="circle" coords="386, 231, 15" alt="" />
+      <area href="forecast.html?Name=KTPA" shape="circle" coords="384, 261, 15" alt="" />
+      <area href="forecast.html?Name=KMIA" shape="circle" coords="413, 280, 15" alt="" />
+      <area href="forecast.html?Name=KCHS" shape="circle" coords="393, 199, 15" alt="" />
+      <area href="forecast.html?Name=KGSO" shape="circle" coords="381, 164, 15" alt="" />
+      <area href="forecast.html?Name=KHSE" shape="circle" coords="422, 161, 15" alt="" />
+      <area href="forecast.html?Name=KRIC" shape="circle" coords="402, 142, 15" alt="" />
+      <area href="forecast.html?Name=KCRW" shape="circle" coords="364, 144, 15" alt="" />
+      <area href="forecast.html?Name=KCLE" shape="circle" coords="353, 114, 15" alt="" />
+      <area href="forecast.html?Name=KPIT" shape="circle" coords="369, 120, 15" alt="" />
+      <area href="forecast.html?Name=KPHL" shape="circle" coords="407, 114, 15" alt="" />
+      <area href="forecast.html?Name=KIAD" shape="circle" coords="395, 128, 15" alt="" />
+      <area href="forecast.html?Name=KJFK" shape="circle" coords="417, 101, 15" alt="" />
+      <area href="forecast.html?Name=KBUF" shape="circle" coords="371, 92, 15" alt="" />
+      <area href="forecast.html?Name=KALB" shape="circle" coords="406, 79, 15" alt="" />
+      <area href="forecast.html?Name=KBTV" shape="circle" coords="401, 63, 15" alt="" />
+      <area href="forecast.html?Name=CYUL" shape="circle" coords="396, 47, 15" alt="" />
+      <area href="forecast.html?Name=CYYZ" shape="circle" coords="364, 81, 15" alt="" />
+      <area href="forecast.html?Name=KBOS" shape="circle" coords="429, 75, 15" alt="" />
+      <area href="forecast.html?Name=KBGR" shape="circle" coords="423, 45, 15" alt="" />
+      <area href="forecast.html?Name=KCAR" shape="circle" coords="428, 23, 15" alt="" />
+      <area href="forecast.html?Name=CYSJ" shape="circle" coords="447, 29, 15" alt="" />
+    </map>
+    <img src="images/sat_sfc_map.gif" usemap="#forecast_map" alt="Click on map to get forecast" height="312" width="468" style="margin-top:15px" /><br />
+    <small><i>Current satellite image and surface map (Click on map for forecast) </i></small><small><b><a href="sat_sfc_map_loop.html">[loop]</a></b></small> </div>
+  <table class="border">
+    <tr>
+      <td><small><b><a href="satellite/sat_vis.html?image=vis&amp;inv=0&amp;t=cur&amp;region=us">Visible Satellite Image</a></b></small></td>
+      <td><small><b><a href="satellite/sat_vis.html?image=enh&amp;inv=0&amp;t=cur&amp;region=ea">Enh IR Satellite Image</a></b></small></td>
+      <td><small><b><a href="satellite/sat_sfc.html?inv=0&amp;t=cur">Satellite Surface Map</a></b></small></td>
+    </tr>
+    <tr>
+      <td><small><b><a href="radar/rcm_rad.html?inv=0&amp;t=cur&amp;region=us">US Radar Summary</a></b></small></td>
+      <td><small><b><a href="nam/nam.html?plot=pres&amp;inv=0&amp;t=4p">NAM Model Forecast</a></b></small></td>
+      <td><small><b><a href="gfsx/gfsx.html?inv=0&amp;plot=hght&amp;region=us&amp;t=9p">GFSx 10 day Forecast</a></b></small></td>
+    </tr>
+  </table>
+  <div style="width:99%">
+    
+
+
+
+
+
+<div class="magic_rss_widget">
+  <div class="body">
+    <div class="tabs">
+      
+				<div class='tab' rel='37f6289a13b0cb52dc0a63ba92f01f01'>
+					<b>Unisys Weather News</b>
+				</div>
+				
+				<div class='tab' rel='40d0a7d7a0e60a6ab81019b41e31d042'>
+					<b>National Weather Service</b>
+				</div>
+				    </div>
+    <div class='category' id='37f6289a13b0cb52dc0a63ba92f01f01'><div class='category_content' style='height: 300px'>
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=216" class='entry_link' target='_magic_rss'>Visit us at the 93rd Annual AMS in Austin, TX!</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - January 4, 2013 - 8:44 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=211" class='entry_link' target='_magic_rss'>Upcoming NWS Tech Control Center Maintenance</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - December 11, 2012 - 6:30 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=205" class='entry_link' target='_magic_rss'>Unisys Weather Data Center Maintenance 12/4/12</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - November 28, 2012 - 9:16 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=200" class='entry_link' target='_magic_rss'>Hurricane Sandy Storm Prep</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - October 27, 2012 - 8:17 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=197" class='entry_link' target='_magic_rss'>GOES-13 To Resume GOES-East Operation</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - October 17, 2012 - 12:31 AM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=192" class='entry_link' target='_magic_rss'>NOAA GOES-East Update</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - September 25, 2012 - 2:26 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=189" class='entry_link' target='_magic_rss'>NOAA GOES-East (GOES-13) Anomaly</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - September 24, 2012 - 1:24 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=184" class='entry_link' target='_magic_rss'>Unisys Weather Engineer named June 2012 Federal Systems Employee of the Month</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - July 30, 2012 - 6:17 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=179" class='entry_link' target='_magic_rss'>Unisys NOAAPORT Gateway: Open Communications</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - June 22, 2012 - 7:17 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://67.98.102.213/news/?p=174" class='entry_link' target='_magic_rss'>Unisys NOAAPORT Gateway: Built for Reliability</a><br />
+							<span class='byline'><a href="http://67.98.102.213/news">Unisys Weather</a> - June 15, 2012 - 2:05 PM</span>
+						</span>
+					</div>
+				<div class='pagination'>Test</div></div></div><div class='category' id='40d0a7d7a0e60a6ab81019b41e31d042'><div class='category_content' style='height: 300px'>
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/051812_knabb.html" class='entry_link' target='_magic_rss'>New Director at the National Hurricane Center</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - May 19, 2012 - 12:31 AM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/051612_empower.html" class='entry_link' target='_magic_rss'>How a game can empower kids to be weather-ready</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - May 17, 2012 - 12:30 AM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/051612_chemistry.html" class='entry_link' target='_magic_rss'>The Chemistry of a Thunderstorm</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - May 17, 2012 - 12:30 AM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/050112_pilot.html" class='entry_link' target='_magic_rss'>Pilot Project Launched in Florida </a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - May 1, 2012 - 5:59 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042812_beginning.html" class='entry_link' target='_magic_rss'>Just the Beginning</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 28, 2012 - 5:58 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042712_kinder.html" class='entry_link' target='_magic_rss'>Kindergartner is a force of nature</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 27, 2012 - 5:58 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042612_radio.html" class='entry_link' target='_magic_rss'>Beyond Personal Preparedness, Inspire Others</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 26, 2012 - 5:58 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042612_radio.html" class='entry_link' target='_magic_rss'>Get a NOAA Weather Radio</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 26, 2012 - 5:58 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042512_birmingham.html" class='entry_link' target='_magic_rss'>Severe local weather is topic of “Weather-Ready Nation” workshop in Birmingham April 24 to 26</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 25, 2012 - 5:57 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042512_kit.html" class='entry_link' target='_magic_rss'>Building a Weather-Ready Nation, one kit at a time</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 25, 2012 - 5:57 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/042412_plan.html" class='entry_link' target='_magic_rss'>Make a Plan: Know Where to Go</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - April 24, 2012 - 5:56 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/022712_focus_severe.html" class='entry_link' target='_magic_rss'>Focus on Severe Weather</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 27, 2012 - 5:52 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/022712_from_space.html" class='entry_link' target='_magic_rss'>From Space to You</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 27, 2012 - 5:52 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/022112_break.html" class='entry_link' target='_magic_rss'>Breaking ground on water resource management</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 21, 2012 - 5:52 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/022112_storm.html" class='entry_link' target='_magic_rss'>Eye on the Storm</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 21, 2012 - 5:51 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/020812_young.html" class='entry_link' target='_magic_rss'>Game teaches students weather-readiness</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 8, 2012 - 5:51 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/020712_vital.html" class='entry_link' target='_magic_rss'>Vital Conversation centers on physical, social science integration</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 7, 2012 - 5:51 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/020212_orleans.html" class='entry_link' target='_magic_rss'>Innovation through collaboration</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 2, 2012 - 5:50 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/020212_google.html" class='entry_link' target='_magic_rss'>From satellites to cell phones</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - February 2, 2012 - 5:50 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/011812_ohio.html" class='entry_link' target='_magic_rss'>Miss Ohio’s lightning safety message resonates with judges</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - January 18, 2012 - 5:50 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/011112_lightning.html" class='entry_link' target='_magic_rss'>Miss America hopeful shares compassionate lightning safety story at national pageant </a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - January 11, 2012 - 5:49 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/122011_goodbye.htm" class='entry_link' target='_magic_rss'>To 2011: Goodbye and good riddance</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - December 20, 2012 - 5:49 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/121311_norman.htm" class='entry_link' target='_magic_rss'>A Vital Conversation</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - December 13, 2011 - 5:48 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/121311_irene.html" class='entry_link' target='_magic_rss'>NWS debuts national operations center during Hurricane Irene</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - May 9, 2012 - 5:48 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/121311_space.html" class='entry_link' target='_magic_rss'>NWS Spaceflight Meteorology Group forecasters to face bold new challenges</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - December 13, 2011 - 5:45 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/121311_launch.htm" class='entry_link' target='_magic_rss'>Weather-Ready Nation initiative launched internally, nationally</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - December 13, 2011 - 5:45 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nws.noaa.gov/com/weatherreadynation/news/121311_roadmap.htm" class='entry_link' target='_magic_rss'>NWS Roadmap paves the way to building a Weather-Ready Nation</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - December 13, 2011 - 5:44 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.livingontherealworld.org/?p=431" class='entry_link' target='_magic_rss'>Weather-Ready Nation(al Pastime)</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - October 27, 2011 - 3:26 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://blog.ametsoc.org/news/weather-ready-or-not-here-we-come/" class='entry_link' target='_magic_rss'>Weather Ready or Not</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 22, 2011 - 3:23 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nbcdfw.com/weather/stories/Weather-Ready-Nation-Takes-Shape-In-Fort-Worth-128205508.html" class='entry_link' target='_magic_rss'>&quot;Weather Ready Nation&quot; takes shape in Fort Worth</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 22, 2011 - 3:19 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nbcactionnews.com/dpp/weather/weather_news/national-weather-service-launches-new-effort-to-improve-weather-warning-systems" class='entry_link' target='_magic_rss'>National Weather Service launches new effort to improve weather warning systems</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 19, 2011 - 3:19 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.msnbc.msn.com/id/3032619/vp/44214508#44214508" class='entry_link' target='_magic_rss'>‘Extreme of extremes’ weather nationwide</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 19, 2011 - 3:16 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.msnbc.msn.com/id/21134540/vp/44180503#44180503" class='entry_link' target='_magic_rss'>Weather Ready Nation Video</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 19, 2011 - 3:14 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.nytimes.com/2011/08/20/us/20weather.html?_r=2" class='entry_link' target='_magic_rss'>Year packed with weather disasters has brought economic toll to match</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 19, 2011 - 3:12 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://music-mix.ew.com/2011/08/19/sugarland-stage-collapse-sixth-death/" class='entry_link' target='_magic_rss'>Sixth death in Indiana State Fair stage collapse, Missouri State Fair reopens after evacuation</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 19, 2011 - 3:11 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://southeastfarmpress.com/management/initiative-build-weather-ready-nation" class='entry_link' target='_magic_rss'>Initiative to build “weather-ready” nation</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 18, 2011 - 3:03 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.insurancejournal.com/news/national/2011/08/17/211390.htm" class='entry_link' target='_magic_rss'>NOAA: $1B-disasters ties U.S. record before a Hurricane Hits</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 18, 2011 - 3:10 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.msnbc.msn.com/id/44179825/ns/weather/#.T7EhKbV_Vpg" class='entry_link' target='_magic_rss'>Record for billion-dollar weather disasters tied, National Weather Service chief laments ‘new reality’ across U.S.</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 17, 2011 - 3:13 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.insurancejournal.com/news/national/2011/08/17/211390.htm" class='entry_link' target='_magic_rss'>As disaster losses mount, U.S. seeks to make country ‘Weather Ready’</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 17, 2011 - 3:09 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.americaninsuranceid.com/news/2011/08/new-initiative-to-build-weather-ready-usa" class='entry_link' target='_magic_rss'>New Initiative To Build &quot;Weather-Ready&quot; USANew Initiative To Build &quot;Weather-Ready&quot; USA</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 17, 2011 - 3:08 PM</span>
+						</span>
+					</div>
+				
+					<div class='entry'>
+						<span class='text'>
+							<a href="http://www.energy-enviro.fi/index.php?PAGE=3&amp;NODE_ID=5&amp;LANG=1&amp;ID=3766" class='entry_link' target='_magic_rss'>U.S. aims to become 'weather-ready'</a><br />
+							<span class='byline'><a href="http://www.nws.noaa.gov/com/weatherreadynation/rss.xml">Weather Ready News</a> - August 11, 2011 - 3:02 PM</span>
+						</span>
+					</div>
+				<div class='pagination'>Test</div></div></div>  </div>
+</div>
+
+  </div>
+  <br />
+</div>
+<div class="clearboth">&nbsp;</div>
+
+</div>
+
+<div id="footer"> <span id="copyright"><small>Copyright &copy; Unisys 2012</small></span>
+  <ul class="inline-navigation-list" id="bottom-navigation">
+    <li><a href="http://www.unisys.com/unisys/privacy.html" target="_blank">Privacy Notice</a></li>
+    <li><a href="http://www.unisys.com/unisys/terms-and-conditions.html" target="_blank">Terms of Use</a></li>
+    <li><a href="contactus.html">Contact Us</a></li>
+    <li><a href="http://www.unisys.com/unisys/trademarks.html" target="_blank">Trademarks</a></li>
+  </ul>
+</div>
+</div>
+</body>
+</html>

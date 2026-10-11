@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Unisys Weather </title>
+<meta name="description" content="The intent of this weather site is to provide a complete source of graphical weather 		information. This is intended to satisfy the needs of the weather professional, but can be a tool for the casual user as well. The graphics and data are displayed as a meteorologist would expect to see. For the novice user, there are detailed explanation pages to guide them through the various plots, charts and images. The data on this site are provided from the National Weather Service via the NOAAPORT satellite data service. All the images are generated using the Weather Processor (WXP) analysis package which is available from Unisys. "/>
+<meta name="keywords" content="weather, unisys, unisys weather, weather maps, maps, nam, wrf, GFS, GFSx, hurricane, radar, satellite, surface, upper air" />
+<meta name="copyright" content="Unisys Corp - 2011" />
+<meta name="author" content="Unisys Corporation" />
+<meta name="email" content="technical-support@weather.unisys.com" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="Revisit-after" content="7 Days" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<link rel="stylesheet" type="text/css" href="css/WMAX.css" />
+</head>
+<body><div style="background:#fff6d8;color:#302139;padding:12px;border:2px solid #75538b;font:14px Arial"><strong>Arthur Tube — historical Unisys Weather archive (2013).</strong> Archived maps and observations are not current. <a href="forecast.html">Current forecasts</a> · <a href="/cyberbuddy/">Classic Proxy</a> · <a href="/cyberbuddy-continuation/">Continuation</a> · <a href="/">Arthur Tube home</a></div>
+<div id="wrap">
+  <div id="top-menu">
+    <ul id="top-navigation" class="inline-navigation-list">
+      <li><a href="http://www.unisys.com" title="Unisys Home Page">Unisys.com</a></li>
+      <li><a href="index.html" title="Unisys Weather">Weather Home</a></li>
+      <li><a href="analyses.html" title="Analyses">Analyses</a></li>
+      <li><a href="forehome.html" title="Forecast">Forecasts</a></li>
+      <li><a href="archives.html" title="Archives">Archives</a></li>
+      <li><a href="links.html" title="NOAA Links">NOAA Links</a></li>
+      <li><a href="contactus.html" title="Contact Us">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <div id="header"> <a href="http://unisys.com"><img src="images/Unisys_logo.gif" alt="Unisys" /></a>
+    <h1>Unisys Weather</h1>
+  </div>
+
+<div id="leftside">
+  <ul class="avmenu">
+    <li><a href="index.html" class="purple">Unisys Weather</a></li>
+    <li><a href="index.html"> Weather Home</a></li>
+    <li><a href="solutions/index.html">Weather Solutions</a></li>
+    <li><a href="mobile/index.html"><img id="mobile_icon" src="mobile/Icon.png" width="24" height="24" alt="Download Unisys Weather Mobile App"/>iPhone App</a></li>
+    <li><a href="info/index.html">Information</a></li>
+    <li><a href="content.html">Contents</a></li>
+    <li><a href="analyses.html" class="purple">Analyses</a></li>
+    <li><a href="satellite/index.html">Satellite Images</a></li>
+    <li><a href="surface/index.html">Surface Data</a></li>
+    <li><a href="upper_air/index.html">Upper Air Data</a></li>
+    <li><a href="radar/index.html">Radar Data</a></li>
+    <li><a href="forehome.html" class="purple">Forecasts</a></li>
+    <li><a href="mos/index.html">Model Statistics</a></li>
+    <li><a href="nam/index.html">NAM/Wrf Model</a></li>
+    <li><a href="gfs/index.html?r=us">GFS/Avn Model</a></li>
+    <li><a href="gfsx/index.html?r=us">GFSx/MRF Model</a></li>
+    <li><a href="rap/index.html">RAP Model</a></li>
+    <li><a href="ecmwf/index.html">ECMWF Model</a></li>
+    <li><a href="archives.html" class="purple">Archive</a></li>
+    <li><a href="hurricane/index.html">Hurricane Data</a></li>
+    <li><a href="archive/index.html">Archive of Images</a></li>
+    <li><a href="usgs/index.html">USGS Maps</a></li>
+  </ul>
+</div>
+
+<div id="extras">
+  <ul class="avmenu">
+    <li><a href="foresetup.html" class="purple">Get a Forecast</a></li>
+  </ul>
+
+
+
+  <form method="get" id="Forecast" action="forecast.html">
+    <p class="center"> Enter a zip code or city name to get forecast:
+      <input type="text" name="Name" id="Name" size="15" />
+      <br />
+      <button type="submit" style="border:none; background-color:transparent;">
+         <img src="images/GO.png" id="Go" alt="Get Forecast Data" style="height:30px;" />
+      </button>
+      <a href="foresetup.html"><img src="images/setup.png" alt="Setup Location" height="30" width="70" /></a> </p>
+  </form>
+  
+  <ul class="avmenu">
+    <li><a href="links.html" class="purple">NOAA Links</a></li>
+    <li><a href="http://lwf.ncdc.noaa.gov/">National Climatic Data Center</a></li>
+    <li><a href="http://www.cpc.noaa.gov/">Climate Prediction Center</a></li>
+    <li><a href="http://oceanservice.noaa.gov/">National Ocean Service</a></li>
+    <li><a href="http://www.lib.noaa.gov/">NOAA Library</a></li>
+    <li><a href="http://www.oar.noaa.gov/">NOAA Office of Oceanic and Atmospheric Research</a></li>
+    <li><a href="http://www.esrl.noaa.gov/">Earth Systems Research Laboratory</a></li>
+    <li><a href="overview.html" class="purple">About Us</a></li>
+    <li><a href="overview.html" title="Contact Us">Overview</a></li>
+    <li><a href="contactus.html" title="Contact Us">Contact Us</a></li>
+  </ul>
+</div>
+<div id="content">
+
+<h2 align="center">Contents Page</h2>
+  <h2>Forecast Pages</h2>
+  <ul class="nobullet">
+    <li><a href="mos/index.html" class="purple">Model Statistics</a> - Model derived forecasts for individual cities based on statistical relations</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="mos/nam.html" class="red"> NAM Plots</a> - Short term forecasts from NAM model out to 60 hours</li>
+        <li>
+          <ul>
+            <li><a href="mos/mos.html?inv=0&amp;t=24h&amp;region=us"> Surface Plots</a> - Station model plots with precipitation contours. Plots selectable by forecast time.</li>
+            <li><a href="mos/mos_depict.html?inv=0&amp;t=24h"> Weather Depiction Plots</a> - Forecasted weather depiction charts (IFR, VFR).</li>
+          </ul>
+        </li>
+        <li><a href="mos/meteogram/index.html" class="red"> NAM Meteograms</a> - Forecasted time series (out to 60 hours) plots for specific stations of temperature, pressure, winds, weather. Plots selectable by city.</li>
+        <li><a href="mos/gfs.html" class="red"> GFS Plots</a> - Medium range forecasts from GFS model out to 8 days</li>
+        <li>
+          <ul>
+            <li><a href="mos/mos_gfs.html?plot=gfs&amp;t=4p&amp;inv=0"> Maximum Temperature and Probability of Precipitation</a> - Plots selectable by forecast day</li>
+            <li><a href="mos/mos_gfs.html?plot=gfs_dep&amp;t=4p&amp;inv=0"> Maximum Temperature Departure from Normal</a> - Plots selectable by forecast day</li>
+            <li><a href="mos/mos_gfs.html?plot=gfs_min&amp;t=4p&amp;inv=0"> Minimum Temperature</a> - Plots selectable by forecast day</li>
+            <li><a href="mos/mos_gfs.html?plot=gfs_min_dep&amp;t=4p&amp;inv=0"> Minimum Temperature Departure from Normal</a> - Plots selectable by forecast day</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li><a href="nam/index.html" class="purple"> NAM/WRF Model</a> - Regional forecast model with data every 6 hours out to 60 hours for US and surrounding areas</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="nam/pres.html" class="red"> SL Pressure/Precipitation Plots</a> - Filled contours of 12 hour precipitation overlaid with sea level pressure and 1000-500 mb thickness. Plots selectable by forecast time, 4 panel (12,24,36,48hr) and loop.</li>
+        <li><a href="nam/sfc.html" class="red"> Surface Plots</a> - Filled contours of 2m temperature overlaid with 10m winds, convergence (shaded) and 2m dewpoint. Plots selectable by forecast time and 4 panel (12,24,36,48hr).</li>
+        <li><a href="nam/1000.html" class="red"> 1000mb Plots</a> - Filled contours of 1000mb temperature overlaid with 1000mb winds, convergence (shaded) and 1000mb dewpoint. Plots selectable by forecast time and 4 panel (12,24,36,48hr).</li>
+        <li><a href="nam/850.html" class="red"> 850mb Plots</a> - Filled contours of 850mb temperature overlaid with 850mb height and wind vectors. Plots selectable by forecast time, 4 panel (12,24,36,48hr) and loop.</li>
+        <li><a href="nam/700.html" class="red"> 700mb Plots</a> - Filled contours of 700mb vertical velocity overlaid with 700mb height and wind vectors.  Plots selectable by forecast time and 4 panel (12,24,36,48hr).</li>
+        <li><a href="nam/500.html" class="red"> 500mb Plots</a> - Filled contours of 500mb absolute vorticity overlaid with 500mb height and wind vectors.  Plots selectable by forecast time and 4 panel (12,24,36,48hr).</li>
+        <li><a href="nam/300.html" class="red"> 300mb Plots</a> - Filled contours of 300mb wind speed overlaid with 300mb height and wind vectors. Plots selectable by forecast time, 4 panel (12,24,36,48hr) and loop.</li>
+        <li><a href="nam/rh.html" class="red"> Relative Humidity/Lifted Index Plots</a> - Filled contours of 850-500mb mean relative humidity overlaid with lifted index (shaded for negative). Plots selectable by forecast time, 4 panel (12,24,36,48hr) and loop.</li>
+        <li><a href="nam/4panel.html" class="red"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Lifted Index data (lower right). Plots selectable by forecast time.</li>
+        <li><a href="nam/winter.html" class="red"> Winter Plots</a> - A 4 panel plot of surface temperature (upper left), wind chill (upper right), precipitation type (lower left) and snowfall accumulation (lower right). Plots selectable by forecast time on 3 hour increments.</li>
+        <li><a href="nam/misc.html" class="red"> Miscellaneous Plots</a> </li>
+        <li>
+          <ul>
+            <li><a href="nam/nam_misc.html?inv=0&amp;plot=cape"> CAPE Plot</a> - A 4 panel plot of CAPE (12,24,36,48hr)</li>
+            <li><a href="nam/nam_misc.html?inv=0&amp;plot=heli"> Helicity Plot</a> - A 4 panel plot of Helicity (12,24,36,48hr)</li>
+            <li><a href="nam/nam_misc.html?inv=0&amp;plot=ehi"> EHI Plot</a> - A 4 panel plot of Energy Helicity Index (12,24,36,48hr)</li>
+            <li><a href="nam/nam_misc.html?inv=0&amp;plot=prec"> 48 hour Precipitation</a> - 48 hour accumulated precipitation.</li>
+            <li><a href="nam/nam_misc.html?inv=0&amp;plot=snow"> 48 hour Snowfall</a> - 48 hour accumulated snowfall.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="gfs/index.html" class="purple"> GFS Model</a> - Forecast model with global data every 12 hours out to 72 hours</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="gfs/index.html?r=us" class="red"> United States</a></li>
+        <li>
+          <ul>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=pres&amp;region=us&amp;t=4p1"> SL Pressure/Precipitation Plots</a> - Filled contours of 12 hour precipitation overlaid with sea level pressure and 1000-500 mb thickness. Plots selectable by forecast time, 6 panel (12,24,36,48,60,72hr).</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=1000&amp;region=us&amp;t=4p1"> 1000mb Plots</a> - Filled contours of 1000mb temperature overlaid with 1000mb winds, convergence (shaded) and 1000mb dewpoint. Plots selectable by forecast time and 6 panel (12,24,36,48,60,72hr).</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=850&amp;region=us&amp;t=4p1"> 850mb Plots</a> - Filled contours of 850mb temperature overlaid with 850mb height and wind vectors. Plots selectable by forecast time, 6 panel (12,24,36,48,60,72hr)</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=700&amp;region=us&amp;t=4p1"> 700mb Plots</a> - Filled contours of 700mb vertical velocity overlaid with 700mb height and wind vectors.  Plots selectable by forecast time and 6 panel (12,24,36,48,60,72hr).</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=500&amp;region=us&amp;t=4p1"> 500mb Plots</a> - Filled contours of 500mb absolute vorticity overlaid with 500mb height and wind vectors.  Plots selectable by forecast time and 6 panel (12,24,36,48,60,72hr).</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=300&amp;region=us&amp;t=4p1"> 300mb Plots</a> - Filled contours of 300mb wind speed overlaid with 300mb height and wind vectors. Plots selectable by forecast time, 6 panel (12,24,36,48,60,72hr)</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=rh&amp;region=us&amp;t=4p1"> Relative Humidity/Showalter Index Plots</a> - Filled contours of 850-500mb mean relative humidity overlaid with Showalter index (shaded for negative). Plots selectable by forecast time, 6 panel (12,24,36,48,60,72hr)</li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=4p&amp;region=us&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+            <li><a href="gfs/misc.html?inv=0&amp;plot=misc&amp;region=us&amp;t=48h"> Miscellaneous Plots</a> - Plots of 48 hour accumulated precipitation.</li>
+          </ul>
+        </li>
+        <li><a href="gfs/index.html?r=eu" class="red"> Europe</a></li>
+        <li>
+          <ul class="nobullet">
+            <li><a href="gfs/index.html?r=eu"> 6 Panel Plots</a></li>
+            <li>
+              <ul>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=pres&amp;region=eu&amp;t=4p1"> SL Pressure/Precipitation Plot</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=1000&amp;region=eu&amp;t=4p1"> 1000mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=850&amp;region=eu&amp;t=4p1"> 850mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=700&amp;region=eu&amp;t=4p1"> 700mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=500&amp;region=eu&amp;t=4p1"> 500mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=300&amp;region=eu&amp;t=4p1"> 300mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=rh&amp;region=eu&amp;t=4p1"> Relative Humidity/Showalter Index Plots</a></li>
+              </ul>
+            </li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=4p&amp;region=eu&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+        <li><a href="gfs/index.html?r=ea" class="red"> East Asia</a></li>
+        <li>
+          <ul class="nobullet">
+            <li><a href="gfs/index.html?r=ea"> 6 Panel Plots</a></li>
+            <li>
+              <ul>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=pres&amp;region=ea&amp;t=4p1"> SL Pressure/Precipitation Plot</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=1000&amp;region=ea&amp;t=4p1"> 1000mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=850&amp;region=ea&amp;t=4p1"> 850mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=700&amp;region=ea&amp;t=4p1"> 700mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=500&amp;region=ea&amp;t=4p1"> 500mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=300&amp;region=ea&amp;t=4p1"> 300mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=rh&amp;region=ea&amp;t=4p1"> Relative Humidity/Showalter Index Plots</a></li>
+              </ul>
+            </li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=4p&amp;region=ea&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+        <li><a href="gfs/index.html?r=sa" class="red"> South America</a></li>
+        <li>
+          <ul class="nobullet">
+            <li><a href="gfs/index.html?r=sa"> 6 Panel Plots</a></li>
+            <li>
+              <ul>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=pres&amp;region=sa&amp;t=4p1"> SL Pressure/Precipitation Plot</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=1000&amp;region=sa&amp;t=4p1"> 1000mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=850&amp;region=sa&amp;t=4p1"> 850mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=700&amp;region=sa&amp;t=4p1"> 700mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=500&amp;region=sa&amp;t=4p1"> 500mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=300&amp;region=sa&amp;t=4p1"> 300mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=rh&amp;region=sa&amp;t=4p1"> Relative Humidity/Showalter Index Plots</a></li>
+              </ul>
+            </li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=4p&amp;region=sa&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+        <li><a href="gfs/index.html?r=au" class="red"> Australia</a></li>
+        <li>
+          <ul class="nobullet">
+            <li><a href="gfs/index.html?r=au"> 6 Panel Plots</a></li>
+            <li>
+              <ul>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=pres&amp;region=au&amp;t=4p1"> SL Pressure/Precipitation Plot</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=1000&amp;region=au&amp;t=4p1"> 1000mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=850&amp;region=au&amp;t=4p1"> 850mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=700&amp;region=au&amp;t=4p1"> 700mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=500&amp;region=au&amp;t=4p1"> 500mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=300&amp;region=au&amp;t=4p1"> 300mb Plots</a></li>
+                <li><a href="gfs/gfs.html?inv=0&amp;plot=rh&amp;region=au&amp;t=4p1"> Relative Humidity/Showalter Index Plots</a></li>
+              </ul>
+            </li>
+            <li><a href="gfs/gfs.html?inv=0&amp;plot=4p&amp;region=au&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+      </ul>
+    </li> 
+    <li><a href="ruc/index.html" class="purple"> RUC Model</a> - (Rapid Update Cycle) Forecast model with data every 6 hours out to 24 hours. </li>
+    <li>
+      <ul class="nobullet">
+        <li class="red">RUC Analyses</li>
+        <li>
+          <ul>
+            <li><a href="ruc/ruc.html?plot=pres&amp;t=in&amp;inv=0"> SL Pressure/Precipitation Plot</a></li>
+            <li><a href="ruc/ruc.html?plot=1000&amp;t=in&amp;inv=0"> 1000mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=850&amp;t=in&amp;inv=0"> 850mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=700&amp;t=in&amp;inv=0"> 700mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=500&amp;t=in&amp;inv=0"> 500mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=300&amp;t=in&amp;inv=0"> 300mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=rh&amp;t=in&amp;inv=0"> Relative Humidity/Showalter Index Plots</a></li>
+          </ul>
+        </li>
+        <li class="red"> RUC 4 Panel Plots - A 4 panel plot of 3,6,9,12hr forecasts.</li>
+        <li>
+          <ul>
+            <li><a href="ruc/ruc.html?plot=pres&amp;t=4p&amp;inv=0"> SL Pressure/Precipitation Plot</a></li>
+            <li><a href="ruc/ruc.html?plot=1000&amp;t=4p&amp;inv=0"> 1000mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=850&amp;t=4p&amp;inv=0"> 850mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=700&amp;t=4p&amp;inv=0"> 700mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=500&amp;t=4p&amp;inv=0"> 500mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=300&amp;t=4p&amp;inv=0"> 300mb Plots</a></li>
+            <li><a href="ruc/ruc.html?plot=rh&amp;t=4p&amp;inv=0"> Relative Humidity/Showalter Index Plots</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="gfsx/index.html?r=us" class="purple"> GFSX Model</a> - GFS Extended Forecast) Forecast model with global data every 12 hours out to 10 days.</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="gfsx/index.html?r=us" class="red"> North America</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=hght&amp;region=us&amp;t=ini"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=pres&amp;region=us&amp;t=ini"> SL Pressure/Precipitation Plots</a> - Filled contours of 12 hour precipitation overlaid with sea level pressure and 1000-500 mb thickness. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=850&amp;region=us&amp;t=ini"> 850mb Plots</a> - Filled contours of 850mb temperature overlaid with 850mb height and wind vectors. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=300&amp;region=us&amp;t=ini"> 300mb Plots</a> - Filled contours of 300mb wind speed overlaid with 300mb height and wind vectors. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=rel&amp;region=us&amp;t=ini"> Relative Humidity/Showalter Index Plots</a> - Filled contours of 850-500mb mean relative humidity overlaid with Showalter index (shaded for negative). Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=4p&amp;region=us&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+        <li><a href="gfsx/index.html?r=eu" class="red"> Europe</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=hght&amp;region=eu&amp;t=ini"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=pres&amp;region=eu&amp;t=ini"> SL Pressure/Precipitation Plots</a> - Filled contours of 12 hour precipitation overlaid with sea level pressure and 1000-500 mb thickness. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=850&amp;region=eu&amp;t=ini"> 850mb Plots</a> - Filled contours of 850mb temperature overlaid with 850mb height and wind vectors. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=300&amp;region=eu&amp;t=ini"> 300mb Plots</a> - Filled contours of 300mb wind speed overlaid with 300mb height and wind vectors. Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=rel&amp;region=eu&amp;t=ini"> Relative Humidity/Showalter Index Plots</a> - Filled contours of 850-500mb mean relative humidity overlaid with Showalter index (shaded for negative). Plots selectable by forecast time, 9 panel (3-10day) and loop.</li>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=4p&amp;region=eu&amp;t=ini"> 4 Panel Plots</a> - A 4 panel plot with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right). Plots selectable by forecast time.</li>
+          </ul>
+        </li>
+        <li><a href="gfsx/index.html?r=ea" class="red"> East Asia</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/gfsx.html?inv=0&amp;plot=hght&amp;region=ea&amp;t=ini"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure presented as a 9 panel (3-10day) chart.</li>
+          </ul>
+        </li>
+        <li><a href="gfsx/index.html?r=sa" class="red"> South America</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/index.html?r=sa"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure presented as a 9 panel (3-10day) chart.</li>
+          </ul>
+        </li>
+        <li><a href="gfsx/index.html?r=au" class="red"> Australia</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/index.html?r=au"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure presented as a 9 panel (3-10day) chart.</li>
+          </ul>
+        </li>
+        <li><a href="gfsx/index.html?r=nh" class="red"> Northern Hemisphere</a></li>
+        <li>
+          <ul>
+            <li><a href="gfsx/index.html?r=nh"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure. Plots are selectable by time and 9 panel (3-10day) chart.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="ecmwf/index.html" class="purple"> ECMWF Model</a> - (European Center for Medium Range Forecasting) Forecast model with data every day out to 10 days.</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="ecmwf/index.html" class="red"> United States</a></li>
+        <li>
+          <ul>
+            <li><a href="ecmwf/index.html"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure. Plots selectable by forecast time and 4 panel (3,4,5,6day).</li>
+          </ul>
+        </li>
+        <li><a href="ecmwf/index_eur.html" class="red"> Europe</a></li>
+        <li>
+          <ul>
+            <li><a href="ecmwf/index_eur.html"> 500mb Height/SL Pressure Plots</a> - Filled contours of 500mb height overlaid with sea level pressure. Plots selectable by forecast time and 4 panel (3,4,5,6day) .</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  
+  <h2>Analyses Pages</h2>
+  <ul class="nobullet">
+    <li><a href="satellite/index.html" class="purple">Satellite</a></li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="satellite/visible.html" class="red"> Visible Images</a> -Images selectable by region including loop</li>
+        <li><a href="satellite/infrared.html" class="red"> Infrared Images</a> - Images selectable by region including loop</li>
+        <li><a href="satellite/infrared_enh.html" class="red"> Enhanced Infrared Images</a> - Images selectable by region including loop</li>
+        <li><a href="satellite/water_vapor.html" class="red"> Water Vapor Images</a> - Images selectable by region including loop</li>
+        <li><a href="satellite/composite.html" class="red"> Composite Images</a></li>
+        <li>
+          <ul>
+            <li><a href="satellite/sat_sfc.html?inv=0&amp;t=cur"> Satellite Surface Map</a> - IR Satellite + Surface Map</li>
+            <li><a href="satellite/sat_rad.html?inv=0&amp;t=cur"> IR Satellite and Radar Map</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="surface/index.html" class="purple"> Surface</a></li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="surface/composite.html" class="red"> Composite Maps</a></li>
+        <li>
+          <ul>
+            <li><a href="surface/sfc_map.html?inv=0&amp;t=cur&amp;region=us"> Surface Map</a></li>
+            <li><a href="surface/sfc_depict.html?inv=0&amp;t=cur"> Weather Depiction</a> - Aviation weather chart (IFR, VFR)</li>
+            <li><a href="surface/sfc_fronts.html?inv=0&amp;t=cur"> Fronts</a> - Current frontal positions</li>
+          </ul>
+        </li>
+        <li><a href="surface/regional.html" class="red"> Regional Data Plots</a> - Surface (station model) plots by region</li>
+        <li><a href="surface/contour.html" class="red"> Contour Plots</a></li>
+        <li>
+          <ul>
+            <li><a href="surface/sfc_con.html?image=te&amp;inv=0&amp;t=cur"> US Temperature</a></li>
+            <li><a href="surface/sfc_con.html?image=na&amp;inv=0&amp;t=cur"> N Amer Temperature</a></li>
+            <li><a href="surface/sfc_con.html?image=24&amp;inv=0&amp;t=cur"> US 24 hr Temperature Change</a></li>
+            <li><a href="surface/sfc_con.html?image=wc&amp;inv=0&amp;t=cur"> US Wind Chill</a></li>
+            <li><a href="surface/sfc_con.html?image=he&amp;inv=0&amp;t=cur"> US Heat Index</a></li>
+            <li><a href="surface/sfc_con.html?image=pr&amp;inv=0&amp;t=cur"> US SL Pressure</a></li>
+            <li><a href="surface/sfc_con.html?image=3p&amp;inv=0&amp;t=cur"> US 3 hr Pressure Change</a></li>
+            <li><a href="surface/sfc_con.html?image=de&amp;inv=0&amp;t=cur"> US Dewpoint</a></li>
+            <li><a href="surface/sfc_con.html?image=ws&amp;inv=0&amp;t=cur"> US Wind Speed</a></li>
+            <li><a href="surface/sfc_con.html?image=st&amp;inv=0&amp;t=cur"> US Wind Streamlines</a></li>
+            <li><a href="surface/sfc_con.html?image=qc&amp;inv=0&amp;t=cur"> US Moisture Convergence</a></li>
+          </ul>
+        </li>
+        <li><a href="surface/daily.html" class="red"> Daily Plots</a></li>
+        <li>
+          <ul>
+            <li><a href="surface/sfc_daily.html?plot=htp&amp;inv=0&amp;t=cur"> US High Temperature</a></li>
+            <li><a href="surface/sfc_daily.html?plot=ltp&amp;inv=0&amp;t=cur"> US Low Temperature</a></li>
+            <li><a href="surface/sfc_daily.html?plot=24p&amp;inv=0&amp;t=cur"> US Daily Precipitation</a></li>
+            <li><a href="surface/sfc_daily.html?plot=mop&amp;inv=0&amp;t=cur"> US Monthly Precipitation</a> - Precipitation for the month so far</li>
+            <li><a href="surface/sfc_daily.html?plot=snc&amp;inv=0&amp;t=cur"> US Snow Cover</a></li>
+            <li><a href="surface/sfc_daily.html?plot=ssd&amp;inv=0&amp;t=cur"> SST Plot</a> - Sea Surface Temperatures</li>
+            <li><a href="surface/sfc_daily.html?plot=ssa&amp;inv=0&amp;t=cur"> SST Anomaly</a> - SST temperature anomalies</li>
+          </ul>
+        </li>
+        <li><a href="surface/meteogram/index.html" class="red"> Surface Meteograms</a> - Time series plots for specific stations of temperature, pressure, winds, weather. Plots selectable by city.</li>
+      </ul>
+    </li>
+    <li><a href="upper_air/index.html" class="purple"> Upper Air</a></li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="upper_air/mandatory.html" class="red"> Mandatory Level Plots</a> - Plots at various pressure levels</li>
+        <li><a href="upper_air/height.html" class="red"> Constant Height Plots</a> - Plots at various height levels</li>
+        <li><a href="upper_air/hemisphere.html" class="red"> Hemispheric Plots</a> - Hemisphere plots of 500mb height/SL pressure, 850mb heights/temperatures, 300mb winds/heights.</li>
+        <li><a href="upper_air/contour.html" class="red"> Contour Plots</a></li>
+        <li>
+          <ul>
+            <li><a href="upper_air/ua_cont.html?plot=500&amp;inv=0&amp;t=cur"> 500mb Height</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=850&amp;inv=0&amp;t=cur"> 850mb Temperature</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=thi&amp;inv=0&amp;t=cur"> 1000-500mb Thickness</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=300&amp;inv=0&amp;t=cur"> 300mb Wind Speed</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=str&amp;inv=0&amp;t=cur"> 300mb Streamlines</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=pre&amp;inv=0&amp;t=cur"> Precipitable Water</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=lif&amp;inv=0&amp;t=cur"> Lifted Index</a> - Stability index</li>
+            <li><a href="upper_air/ua_cont.html?plot=tt&amp;inv=0&amp;t=cur"> Total Totals Index</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=ki&amp;inv=0&amp;t=cur"> K Index</a></li>
+            <li><a href="upper_air/ua_cont.html?plot=cap&amp;inv=0&amp;t=cur"> CAPE</a> - Convective Available Potential Energy</li>
+            <li><a href="upper_air/ua_cont.html?plot=hel&amp;inv=0&amp;t=cur"> Helicity</a></li>
+          </ul>
+        </li>
+        <li><a href="upper_air/skew/index.html" class="red"> Sounding Plots (SkewT)</a> - Upper air sounding plot (temperature vs height). Plots selectable by site/city.</li>
+      </ul>
+    </li>
+    <li><a href="radar/index.html" class="purple"> Radar</a></li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="radar/rcm_rad.html?inv=0&amp;t=cur&amp;region=us" class="red"> RCM Plots</a> - (Radar Coded Messages) A radar mosaic based on RCM site radar data. Plots selectable by region including loop.</li>
+      </ul>
+    </li>
+  </ul>
+
+
+  <h2>Archives</h2>
+  <ul class="nobullet">
+    <li><a href="hurricane/index.html" class="purple"> Hurricane Data</a> - A comprehensive list of current hurricanes and typhoons as well as an extended archive of past storms.</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="hurricane/atlantic/2009/index.html" class="red"> Atlantic Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/atlantic/2009/index.html"> Current year</a></li>
+            <li><a href="hurricane/atlantic/index.html"> Archive (1851-2008)</a></li>
+          </ul>
+        </li>
+        <li><a href="hurricane/e_pacific/2009/index.html" class="red"> Eastern Pacific Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/e_pacific/2009/index.html" > Current year</a></li>
+            <li><a href="hurricane/e_pacific/index.html"> Archive (1949-2008)</a></li>
+          </ul>
+        </li>
+        <li><a href="hurricane/w_pacific/2009/index.html" class="red"> Western Pacific Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/w_pacific/2009/index.html"> Current year</a></li>
+            <li><a href="hurricane/w_pacific/index.html"> Archive (1945-2007)</a></li>
+          </ul>
+        </li>
+        <li><a href="hurricane/s_pacific/2009/index.html" class="red"> Southern Pacific Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/s_pacific/2009/index.html"> Current year</a></li>
+          </ul>
+        </li>
+        <li><a href="hurricane/s_indian/2009/index.html" class="red"> Southern Indian Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/s_indian/2009/index.html"> Current year</a></li>
+            <li><a href="hurricane/s_indian/index.html"> Archive (1945-2003)</a></li>
+          </ul>
+        </li>
+        <li><a href="hurricane/n_indian/2009/index.html" class="red"> Northern Indian Hurricanes</a></li>
+        <li>
+          <ul>
+            <li><a href="hurricane/n_indian/2009/index.html"> Current year</a></li>
+            <li><a href="hurricane/n_indian/index.html"> Archive (1945-2003)</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="archive/index.html" class="purple"> Archive of Images</a> - A long term archive of images stored on a 12 hour basis.</li>
+    <li>
+      <ul class="nobullet">
+        <li><a href="archive/sfc_map/index.html" class="red"> Surface Map</a> - Surface map including station model, fronts, radar and SL pressure contours.</li>
+        <li><a href="archive/sat_ir/index.html" class="red"> Infrared Satellite Image</a> - Infrared satellite image.</li>
+        <li><a href="archive/eta_init/index.html" class="red"> Upper Air Charts</a> - This is a 4 panel plot from the NAM model analysis with 850mb data (upper left), 300mb data (upper right), SL Pressure/Precipitation data (lower left) and Relative Humidity/Showalter Index data (lower right).</li>
+        <li><a href="archive/sst/index.html" class="red"> SST Plot</a> - Sea Surface Temperature plots (including anomalies) archived on a weekly basis.</li>
+      </ul>
+    </li>
+    <li><a href="usgs/index.html" class="purple"> USGS Maps</a> - A set of USGS maps made from DEM (Digital Elevation Model) data and overlaid with roads from the DLG (Digital Line Graph) data set. </li>
+  </ul>
+<div class="clearboth">&nbsp;</div>
+
+</div>
+
+<div id="footer"> <span id="copyright"><small>Copyright &copy; Unisys 2012</small></span>
+  <ul class="inline-navigation-list" id="bottom-navigation">
+    <li><a href="http://www.unisys.com/unisys/privacy.html" target="_blank">Privacy Notice</a></li>
+    <li><a href="http://www.unisys.com/unisys/terms-and-conditions.html" target="_blank">Terms of Use</a></li>
+    <li><a href="contactus.html">Contact Us</a></li>
+    <li><a href="http://www.unisys.com/unisys/trademarks.html" target="_blank">Trademarks</a></li>
+  </ul>
+</div>
+</div>
+</body>
+</html>

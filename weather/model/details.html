@@ -1,0 +1,745 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Unisys Weather </title>
+<meta name="description" content="The intent of this weather site is to provide a complete source of graphical weather 		information. This is intended to satisfy the needs of the weather professional, but can be a tool for the casual user as well. The graphics and data are displayed as a meteorologist would expect to see. For the novice user, there are detailed explanation pages to guide them through the various plots, charts and images. The data on this site are provided from the National Weather Service via the NOAAPORT satellite data service. All the images are generated using the Weather Processor (WXP) analysis package which is available from Unisys. "/>
+<meta name="keywords" content="weather, unisys, unisys weather, weather maps, maps, nam, wrf, GFS, GFSx, hurricane, radar, satellite, surface, upper air" />
+<meta name="copyright" content="Unisys Corp - 2011" />
+<meta name="author" content="Unisys Corporation" />
+<meta name="email" content="technical-support@weather.unisys.com" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="Revisit-after" content="7 Days" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<link rel="stylesheet" type="text/css" href="../css/WMAX.css" />
+</head>
+<body><div style="background:#fff6d8;color:#302139;padding:12px;border:2px solid #75538b;font:14px Arial"><strong>Arthur Tube — historical Unisys Weather archive (2013).</strong> Archived maps and observations are not current. <a href="../forecast.html">Current forecasts</a> · <a href="/cyberbuddy/">Classic Proxy</a> · <a href="/cyberbuddy-continuation/">Continuation</a> · <a href="/">Arthur Tube home</a></div>
+<div id="wrap">
+  <div id="top-menu">
+    <ul id="top-navigation" class="inline-navigation-list">
+      <li><a href="http://www.unisys.com" title="Unisys Home Page">Unisys.com</a></li>
+      <li><a href="../index.html" title="Unisys Weather">Weather Home</a></li>
+      <li><a href="../analyses.html" title="Analyses">Analyses</a></li>
+      <li><a href="../forehome.html" title="Forecast">Forecasts</a></li>
+      <li><a href="../archives.html" title="Archives">Archives</a></li>
+      <li><a href="../links.html" title="NOAA Links">NOAA Links</a></li>
+      <li><a href="../contactus.html" title="Contact Us">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <div id="header"> <a href="http://unisys.com"><img src="../images/Unisys_logo.gif" alt="Unisys" /></a>
+    <h1>Unisys Weather</h1>
+  </div>
+
+<div id="leftside">
+  <ul class="avmenu">
+    <li><a href="../index.html" class="purple">Unisys Weather</a></li>
+    <li><a href="../index.html"> Weather Home</a></li>
+    <li><a href="../solutions/index.html">Weather Solutions</a></li>
+    <li><a href="../mobile/index.html"><img id="mobile_icon" src="../mobile/Icon.png" width="24" height="24" alt="Download Unisys Weather Mobile App"/>iPhone App</a></li>
+    <li><a href="../info/index.html">Information</a></li>
+    <li><a href="../content.html">Contents</a></li>
+    <li><a href="../analyses.html" class="purple">Analyses</a></li>
+    <li><a href="../satellite/index.html">Satellite Images</a></li>
+    <li><a href="../surface/index.html">Surface Data</a></li>
+    <li><a href="../upper_air/index.html">Upper Air Data</a></li>
+    <li><a href="../radar/index.html">Radar Data</a></li>
+    <li><a href="../forehome.html" class="purple">Forecasts</a></li>
+    <li><a href="../mos/index.html">Model Statistics</a></li>
+    <li><a href="../nam/index.html">NAM/Wrf Model</a></li>
+    <li><a href="../gfs/index.html?r=us">GFS/Avn Model</a></li>
+    <li><a href="../gfsx/index.html?r=us">GFSx/MRF Model</a></li>
+    <li><a href="../rap/index.html">RAP Model</a></li>
+    <li><a href="../ecmwf/index.html">ECMWF Model</a></li>
+    <li><a href="../archives.html" class="purple">Archive</a></li>
+    <li><a href="../hurricane/index.html">Hurricane Data</a></li>
+    <li><a href="../archive/index.html">Archive of Images</a></li>
+    <li><a href="../usgs/index.html">USGS Maps</a></li>
+  </ul>
+</div>
+
+<div id="extras">
+  <ul class="avmenu">
+    <li><a href="../foresetup.html" class="purple">Get a Forecast</a></li>
+  </ul>
+
+
+
+  <form method="get" id="Forecast" action="../forecast.html">
+    <p class="center"> Enter a zip code or city name to get forecast:
+      <input type="text" name="Name" id="Name" size="15" />
+      <br />
+      <button type="submit" style="border:none; background-color:transparent;">
+         <img src="../images/GO.png" id="Go" alt="Get Forecast Data" style="height:30px;" />
+      </button>
+      <a href="../foresetup.html"><img src="../images/setup.png" alt="Setup Location" height="30" width="70" /></a> </p>
+  </form>
+  
+  <ul class="avmenu">
+    <li><a href="../links.html" class="purple">NOAA Links</a></li>
+    <li><a href="http://lwf.ncdc.noaa.gov/">National Climatic Data Center</a></li>
+    <li><a href="http://www.cpc.noaa.gov/">Climate Prediction Center</a></li>
+    <li><a href="http://oceanservice.noaa.gov/">National Ocean Service</a></li>
+    <li><a href="http://www.lib.noaa.gov/">NOAA Library</a></li>
+    <li><a href="http://www.oar.noaa.gov/">NOAA Office of Oceanic and Atmospheric Research</a></li>
+    <li><a href="http://www.esrl.noaa.gov/">Earth Systems Research Laboratory</a></li>
+    <li><a href="../overview.html" class="purple">About Us</a></li>
+    <li><a href="../overview.html" title="Contact Us">Overview</a></li>
+    <li><a href="../contactus.html" title="Contact Us">Contact Us</a></li>
+  </ul>
+</div>
+<div id="content">
+
+<div class="drop">
+<h2>Forecast Model Details</h2>
+
+<p>This document discusses the various types of products 
+available in the NAM, GFS, extended GFS (GFSx), RUC and ECWMF model plots. </p>
+
+<a name="500p"></a><h3>500 mb/SLP Plots</h3>
+
+<p><img src="images/mrf_500p_sample.gif" alt="Sample MRF 500 mb Plot" height="192" width="240"/><br /><i>Sample MRF 500 mb Plot</i></p>
+
+<p>The 500mb/SLP plots show two parameters: 500 mb heights 
+(in color contours) and sea level pressure (in black line contours). </p>
+
+<p><b>Sea level pressure</b><br />
+The sea level pressure field can be used to find low and high pressure systems 
+as well as the location of cold fronts. The highs and lows can be located by 
+the white H and L symbols on the map. Cold fronts will generally start from 
+areas of low pressure and follow the trough of low pressure south and to the 
+west of the low. Rain and/or snow is likely in the regions directly around 
+the low and somewhat less likely along the cold front. </p>
+
+<p><b>500 mb heights</b><br />
+The 500 mb heights are often referred to as the sterring winds of the 
+atmosphere.  Following a specific color will show where the winds and thus 
+pressure systems (cyclones and anticyclones) will move. If the flow is from 
+north to south, the weather will be genreally collder than normal. If the 
+flow is from south to north, the weather will be warmer than normal.<br />
+<img src="images/500p_lgnd.gif" alt="500p_Lgnd" height="27" width="336"/></p>
+
+<p>The heights can also be used to estimate surface 
+temperatures since height of a pressure surface is related to the mean 
+temperature of the air below it. Here is a rough estimate of temperatures 
+based on color. The variability is on the order of +-10 degrees F:</p>
+
+<table border="1">
+  <tr>
+    <td><b>Height</b></td>
+    <td><b>Color</b></td>
+    <td><b>Hi Temp</b></td>
+  </tr>
+  <tr>
+    <td>5940-6000</td>
+    <td>Red</td>
+    <td>~90</td>
+  </tr>
+  <tr>
+    <td>5880-5940</td>
+    <td>Red Orange</td>
+    <td>~84</td>
+  </tr>
+  <tr>
+    <td>5820-5880</td>
+    <td>Orange</td>
+    <td>~78</td>
+  </tr>
+  <tr>
+    <td>5760-5820</td>
+    <td>Yellow Orange</td>
+    <td>~72</td>
+  </tr>
+  <tr>
+    <td>5700-5760</td>
+    <td>Yellow</td>
+    <td>~66</td>
+  </tr>
+  <tr>
+    <td>5640-5700</td>
+    <td>Greenish Yellow</td>
+    <td>~60</td>
+  </tr>
+  <tr>
+    <td>5580-5640</td>
+    <td>Yellowish Green</td>
+    <td>~54</td>
+  </tr>
+  <tr>
+    <td>5520-5580</td>
+    <td>Green</td>
+    <td>~48</td>
+  </tr>
+  <tr>
+    <td>5460-5520</td>
+    <td>Cyanish Green</td>
+    <td>~42</td>
+  </tr>
+  <tr>
+    <td>5400-5460</td>
+    <td>Greenish Cyan</td>
+    <td>~36</td>
+  </tr>
+  <tr>
+    <td>5340-5400</td>
+    <td>Cyan</td>
+    <td>~30</td>
+  </tr>
+  <tr>
+    <td>5280-5340</td>
+    <td>Blueish Cyan</td>
+    <td>~24</td>
+  </tr>
+  <tr>
+    <td>5220-5280</td>
+    <td>Blue Cyan</td>
+    <td>~18</td>
+  </tr>
+  <tr>
+    <td>5160-5220</td>
+    <td>Cyanish Blue</td>
+    <td>~12</td>
+  </tr>
+  <tr>
+    <td>5100-5160</td>
+    <td>Blue</td>
+    <td>~6</td>
+  </tr>
+  <tr>
+    <td>5040-5100</td>
+    <td>Magentaish Blue</td>
+    <td>~0</td>
+  </tr>
+  <tr>
+    <td>4980-5040</td>
+    <td>Blueish Magenta</td>
+    <td>~-6</td>
+  </tr>
+  <tr>
+    <td>4920-4980</td>
+    <td>Magenta</td>
+    <td>~-12</td>
+  </tr>
+  <tr>
+    <td>4860-4920</td>
+    <td>Medium Magenta</td>
+    <td>~-18</td>
+  </tr>
+  <tr>
+    <td>4800-4860</td>
+    <td>Dark Magenta</td>
+    <td>~-24</td>
+  </tr>
+</table>
+<p>Modify these by: </p>
+<table border="1">
+  <tr>
+    <td><b>Type of conditions</b></td>
+    <td><b>Modify by</b></td>
+  </tr>
+  <tr>
+    <td>Deserts</td>
+    <td>+20</td>
+  </tr>
+  <tr>
+    <td>Mid Summer</td>
+    <td>+10</td>
+  </tr>
+  <tr>
+    <td>Tropics</td>
+    <td>+5</td>
+  </tr>
+  <tr>
+    <td>Spring/Fall</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Cloud cover</td>
+    <td>-5</td>
+  </tr>
+  <tr>
+    <td>Rainy areas</td>
+    <td>-10</td>
+  </tr>
+  <tr>
+    <td>Near Low Press</td>
+    <td>-10</td>
+  </tr>
+  <tr>
+    <td>Wintertime</td>
+    <td>-10</td>
+  </tr>
+  <tr>
+    <td>Snow cover</td>
+    <td>-10</td>
+  </tr>
+  <tr>
+    <td>Arctic Winter</td>
+    <td>-20</td>
+  </tr>
+</table>
+
+<hr/>
+<a name="press"></a><h3>Sea Level Pressure Forecast</h3>
+
+<p><img src="images/eta_pres_sample.gif" alt="Sample Surface Plot" height="180" width="240"/><br /><i>Sample Surface Plot</i></p>
+
+<p>The pressure forecast chart includes three parameters: 
+sea level pressure (cyan lines), 1000-500 mb thickness (brown dotted lines) 
+and quantitative precipitation (color contours). </p>
+
+<p><b>Sea level pressure field</b><br />
+The sea level pressure field will detail the location and strength of high 
+and low pressure systems as well as locate warm, cold and stationary fronts. 
+The pressure contours or isobars are drawn every 4 millibars. Cold fronts 
+generally follow the pressure trough flowing south and west from the low 
+pressure system. Warm fronts can be located at times as pressure troughs going 
+east out of a low but are generally hard to find. Surface winds are related 
+to the packing of the pressure contours (isobars). The tighter the packing,
+the stronger the winds are. </p>
+
+<p><b>Quantitative precpitation field</b><br />
+The quantitative precpitation field shows estimated 12 hour precipitation 
+(liquid equivalent) for the 12 hour period prior to the valid time. For 
+example a 12 hour precipitation field valid 12Z THU 11 NOV 93 would show 12 
+hour accumulated precipitation from 00Z THU to 12Z THU. The contours follow 
+this scale:<br />
+<img src="images/pres_lgnd.gif" alt="Pres_Lgnd" height="24" width="255"/> </p>
+
+<table border="1">
+  <tr>
+    <td><b>Color</b></td>
+    <td><b>Precipitation Amount</b></td>
+  </tr>
+  <tr>
+    <td>Black</td>
+    <td>no measurable precip.</td>
+  </tr>
+  <tr>
+    <td>Dark Magenta</td>
+    <td>.01 to .05 inches</td>
+  </tr>
+  <tr>
+    <td>Medium Magenta</td>
+    <td>.05 to .10 inches</td>
+  </tr>
+  <tr>
+    <td>Light Magenta</td>
+    <td>.10 to .18 inches</td>
+  </tr>
+  <tr>
+    <td>Bright Magenta</td>
+    <td>.18 to .25 inches</td>
+  </tr>
+  <tr>
+    <td>Blue</td>
+    <td>.25 to .38 inches</td>
+  </tr>
+  <tr>
+    <td>Light Blue</td>
+    <td>.38 to .50 inches</td>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>.50 to .75 inches</td>
+  </tr>
+  <tr>
+    <td>Light Green</td>
+    <td>.75 to 1.0 inches</td>
+  </tr>
+  <tr>
+    <td>Brown</td>
+    <td>1.0 to 1.5 inches</td>
+  </tr>
+  <tr>
+    <td>Yellow</td>
+    <td>1.5 to 2.0 inches</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>2.0 to 3.0 inches</td>
+  </tr>
+  <tr>
+    <td>Light Red</td>
+    <td>3.0 to 4.0 inches</td>
+  </tr>
+  <tr>
+    <td>Gray</td>
+    <td>greater than 4.0 inches</td>
+  </tr>
+</table>
+
+<p>In addition, the precipitation forecast can be used to 
+estimate snow fall. A general 10 to 1 ratio can be used for snowfall based 
+on the liquid equivalent shown in this chart.  Using the 850 chart freezing 
+line to determine whether the precipitation is snow or not, you take the 
+precipitation total at a location and multiply it by 10 to get potential 
+snowfall. </p>
+
+<p><b>1000-500 mb thickness field</b><br />
+Thickness lines are drawn in dotted brown at a 60 m interval. The 5100, 5400, 
+and 5700 m lines are solid. This represents the thickness in meters between 
+the 500 mb pressure surface and the 1000 mb surface. This is directly related 
+to mean layer temperature and is often used to determine precipitation type. 
+The 5400 thickness line is often referred to as the rain/snow line. Also, it 
+is also known that surface pressure systems tend to move along thickness 
+lines. </p>
+
+<hr/>
+<a name="surface"></a><h3>Surface Forecast (NAM only)</h3>
+
+<p><img src="images/eta_sfc_sample.gif" alt="Sample surface Plot" height="180" width="240"/><br /><i>Sample surface Plot</i></p>
+
+<p>The surface chart details near surface weather conditions 
+and is intended to aid in estimation of surface conditions. The parameters 
+plotted are temperature in Celsius (in color contours), convergence (black 
+lines, interval=2, shaded > 0), dewpoints in Celsius (plotted in various 
+colors) and winds plotted as vectors. </p>
+
+<p><b>2 m above ground temperature field</b><br />
+<img src="images/sfc_lgnd.gif" alt="1000_Lgnd" height="22" width="257"/><br />
+The temperature field shows the location of warm and cold air near the 
+surface of the earth and can be used to locate surface fronts or estimate 
+high and low temperatures. It should be noted, these are rough temperatures 
+are won't reflect exact surface tempreatures that would be reported at 
+station locations.</p>
+
+<p><b>10 m above ground convergence field</b><br />
+The convergence field shows where low level wind conditions are favorable 
+for thunderstorm development. Positive areas (shaded) represent converging 
+winds and result in forced upward movement of air. Thunderstorms can develop 
+in areas where convergence is strongly positive (&gt;;2). Negative areas 
+(non-shaded) represent diverging air which is often a result of descending air 
+and indicates areas of clearing weather. </p>
+
+<p><b>2 m above ground dewpoint field </b><br />
+The dewpoint field shows the amount of moisture in the atmosphere. The higher 
+the dewpoint, the higher the moisture content. These are plotted as colored 
+lines at 5 degree Celsius intervals:</p>
+
+<table border="1">
+  <tr>
+    <td><b>Color</b></td>
+    <td><b>Dewpoint</b></td>
+  </tr>
+  <tr>
+    <td>thick gray</td>
+    <td>-30C</td>
+  </tr>
+  <tr>
+    <td>thin gray</td>
+    <td>-25 and -20C</td>
+  </tr>
+  <tr>
+    <td>thick magenta</td>
+    <td>-15C</td>
+  </tr>
+  <tr>
+    <td>thin magenta</td>
+    <td>-10 and -5C</td>
+  </tr>
+  <tr>
+    <td>thick red</td>
+    <td>0C</td>
+  </tr>
+  <tr>
+    <td>thin red</td>
+    <td>5 and 10C</td>
+  </tr>
+  <tr>
+    <td>thick white</td>
+    <td>15C</td>
+  </tr>
+  <tr>
+    <td>thick orage</td>
+    <td>20C</td>
+  </tr>
+  <tr>
+    <td>dashed thick orange</td>
+    <td>25C</td>
+  </tr>
+</table>
+
+<p>Dewpoint temperatures are decent indicators of potential 
+low temperatures. The morning temperatures will rarely drop below the 
+dewpoint. The dewpoint will also indicate here moisture is significant
+enough to fuel thunderstorm development. 59 F or 15 Celsius is a cutoff for 
+strong thunderstorm development. Areas of dewpoints greater than 20 C can 
+generate air mass thunderstorms which often aren't reliant on low level 
+convergence for initial development.  </p>
+
+<p><b>10 m above ground wind vectors</b><br />
+These are the estimate surface winds plotted as vectors. This shows whether
+the low level flow is from the south where warmer more moist air would advect 
+into the region or whether the flow is from the north where cooler drier air 
+would advect in.</p>
+
+<hr/>
+<a name="1000mb"></a><h3>1000 mb Forecast </h3>
+<p><img src="images/eta_1000_sample.gif" alt="Sample 1000 mb Plot" height="180" width="240"/><br /><i>Sample 1000 mb Plot</i></p>
+
+<p>The 1000 mb chart details near surface weather conditions 
+and is plotted since most models don't report surface conditions. The 
+parameters plotted are the same as the surface plot except for the level 
+being 1000 mb. These include temperature in Celsius (in color contours), 
+convergence (black lines, interval=2, shaded > 0), dewpoints in Celsius
+(colored lines, interval=5) and winds plotted as vectors. </p>
+
+<p><b>1000 mb temperature field</b><br />
+<img src="images/1000_lgnd.gif" alt="1000_Lgnd" height="22" width="257"/><br />
+The temperature field shows the location of warm and cold air near the 
+surface of the earth and can be used to locate surface fronts or predict high 
+and low temperatures. Low level instability can estimated by taking the 
+1000-850 mb temperature differences. A difference of 12 or greater indicates 
+potential instability. </p>
+
+<p><b>1000 mb convergence field</b><br />
+The convergence field shows where low level wind conditions are favorable 
+for thunderstorm development. Positive areas (shaded) represent converging 
+winds and result in forced upward movement of air. Thunderstorms can develop 
+in areas where convergence is strongly positive (&gt;2). Negative areas 
+(non-shaded) represent diverging air which is often a result of descending 
+air and indicates areas of clearing weather. </p>
+
+<p><b>1000 mb dewpoint field </b><br />
+The dewpoint field shows where moisture is significant enough to fuel 
+thunderstorm development. 55 F or 13 Celsius is a cutoff for strong 
+thunderstorm development. Areas of dewpoints greater than 19 C can generate 
+air mass thunderstorms which often aren't reliant on low level convergence 
+for initial development. </p>
+
+<p><b>1000 mb wind vectors<br />
+</b>These are the estimated 1000 mb winds plotted as vectors. This shows
+whether the low level flow is from the south where warmer more moist air 
+would advect into the region or whether the flow is from the north where 
+cooler drier air would advect in.</p>
+
+<p><b>NOTE:</b> Most of the western third of the 
+country have surface pressures well below 1000 mb and these charts don't 
+apply to those regions. </p>
+
+<hr/>
+<a name="850mb"></a><h3>850 mb Forecast </h3>
+<p><img src="images/eta_850_sample.gif" alt="Sample 850 mb Plot" height="180" width="240"/><br /><i>Sample 850 mb Plot</i></p>
+
+<p>The 850 mb chart details weather conditions at the 850 mb 
+level or around 5000 feet above sea level. The parameters plotted are 
+temperatures in Celsius (in color contours), heights in white lines and winds 
+plotted as vectors. </p>
+
+<p><b>850 mb temperature field</b><br />
+<img src="images/850_lgnd.gif" alt="850_Lgnd" height="20" width="254"/><br />
+The temperature field shows where warm and cold air are located at the 5000 
+ft level.  Temperatures at this level do not show the diurnal temperature 
+changes from morning low to afternoon high we see at the earth's surface so 
+warm and cold air advection can be more easily traced. You can estimate 
+potential afternoon highs from these temperatures by adding: 15C in the 
+summer, 12C in spring and fall, and 9C in the winter and converting to 
+Fahrenheit. For example, if the 850 temp is 4C in summer, the afternoon 
+temperature could reach 4+15=19C=67F. In the winter, 4+9=13C=55F. This 
+algorithm does not work in the western third of the country due to its 
+high altitude. </p>
+
+<p>The 850 temperature is also a decent determiner of the 
+type of precipitation. Since most precipitation forms at 5000 feet or above, 
+a temperature of freezing (0 Celsius) or below would indicate snow whereas a 
+temperature above freezing would indicate rain. </p>
+
+<p><b>850 mb height field</b><br />
+The height field works very similar to the sea level pressure field. Lows 
+and highs can found and compared to sea level locations. Strength of winds 
+are again related to the packing of the height contours. </p>
+
+<p><b>850 mb wind vector field</b><br />
+The vector field shows wind direction and speed. Often this can be used to 
+qualitatively show areas of convergence and divergence. In the middle and 
+upper levels of the troposphere, this can be an indicator of existing upward 
+(from divergence) or downward (from convergence) air motion. Upward motion 
+is often linked to precipitation and downward to clear skies. </p>
+
+<hr/>
+<a name="700mb"></a><h3>700 mb Forecast </h3>
+
+<p><img src="images/eta_700_sample.gif" alt="Sample 700 mb Plot" height="180" width="240"/><br /><i>Sample 700 mb Plot</i></p>
+
+<p>The 700 mb chart shows the forecasted vertical velocities 
+(colors), heights (solid white lines) and wind vectors. </p>
+
+<p><b>700 mb vertical velocity field</b><br />
+<img src="images/700_lgnd.gif" alt="700_Lgnd" height="19" width="262"/><br />
+The vertical velocity field shows the vertical motion in -mb/sec through the 
+700 mb surface. Positive values (greens, yellows and reds) are upward motion 
+and negative values (blues and magentas) are downward motion. The unit of 
+mb/sec is roughly equal to a cm/sec so it is easy to see that vertical motion 
+is roughly two orders of magnitude smaller than horizontal motion. This comes 
+from the fact that our atmosphere is generally stable and that upward motion 
+is generally an artifact of precipitation releasing heat energy. In other 
+words, moderate to strong positive areas (&gt;5) reflect areas where there 
+is precipitation or soon will be. Strongly positive areas (&gt;10) generally 
+indicate areas of potential thunderstorms. Negative areas show descending air 
+which are generatlly associated to areas of fair weather and often clear 
+skies. If precipitation is occurring in these areas it will end soon. 
+Sometimes descending air will trap cloudiness below it and result in a low 
+overcast that can linger for days. </p>
+
+<p><b>700 mb height field</b><br />
+The height field works very similar to the sea level pressure field. Lows 
+and highs can found and compared to sea level locations. Strength of winds 
+are again related to the packing of the height contours.</p>
+
+<p><b>700 mb wind vector field</b><br />
+The vector field shows wind direction and speed. Often this can be used to 
+qualitatively show areas of convergence and divergence. In the middle and 
+upper levels of the troposphere, this can be an indicator of existing upward 
+(from divergence) or downward (from convergence) air motion. </p>
+
+<hr/>
+<a name="500mb"></a><h3>500 mb Forecast </h3>
+<p><img src="images/eta_500_sample.gif" alt="Sample 500 mb Plot" height="180" width="240"/><br /><i>Sample 500 mb Plot</i></p>
+
+<p>The 500 mb chart shows the absolute vorticity (in color 
+contours), the height field (in white lines) and wind vectors. </p>
+
+<p><b>500 height field</b><br />
+The 500 mb level is often refered to as the steering level as most weather 
+systems and precipitation follow the winds at this level. The winds follow 
+the height contours and generally run from 30 to 100 knots. The speeds can 
+be roughly estimated from the 300 mb winds as roughly 2/3rds their magnitude. 
+This level averages around 18,000 feet above sea level and is roughly half-way 
+up through the weather producing part of the atmosphere called the 
+troposphere. </p>
+
+<p><b>500 mb vorticity field</b><br />
+<img src="images/500_lgnd.gif" alt="500_Lgnd" height="21" width="255"/><br />
+The vorticity field shows small eddies in the atmosphere that generally are 
+not detectable on the standard height field. Values of 14 (green) or higher 
+highlight those eddies. The higher the vorticity, the stronger the eddy. 
+These eddies can help strengthen surface low pressure systems and induce 
+precipitation and are often used as a predictive tool. </p>
+
+<p><b>500 mb wind vector field</b><br />
+The vector field shows wind direction and speed. Often this can be used to 
+qualitatively show areas of convergence and divergence. In the middle and 
+upper levels of the troposphere, this can be an indicator of existing upward 
+(from divergence) or downward (from convergence) air motion. </p>
+
+<hr/>
+<a name="300mb"></a><h3>300 mb Forecast </h3>
+<p><img src="images/eta_300_sample.gif" alt="Sample 300 mb Plot" height="180" width="240"/><br /><i>Sample 300 mb Plot</i></p>
+
+<p>The 300 mb chart shows the winds at the 300 mb level. The 
+wind speeds are shown in color contours, the heights in solid white lines and 
+the vectors show wind direction and speed. </p>
+
+<p><b>300 mb wind speed field</b><br />
+<img src="images/300_lgnd.gif" alt="300 mb wind speed field" height="21" width="257"/><br />
+The 300 mb chart investigates the upper portion of the troposphere where 
+most of the weather producing phenomena occur. This level lies around 30,000 
+feet up and is often referred to as the jet stream level. Areas of strong 
+winds at this level (winds &gt;100 knots or 115 mph), commonly referred to 
+as jets, indicate areas of high atmospheric energy. These are created by 
+strong temperature contrasts in the lower and middle tropopause and reflect 
+areas of potential storm development. A strong jet (winds &gt;130 knots) can 
+indicate the potential for the development of a strong low pressure system 
+especially when if moves over the Rocky mountains and into the Plains states. 
+A strong jet hitting the west coast can indicate the existence of a strong 
+precipitation producing system. </p>
+
+<p><b>300 mb wind vector field</b><br />
+The vector field shows wind direction and speed. Often this can be used to 
+qualitatively show areas of convergence and divergence. In the middle and 
+upper levels of the troposphere, this can be an indicator of existing upward 
+(from divergence) or downward (from convergence) air motion. Upward motion 
+is often linked to precipitation and downward to clear skies. </p>
+
+<hr/>
+<a name="rh-li"></a><h3>Relative Humdity/Lifted Index Forecast </h3>
+
+<p><img src="images/eta_rh_sample.gif" alt="Sample RH-LI Plot" height="180" width="240"/><br /><i>Sample RH-LI Plot</i></p>
+
+<p>The Relative Humidity/Lifted Index chart depicts two 
+fields: integrated relative humdity from 850 to 500 mb (in color contours) 
+and lifted index (in white line contours). </p>
+
+<p><b>1000-500 integrated relative humidity field</b><br />
+<img src="images/rh_lgnd.gif" alt="RH_LI_Lgnd" height="21" width="261"/><br />
+The RH field is a good predictor of cloud location and thickness. Areas of RH 
+&lt;60% generally are clear or have partly cloud skies. Areas of 60-80% are 
+generally overcast or mostly cloudy. Areas greater than 80% are overcast 
+with a high likelihood of precipitation as RH approaches 100%. </p>
+
+<p><b>Lifted index field</b><br />
+The LI field shows instability in the atmosphere. Where LIs are &lt;0 (also 
+highlighted in a gray shading), thunderstorms are possible. The lower the 
+number, the more unstable the atmosphere is and as a result, the stronger the 
+thunderstorms could become. Values of -4 or lower indicate areas where severe 
+thunderstorms are possible. Values &gt;10 indicate areas of stable weather 
+where skies are generally clear.</p>
+
+<p><b>NOTE:</b> For the GFS and GFSx models, the lifted 
+index field is not broadcast so the showalter index (a rough equivalent) is 
+plotted instead.</p>
+
+<hr/>
+<a name="cape"></a><h3>CAPE Plots (NAM only)</h3>
+<p>CAPE represents the amount of energy a parcel might have 
+if it were lifted. Often this reflects the strength of updrafts within a 
+thunderstorm. CAPE values of greater than 2000 represent enough energy to 
+produce thunderstorms. A value greater than 3000 represents enough energy to 
+produce strong thunderstorms. Values &lt;1000 denote a reletively stable
+atmosphere.</p>
+
+<hr/>
+<a name="hel"></a><h3>Helicity Plots (NAM only)</h3>
+<p>Helicity is used to indicate where rotation/shear is high 
+enough to allow thunderstorms to organize into severe or supercell storms. In 
+the lack of helicity, storms develop vertically and the precipitation will 
+snuff out the updraft killing the thunderstorm.  Severe storms need helicity 
+to maintain an organized structure allowing hte storm to develop to severe 
+limits. A value of 400-500 is often needed to produce severe storms.  Often 
+this is used in conjunction with CAPE to determine severe storm location.
+</p>
+
+<hr/>
+<a name="ehi"></a><h3>Energy Helicity Index (EHI) Plots (NAM only)</h3>
+<p>The Energy Helicity Index (EHI) is a combination of CAPE 
+and Helicity to show where there is a potential for strong and possibly 
+tornadic thunderstorms may form. CAPE shows the ability of the atmosphere to 
+develop a thunderstorm. Strong thunderstorms need shear or rotation which is 
+reflected in the Helicity value. The combination of the two not only shows 
+where thunderstorms will develop but also where shear/rotation in the 
+atmopshere is strong enough for tornado formation. Typical thunderstorm
+producing values are around 1-2. A value greater than 3 indicated the 
+potential for strong thunderstorms. A value greater than 4 indicates the 
+potential for tornado formation within those storms.</p>
+
+<hr/>
+<a name="4panel"></a><h3>4 Panel Plots</h3>
+<p><img src="images/4panel_sample.gif" alt="Sample 4 panel Plot" height="240" width="320"/><br /><i>Sample 4 panel Plot</i></p>
+
+<p>This is a combination of the following plots:</p>
+<p>
+<a href="#850mb"> 850 mb plot in the upper left</a><br />
+<a href="#300mb"> 300 mb plot in the upper right</a><br />
+<a href="#press"> Sea level pressure plot in the lower left</a><br />
+<a href="#rh-li"> Relative humidity/lifted index plot in the lower right</a></p>
+</div>
+<div class="clearboth">&nbsp;</div>
+
+</div>
+
+<div id="footer"> <span id="copyright"><small>Copyright &copy; Unisys 2012</small></span>
+  <ul class="inline-navigation-list" id="bottom-navigation">
+    <li><a href="http://www.unisys.com/unisys/privacy.html" target="_blank">Privacy Notice</a></li>
+    <li><a href="http://www.unisys.com/unisys/terms-and-conditions.html" target="_blank">Terms of Use</a></li>
+    <li><a href="../contactus.html">Contact Us</a></li>
+    <li><a href="http://www.unisys.com/unisys/trademarks.html" target="_blank">Trademarks</a></li>
+  </ul>
+</div>
+</div>
+</body>
+</html>

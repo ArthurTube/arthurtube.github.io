@@ -1,0 +1,473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Unisys Weather  - Hurricane / Tropical Data</title>
+<meta name="description" content="The intent of this weather site is to provide a complete source of graphical weather 		information. This is intended to satisfy the needs of the weather professional, but can be a tool for the casual user as well. The graphics and data are displayed as a meteorologist would expect to see. For the novice user, there are detailed explanation pages to guide them through the various plots, charts and images. The data on this site are provided from the National Weather Service via the NOAAPORT satellite data service. All the images are generated using the Weather Processor (WXP) analysis package which is available from Unisys. "/>
+<meta name="keywords" content="weather, unisys, unisys weather, weather maps, maps, nam, wrf, GFS, GFSx, hurricane, radar, satellite, surface, upper air" />
+<meta name="copyright" content="Unisys Corp - 2011" />
+<meta name="author" content="Unisys Corporation" />
+<meta name="email" content="technical-support@weather.unisys.com" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="Revisit-after" content="7 Days" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<link rel="stylesheet" type="text/css" href="/weather/css/WMAX.css" />
+</head>
+<body><div style="background:#fff6d8;color:#302139;padding:12px;border:2px solid #75538b;font:14px Arial"><strong>Arthur Tube — historical Unisys Weather archive (2013).</strong> Archived maps and observations are not current. <a href="/weather/forecast.html">Current forecasts</a> · <a href="/cyberbuddy/">Classic Proxy</a> · <a href="/cyberbuddy-continuation/">Continuation</a> · <a href="/">Arthur Tube home</a></div>
+<div id="wrap">
+  <div id="top-menu">
+    <ul id="top-navigation" class="inline-navigation-list">
+      <li><a href="http://www.unisys.com" title="Unisys Home Page">Unisys.com</a></li>
+      <li><a href="/weather/index.html" title="Unisys Weather">Weather Home</a></li>
+      <li><a href="/weather/analyses.html" title="Analyses">Analyses</a></li>
+      <li><a href="/weather/forehome.html" title="Forecast">Forecasts</a></li>
+      <li><a href="/weather/archives.html" title="Archives">Archives</a></li>
+      <li><a href="/weather/links.html" title="NOAA Links">NOAA Links</a></li>
+      <li><a href="/weather/contactus.html" title="Contact Us">Contact Us</a></li>
+    </ul>
+  </div>
+
+  <div id="header"> <a href="http://unisys.com"><img src="/weather/images/Unisys_logo.gif" alt="Unisys" /></a>
+    <h1>Unisys Weather</h1>
+  </div>
+
+<div id="leftside">
+  <ul class="avmenu">
+    <li><a href="/weather/index.html" class="purple">Unisys Weather</a></li>
+    <li><a href="/weather/index.html"> Weather Home</a></li>
+    <li><a href="/weather/solutions/index.html">Weather Solutions</a></li>
+    <li><a href="/weather/mobile/index.html"><img id="mobile_icon" src="/weather/mobile/Icon.png" width="24" height="24" alt="Download Unisys Weather Mobile App"/>iPhone App</a></li>
+    <li><a href="/weather/info/index.html">Information</a></li>
+    <li><a href="/weather/content.html">Contents</a></li>
+    <li><a href="/weather/analyses.html" class="purple">Analyses</a></li>
+    <li><a href="/weather/satellite/index.html">Satellite Images</a></li>
+    <li><a href="/weather/surface/index.html">Surface Data</a></li>
+    <li><a href="/weather/upper_air/index.html">Upper Air Data</a></li>
+    <li><a href="/weather/radar/index.html">Radar Data</a></li>
+    <li><a href="/weather/forehome.html" class="purple">Forecasts</a></li>
+    <li><a href="/weather/mos/index.html">Model Statistics</a></li>
+    <li><a href="/weather/nam/index.html">NAM/Wrf Model</a></li>
+    <li><a href="/weather/gfs/index.html?r=us">GFS/Avn Model</a></li>
+    <li><a href="/weather/gfsx/index.html?r=us">GFSx/MRF Model</a></li>
+    <li><a href="/weather/rap/index.html">RAP Model</a></li>
+    <li><a href="/weather/ecmwf/index.html">ECMWF Model</a></li>
+    <li><a href="/weather/archives.html" class="purple">Archive</a></li>
+    <li><a href="/weather/hurricane/index.html">Hurricane Data</a></li>
+    <li><a href="/weather/archive/index.html">Archive of Images</a></li>
+    <li><a href="/weather/usgs/index.html">USGS Maps</a></li>
+  </ul>
+</div>
+
+<div id="extras">
+  <ul class="avmenu">
+    <li><a href="/weather/foresetup.html" class="purple">Get a Forecast</a></li>
+  </ul>
+
+
+
+  <form method="get" id="Forecast" action="/weather/forecast.html">
+    <p class="center"> Enter a zip code or city name to get forecast:
+      <input type="text" name="Name" id="Name" size="15" />
+      <br />
+      <button type="submit" style="border:none; background-color:transparent;">
+         <img src="/weather/images/GO.png" id="Go" alt="Get Forecast Data" style="height:30px;" />
+      </button>
+      <a href="/weather/foresetup.html"><img src="/weather/images/setup.png" alt="Setup Location" height="30" width="70" /></a> </p>
+  </form>
+  
+  <ul class="avmenu">
+    <li><a href="/weather/links.html" class="purple">NOAA Links</a></li>
+    <li><a href="http://lwf.ncdc.noaa.gov/">National Climatic Data Center</a></li>
+    <li><a href="http://www.cpc.noaa.gov/">Climate Prediction Center</a></li>
+    <li><a href="http://oceanservice.noaa.gov/">National Ocean Service</a></li>
+    <li><a href="http://www.lib.noaa.gov/">NOAA Library</a></li>
+    <li><a href="http://www.oar.noaa.gov/">NOAA Office of Oceanic and Atmospheric Research</a></li>
+    <li><a href="http://www.esrl.noaa.gov/">Earth Systems Research Laboratory</a></li>
+    <li><a href="/weather/overview.html" class="purple">About Us</a></li>
+    <li><a href="/weather/overview.html" title="Contact Us">Overview</a></li>
+    <li><a href="/weather/contactus.html" title="Contact Us">Contact Us</a></li>
+  </ul>
+</div>
+<div id="content">
+
+<h2>Hurricane/Tropical Data</h2>
+<p>
+This page provides access to a wealth of hurricane information including charts on the track of the storm plus a text based table of tracking information. The table includes position in latitude and longitude, maximum sustained winds in knots, and central pressure in millibars.</p>
+
+<table>
+  <tr>
+    <th width="33%"><a href="/weather/hurricane/atlantic/index.html">Atlantic</a></th>
+    <th width="33%"><a href="/weather/hurricane/e_pacific/index.html">East Pacific</a></th>
+    <th width="33%"><a href="/weather/hurricane/w_pacific/index.html">West Pacific</a></th>
+  </tr>  
+  <tr>
+    <td width="33%" valign="top">
+      <b>From TPC Advisories:<br/>
+      <a href="/weather/hurricane/atlantic/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/atlantic/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/atlantic/2011H/index.html">2011</a><br/>
+      <a href="/weather/hurricane/atlantic/2010H/index.html">2010</a><br/>
+      <a href="/weather/hurricane/atlantic/2009H/index.html">2009</a><br/>
+      <a href="/weather/hurricane/atlantic/2008H/index.html">2008</a><br/>
+      <a href="/weather/hurricane/atlantic/2007H/index.html">2007</a><br/>
+      <a href="/weather/hurricane/atlantic/2006H/index.html">2006</a><br/>
+      <a href="/weather/hurricane/atlantic/2005H/index.html">2005</a><br/>
+      <a href="/weather/hurricane/atlantic/2004H/index.html">2004</a><br/>
+      <a href="/weather/hurricane/atlantic/2003H/index.html">2003</a><br/>
+      <a href="/weather/hurricane/atlantic/2002H/index.html">2002</a><br/>
+      <a href="/weather/hurricane/atlantic/2001H/index.html">2001</a><br/>
+      <a href="/weather/hurricane/atlantic/2000H/index.html">2000</a><br/>
+      <a href="/weather/hurricane/atlantic/1999H/index.html">1999</a><br/>
+      <a href="/weather/hurricane/atlantic/1998H/index.html">1998</a><br/>
+      <a href="/weather/hurricane/atlantic/1997H/index.html">1997</a><br/>
+      <a href="/weather/hurricane/atlantic/1996H/index.html">1996</a><br/>
+      <a href="/weather/hurricane/atlantic/1995H/index.html">1995</a></b>
+    </td>
+    <td width="33%" valign="top">
+      <b>From TPC Advisories:<br/>
+      <a href="/weather/hurricane/e_pacific/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/e_pacific/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/e_pacific/2011H/index.html">2011</a><br/>
+      <a href="/weather/hurricane/e_pacific/2010H/index.html">2010</a><br/>
+      <a href="/weather/hurricane/e_pacific/2009H/index.html">2009</a><br/>
+      <a href="/weather/hurricane/e_pacific/2008H/index.html">2008</a><br/>
+      <a href="/weather/hurricane/e_pacific/2007H/index.html">2007</a><br/>
+      <a href="/weather/hurricane/e_pacific/2006H/index.html">2006</a><br/>
+      <a href="/weather/hurricane/e_pacific/2005H/index.html">2005</a><br/>
+      <a href="/weather/hurricane/e_pacific/2004H/index.html">2004</a><br/>
+      <a href="/weather/hurricane/e_pacific/2003H/index.html">2003</a><br/>
+      <a href="/weather/hurricane/e_pacific/2002H/index.html">2002</a><br/>
+      <a href="/weather/hurricane/e_pacific/2001H/index.html">2001</a><br/>
+      <a href="/weather/hurricane/e_pacific/2000H/index.html">2000</a><br/>
+      <a href="/weather/hurricane/e_pacific/1999H/index.html">1999</a><br/>
+      <a href="/weather/hurricane/e_pacific/1998H/index.html">1998</a><br/>
+      <a href="/weather/hurricane/e_pacific/1997H/index.html">1997</a></b>
+    </td>
+    <td width="33%" valign="top">
+      <b>From JTWC Advisories:<br/>
+      <a href="/weather/hurricane/w_pacific/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/w_pacific/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/w_pacific/2011H/index.html">2011</a><br/>
+      <a href="/weather/hurricane/w_pacific/2010H/index.html">2010</a><br/>
+      <a href="/weather/hurricane/w_pacific/2009H/index.html">2009</a><br/>
+      <a href="/weather/hurricane/w_pacific/2008H/index.html">2008</a><br/>
+      <a href="/weather/hurricane/w_pacific/2007H/index.html">2007</a><br/>
+      <a href="/weather/hurricane/w_pacific/2006H/index.html">2006</a><br/>
+      <a href="/weather/hurricane/w_pacific/2005H/index.html">2005</a><br/>
+      <a href="/weather/hurricane/w_pacific/2004H/index.html">2004</a><br/>
+      <a href="/weather/hurricane/w_pacific/2003H/index.html">2003</a><br/>
+      <a href="/weather/hurricane/w_pacific/2002H/index.html">2002</a><br/>
+      <a href="/weather/hurricane/w_pacific/2001H/index.html">2001</a><br/>
+      <a href="/weather/hurricane/w_pacific/2000H/index.html">2000</a><br/>
+      <a href="/weather/hurricane/w_pacific/1999H/index.html">1999</a><br/>
+      <a href="/weather/hurricane/w_pacific/1998H/index.html">1998</a><br/>
+      <a href="/weather/hurricane/w_pacific/1997H/index.html">1997</a><br/>
+      <a href="/weather/hurricane/w_pacific/1996H/index.html">1996</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%"  >
+      <a href="/weather/hurricane/atlantic/index.html">Best Track: 1851-2011</a><br/>
+      <a href="/weather/hurricane/atlantic/atl_names.html">Storm names</a><br/>
+      <a href="/weather/hurricane/atlantic/classic.html">Classic Hurricanes</a>
+    </td>
+    <td width="33%"  >
+      <a href="/weather/hurricane/e_pacific/index.html">Best Track: 1949-2011</a><br/>
+      <a href="/weather/hurricane/e_pacific/pac-e_names.html">Storm names</a><br/>
+      &nbsp;
+    </td>
+    <td width="33%"  >
+      <a href="/weather/hurricane/w_pacific/index.html">Best Track: 1945-2011</a><br/>
+      &nbsp;<br/>
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <th width="33%"><a href="/weather/hurricane/s_pacific/index.html">South Pacific</a></th>
+    <th width="33%"><a href="/weather/hurricane/s_indian/index.html">South Indian</a></th>
+    <th width="33%"><a href="/weather/hurricane/n_indian/index.html">North Indian</a></th>
+  </tr>
+  <tr>
+    <td width="33%"  >
+      <b>From JTWC Advisories:<br/>
+      <a href="/weather/hurricane/s_pacific/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/s_pacific/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/s_pacific/2011/index.html">2011</a><br/>
+      <a href="/weather/hurricane/s_pacific/2010/index.html">2010</a><br/>
+      <a href="/weather/hurricane/s_pacific/2009/index.html">2009</a><br/>
+      <a href="/weather/hurricane/s_pacific/2008/index.html">2008</a><br/>
+      <a href="/weather/hurricane/s_pacific/2007/index.html">2007</a><br/>
+      <a href="/weather/hurricane/s_pacific/2006/index.html">2006</a><br/>
+      <a href="/weather/hurricane/s_pacific/2005/index.html">2005</a><br/>
+      <a href="/weather/hurricane/s_pacific/2004/index.html">2004</a><br/>
+      <a href="/weather/hurricane/s_pacific/2003/index.html">2003</a><br/>
+      <a href="/weather/hurricane/s_pacific/2002/index.html">2002</a><br/>
+      <a href="/weather/hurricane/s_pacific/2001/index.html">2001</a><br/>
+      <a href="/weather/hurricane/s_pacific/2000/index.html">2000</a></b>
+    </td>
+    <td width="33%"  >
+      <b>From JTWC Advisories:<br/>
+      <a href="/weather/hurricane/s_indian/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/s_indian/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/s_indian/2011H/index.html">2011</a><br/>
+      <a href="/weather/hurricane/s_indian/2010H/index.html">2010</a><br/>
+      <a href="/weather/hurricane/s_indian/2009H/index.html">2009</a><br/>
+      <a href="/weather/hurricane/s_indian/2008H/index.html">2008</a><br/>
+      <a href="/weather/hurricane/s_indian/2007H/index.html">2007</a><br/>
+      <a href="/weather/hurricane/s_indian/2006H/index.html">2006</a><br/>
+      <a href="/weather/hurricane/s_indian/2005H/index.html">2005</a><br/>
+      <a href="/weather/hurricane/s_indian/2004H/index.html">2004</a><br/>
+      <a href="/weather/hurricane/s_indian/2003H/index.html">2003</a><br/>
+      <a href="/weather/hurricane/s_indian/2002H/index.html">2002</a><br/>
+      <a href="/weather/hurricane/s_indian/2001H/index.html">2001</a><br/>
+      <a href="/weather/hurricane/s_indian/2000H/index.html">2000</a></b>
+    </td>
+    <td width="33%">
+      <b>From JTWC Advisories:<br/>
+      <a href="/weather/hurricane/n_indian/2013/index.html">2013</a><br/>
+      <a href="/weather/hurricane/n_indian/2012/index.html">2012</a><br/>
+      <a href="/weather/hurricane/n_indian/2011H/index.html">2011</a><br/>
+      <a href="/weather/hurricane/n_indian/2010H/index.html">2010</a><br/>
+      <a href="/weather/hurricane/n_indian/2009H/index.html">2009</a><br/>
+      <a href="/weather/hurricane/n_indian/2008H/index.html">2008</a><br/>
+      <a href="/weather/hurricane/n_indian/2007H/index.html">2007</a><br/>
+      <a href="/weather/hurricane/n_indian/2006H/index.html">2006</a><br/>
+      <a href="/weather/hurricane/n_indian/2005H/index.html">2005</a><br/>
+      <a href="/weather/hurricane/n_indian/2004H/index.html">2004</a><br/>
+      <a href="/weather/hurricane/n_indian/2003H/index.html">2003</a><br/>
+      <a href="/weather/hurricane/n_indian/2002H/index.html">2002</a><br/>
+      <a href="/weather/hurricane/n_indian/2001H/index.html">2001</a><br/>
+      <a href="/weather/hurricane/n_indian/2000H/index.html">2000</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+    </td>
+    <td width="33%">
+      <a href="/weather/hurricane/s_indian/index.html">Best Track: 1949-2011</a>
+    </td>
+    <td width="33%">
+      <a href="/weather/hurricane/n_indian/index.html">Best Track: 1945-2011</a>
+    </td>
+  </tr>
+</table>
+
+<h3>Current Tropical Satellite Images</h3>
+
+<table >
+  <tr>
+    <td width="25%" >
+      <b>Atlantic</b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_vis_a.gif">Visible</a></b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_ir_a.gif">Infrared</a></b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_wv_a.gif">Water Vapor</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" >
+      <b>East Pacific</b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_vis_p.gif">Visible</a></b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_ir_p.gif">Infrared</a></b>
+    </td>
+    <td width="25%" >
+      <b><a href="/weather/hurricane/sat_wv_p.gif">Water Vapor</a></b>
+    </td>
+  </tr>
+</table>
+
+<h3>Aviation Model Forecasts for the Atlantic</h3>
+
+<table>
+  <tr>
+    <td >
+      <b>Sea Level Pressure</b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/slp_00.gif">Analysis</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/slp_12.gif">12 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/slp_24.gif">24 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/slp_36.gif">36 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/slp_48.gif">48 hour</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <b>500 mb Vorticity</b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/5av_00.gif">Analysis</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/5av_12.gif">12 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/5av_24.gif">24 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/5av_36.gif">36 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/5av_48.gif">48 hour</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <b>300 mb Height</b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/3hh_00.gif">Analysis</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/3hh_12.gif">12 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/3hh_24.gif">24 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/3hh_36.gif">36 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/3hh_48.gif">48 hour</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td >
+      <b>300-850mb Shear Magnitude</b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/shr_00.gif">Analysis</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/shr_12.gif">12 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/shr_24.gif">24 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/shr_36.gif">36 hour</a></b>
+    </td>
+    <td >
+      <b><a href="/weather/hurricane/shr_48.gif">48 hour</a></b>
+    </td>
+  </tr>
+</table>
+
+<h3>Tropical Advisory Archive</h3>
+
+<p>
+This is an archive of the TPC products, advisories and bulletins:
+</p>
+<p><b><a href="/weather/hurricane/archive">Archive</a>
+</b></p>
+
+<hr width="99%"/>
+
+<h3>Saffir-Simpson Scale</h3>
+<p>
+The chart color codes intensity (category based on Saffir-Simpson scale): 
+</p>
+
+<table  width="99%">
+  <tr>
+    <td ><b>Type</b></td>
+    <td  align="center"><b>Category</b></td>
+    <td  align="center"><b>Pressure (mb)</b></td>
+    <td  align="center"><b>Winds<br/>(knots)</b></td>
+    <td  align="center"><b>Winds<br/>(mph)</b></td>
+    <td  align="center"><b>Line Color</b></td>
+  </tr>
+  <tr>
+    <td ><b>Depression</b></td>
+    <td  align="center">TD</td>
+    <td  align="center">-----</td>
+    <td  align="center">&lt; 34</td>
+    <td  align="center">&lt; 39</td>
+    <td  align="center">Green</td>
+  </tr>
+  <tr>
+    <td ><b>Tropical Storm</b></td>
+    <td  align="center">TS</td>
+    <td  align="center">-----</td>
+    <td  align="center">34-63</td>
+    <td  align="center">39-73</td>
+    <td  align="center">Yellow</td>
+  </tr>
+  <tr>
+    <td ><b>Hurricane</b></td>
+    <td  align="center">1</td>
+    <td  align="center">&gt; 980</td>
+    <td  align="center">64-82</td>
+    <td  align="center">74-95</td>
+    <td  align="center">Red</td>
+  </tr>
+  <tr>
+    <td ><b>Hurricane</b></td>
+    <td  align="center">2</td>
+    <td  align="center">965-980</td>
+    <td  align="center">83-95</td>
+    <td  align="center">96-110</td>
+    <td  align="center">Light Red</td>
+  </tr>
+  <tr>
+    <td ><b>Hurricane</b></td>
+    <td  align="center">3</td>
+    <td  align="center">945-965</td>
+    <td  align="center">96-113</td>
+    <td  align="center">111-130</td>
+    <td  align="center">Magenta</td>
+  </tr>
+  <tr>
+    <td ><b>Hurricane</b></td>
+    <td  align="center">4</td>
+    <td  align="center">920-945</td>
+    <td  align="center">114-135</td>
+    <td  align="center">131-155</td>
+    <td  align="center">Light Magenta</td>
+  </tr>
+  <tr>
+    <td ><b>Hurricane</b></td>
+    <td  align="center">5</td>
+    <td  align="center">&lt; 920</td>
+    <td  align="center">&gt; 135</td>
+    <td  align="center">&gt; 155</td>
+    <td  align="center">White</td>
+  </tr>
+</table>
+<p><b>NOTE:</b>Pressures are in millibars and winds are in knots where one knot is equal to 1.15 mph.</p>
+<div class="clearboth">&nbsp;</div>
+
+</div>
+
+<div id="footer"> <span id="copyright"><small>Copyright &copy; Unisys 2012</small></span>
+  <ul class="inline-navigation-list" id="bottom-navigation">
+    <li><a href="http://www.unisys.com/unisys/privacy.html" target="_blank">Privacy Notice</a></li>
+    <li><a href="http://www.unisys.com/unisys/terms-and-conditions.html" target="_blank">Terms of Use</a></li>
+    <li><a href="/weather/contactus.html">Contact Us</a></li>
+    <li><a href="http://www.unisys.com/unisys/trademarks.html" target="_blank">Trademarks</a></li>
+  </ul>
+</div>
+</div>
+</body>
+</html>
