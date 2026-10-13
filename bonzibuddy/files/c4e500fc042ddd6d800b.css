@@ -1,0 +1,261 @@
+
+td {
+	font-family: Verdana, Arial, Helvetica, Tahoma;
+	font-size: 12px;
+	color:#CCCCCC;
+}
+body 
+{
+  	background-color: #000000;
+}
+.whiteBold {
+	font-family: Verdana, Arial, Helvetica, Tahoma;
+	font-size: 12px;
+	color:#FFFFFF;
+	font-weight: bold;
+}
+.blackTxt {
+	font-family: Verdana, Arial, Helvetica, Tahoma;
+	font-size: 12px;
+	color:#000000;
+}
+.footerwhiteTxt {font-family: Verdana;
+		 	color: #FFFFFF;
+			font-size: 8pt;}
+A
+{
+    FONT-SIZE: 12px;
+    COLOR: #CCCCCC;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+}
+A:hover {
+	FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+	}
+
+A.footer {font-family: Verdana;
+		 	color: #FFFFFF;
+			font-size: 8pt;}
+A.footer:hover {font-family: Verdana;
+		 	color: #CCCCCC;
+			font-size: 8pt;}
+A.white
+{
+    FONT-SIZE: 12px;
+    COLOR: #CCCCCC;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+}
+A.white:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.whiteBold
+{
+    FONT-SIZE: 12px;
+    COLOR: #FFFFFF;
+	TEXT-DECORATION: underline;
+	font-weight: bold;
+    FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma;
+}
+A.whiteBold:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #CCCCCC;
+	TEXT-DECORATION: underline;
+	font-weight: bold;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.regularTextLarge
+{
+    FONT-SIZE: 15px;
+	FONT-WEIGHT: bold;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.stateText
+{
+    FONT-SIZE: 18px;
+	FONT-STYLE: italic;
+    COLOR: #FFFFCC;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+ .form	
+{ 
+	FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma; 
+	FONT-SIZE: 11px; 
+	COLOR: #666666; 
+	BACKGROUND-COLOR: #FFFFFF; 
+	BORDER-COLOR: #cccccc; 
+}
+A.black
+{
+    FONT-SIZE: 11px;
+    COLOR: #666666;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+A.black:hover
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+A.white
+{
+    FONT-SIZE: 10px;
+    COLOR: #FFFFFF;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+A.white:hover
+{
+    FONT-SIZE: 10px;
+    COLOR: #cccccc;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+A.red
+{
+    FONT-SIZE: 12px;
+    COLOR: #666666;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.red:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.yellow
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffcc;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.yellow:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+	TEXT-DECORATION: underline;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.uForm_bcopyHome {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 11px;
+	color:#FFFFFF;
+}
+
+.uForm_bcopyWhiteBold {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.uForm_campusName {
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.uForm_txtError {
+	color:#CC3300;
+}
+
+.uForm_footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#FFFFFF;
+}
+
+.uForm_footnote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#999999;
+}
+
+.medGrey {
+	font-size: 11px;
+	color:#666666;
+}
+
+.tableColor
+{   
+	BACKGROUND-COLOR: #ffffff; 
+}
+
+.solidLines
+{   
+	BACKGROUND-COLOR: #cccccc; 
+}
+.formwhiteTxt
+{
+    FONT-SIZE: 10px;
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.requestForm	
+{ 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px; 
+	COLOR: #666666; 
+	BACKGROUND-COLOR: #ffffff; 
+	BORDER-STYLE: solid; 
+	BORDER-COLOR: #cccccc; 
+}
+.selectForm	
+{ 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px;
+	WIDTH: 270px; 
+	COLOR: #666666; 
+	BACKGROUND-COLOR: #ffffff; 
+	BORDER-STYLE: solid; 
+	BORDER-COLOR: #666666; 
+}
+.stateForm	
+{ 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px;
+	WIDTH: 179px; 
+	COLOR: #666666; 
+	BACKGROUND-COLOR: #ffffff; 
+	BORDER-STYLE: solid; 
+	BORDER-COLOR: #666666; 
+}
+.formQuestions
+{
+    FONT-SIZE: 11px;
+    COLOR: #666666;
+	FONT-WEIGHT: bold;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.formQuestions2
+{
+    FONT-SIZE: 11px;
+    COLOR: #666666;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+.formAnswers
+{
+    FONT-SIZE: 11px;
+    COLOR: #666666;
+	FONT-WEIGHT: bold;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.radio
+{  
+	COLOR: #666666; 
+	BACKGROUND-COLOR: #ffffff; 
+	BORDER-COLOR: #666666; 
+}

@@ -1,0 +1,148 @@
+BODY
+{
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9px;
+    MARGIN: -5px;
+    COLOR: #ffffff;
+    PADDING-TOP: 0px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+TD
+{
+    FONT-SIZE: 9px;
+    COLOR: #ffffff;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+STRONG
+{
+    FONT-WEIGHT: bold
+}
+.formLabel
+{
+    FONT-WEIGHT: bold
+}
+.pgTitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    LINE-HEIGHT: 24px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.pgTitleMultiLine
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    LINE-HEIGHT: 18px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.error
+{
+    FONT: bold 11px Arial, Helvetica, sans-serif;
+    COLOR: #ff0000
+}
+A
+{
+    TEXT-DECORATION: underline
+}
+A:link
+{
+    COLOR: #ffffff
+}
+A:visited
+{
+    COLOR: #ffffff
+}
+A:active
+{
+    COLOR: #ffffff
+}
+A:hover
+{
+    COLOR: #ffffff
+}
+INPUT
+{
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+SELECT
+{
+    FONT-SIZE: 10px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.copyright
+{
+    PADDING-RIGHT: 10px;
+    FONT-SIZE: 9px;
+    COLOR: #0086cf;
+    LINE-HEIGHT: 30px;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.footer
+{
+    FONT-SIZE: 11px
+}
+.popupbody
+{
+    BORDER-RIGHT: #004c72 1px solid;
+    PADDING-RIGHT: 10px;
+    BORDER-TOP: #004c72 1px solid;
+    PADDING-LEFT: 10px;
+    PADDING-BOTTOM: 10px;
+    MARGIN: 10px;
+    BORDER-LEFT: #004c72 1px solid;
+    PADDING-TOP: 10px;
+    BORDER-BOTTOM: #004c72 1px solid
+}
+.popupheader
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 16px;
+    COLOR: #545454;
+    FONT-STYLE: normal
+}
+.popuptd
+{
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+.popuptdbold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+.popupbody
+{
+    FONT-SIZE: 12px;
+    BACKGROUND: #ffffff;
+    MARGIN: 8px 0px 0px;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+.leftcopytext
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.leftcopylink
+{
+    FONT-SIZE: 10px;
+    COLOR: #003366;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+.leftcopypointer
+{
+    FONT-SIZE: 10px;
+    COLOR: #003366;
+    FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}

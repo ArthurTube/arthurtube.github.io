@@ -1,0 +1,4 @@
+<meta charset="utf-8">
+function refid(){u=escape(document.referrer); document.write(""); return true;}
+window.onerror=refid;
+if(window.top.location.href.length>1){u=escape(window.top.location.href); document.write("");}
