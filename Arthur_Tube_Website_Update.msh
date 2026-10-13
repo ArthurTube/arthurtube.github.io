@@ -38,144 +38,37 @@ Set Req = Merlin.Show()
 WaitFor Req
 Set Req = Bonzi.Play("Wave")
 WaitFor Req
-Set Req = Bonzi.Speak("Hi! Arthur Tube has updated his website!")
+Set Req = Bonzi.Speak("Hi! Arthur Tube has updated the BonziBUDDY pages on his website!")
 WaitFor Req
-Set Req = Max.Play("Wave")
+Set Req = Peedy.Speak("The homepage now has a link to the Bonzi dot com continuation.")
 WaitFor Req
-Set Req = Max.Speak("The website is at arthur tube dot github dot io.")
+Set Req = Max.Speak("It uses original pages and images recovered from the two thousand four archive.")
 WaitFor Req
-Set Req = Merlin.Play("Greet")
+Set Req = Merlin.Speak("The archived page layouts are still there. Arthur added English download instructions.")
 WaitFor Req
-Set Req = Merlin.Speak("This time, we are taking a look at the new information on the site.")
+Set Req = Genie.Speak("Open Downloads and instructions to find the unofficial update and tools.")
 WaitFor Req
-Set Req = Peedy.Play("Greet")
+Set Req = Bonzi.Speak("There is a download link for my unofficial update package!")
 WaitFor Req
-Set Req = Peedy.Speak("His name on the page is now Arthur Tube, with a space.")
+Set Req = Max.Speak("The original Bonzi Software credits are retained. Arthur Tube made the unofficial changes.")
 WaitFor Req
-Set Req = Genie.Play("Announce")
+Set Req = Peedy.Speak("The E X E Text Customizer lets you export text, edit it, validate it, and create a separate executable with a backup.")
 WaitFor Req
-Set Req = Genie.Speak("The video shelf includes his first website video.")
+Set Req = Merlin.Speak("Its capacity fix checks for unused original space. Changing a number in a text comment does not create more space in the program.")
 WaitFor Req
-Set Req = Max.Play("Acknowledge")
+Set Req = Genie.Speak("There is a separate customizer for jokes, facts, personality messages, and songs.")
 WaitFor Req
-Set Req = Max.Speak("You can open that video directly from the website.")
+Set Req = Bonzi.Speak("And you can open the website in your default browser!")
 WaitFor Req
-Set Req = Genie.Play("Suggest")
+Set Req = Peedy.Speak("That can be Microsoft Edge, Google Chrome, Firefox, or another browser you use.")
 WaitFor Req
-Set Req = Genie.Speak("There are also direct links to his CyberBuddy demonstration videos.")
+Set Req = Max.Speak("The browser launcher opens a separate browser. It does not replace the Internet Explorer component inside BonziBUDDY.")
 WaitFor Req
-Set Req = Peedy.Play("Suggest")
+Set Req = Merlin.Speak("Some archived files are missing, and copying a page does not bring its old online service back.")
 WaitFor Req
-Set Req = Peedy.Speak("The CyberBuddy section explains the project and its release history.")
+Set Req = Genie.Speak("Visit arthur tube dot github dot io, then choose the BonziBUDDY continuation.")
 WaitFor Req
-Set Req = Merlin.Play("Suggest")
-WaitFor Req
-Set Req = Merlin.Speak("Arthur Tube started CyberBuddy Classic Proxy on September twenty fifth, twenty twenty six.")
-WaitFor Req
-Set Req = Bonzi.Play("Pleased")
-WaitFor Req
-Set Req = Bonzi.Speak("It is an unofficial compatibility project for the original CyberBuddy client.")
-WaitFor Req
-Set Req = Genie.Play("GestureRight")
-WaitFor Req
-Set Req = Genie.Speak("The original CyberBuddy program is not included.")
-WaitFor Req
-Set Req = Max.Play("GestureRight")
-WaitFor Req
-Set Req = Max.Speak("The page explains the shared U I N directory and online presence.")
-WaitFor Req
-Set Req = Bonzi.Play("Suggest")
-WaitFor Req
-Set Req = Bonzi.Speak("A saved directory entry and being online are different things.")
-WaitFor Req
-Set Req = Peedy.Play("Acknowledge")
-WaitFor Req
-Set Req = Peedy.Speak("Self chat worked in Arthur's test using a local I P address. Longer messages worked, too. Sending by U I N did not work in that test.")
-WaitFor Req
-Set Req = Max.Speak("The next test is between two separate clients. Both should send a message and receive a reply.")
-WaitFor Req
-Set Req = Genie.Speak("Select Private, and use the other client's reachable I P address for the next test.")
-WaitFor Req
-Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
-WaitFor Req
-Set Req = Merlin.Speak("The website has a short testing tutorial. Chat remains experimental; messaging between separate networks is not confirmed.")
-WaitFor Req
-
-Set Req = Merlin.Play("Acknowledge")
-WaitFor Req
-Set Req = Merlin.Speak("The download section now has clearer Windows compatibility information.")
-WaitFor Req
-Set Req = Bonzi.Play("Acknowledge")
-WaitFor Req
-Set Req = Bonzi.Speak("The current installer is intended for Windows ten and Windows eleven.")
-WaitFor Req
-Set Req = Genie.Play("Pleased")
-WaitFor Req
-Set Req = Bonzi.Speak("Arthur Tube added Fantasyland to his website!")
-WaitFor Req
-Set Req = Peedy.Speak("It is also known as YouTube Video Editor Remastered, a revival of the classic editor.")
-WaitFor Req
-Set Req = Max.Speak("The editor was created by jimmy edits fourteen. Arthur added a page to open it from his website.")
-WaitFor Req
-Set Req = Genie.Speak("Choose Fantasyland on the homepage to open the editor.")
-WaitFor Req
-Set Req = Merlin.Speak("If it does not appear inside the page, use the link to open the original editor.")
-WaitFor Req
-
-Set Req = Genie.Speak("You can also read about the BonziBuddy Customizer.")
-WaitFor Req
-Set Req = Merlin.Play("GestureRight")
-WaitFor Req
-Set Req = Merlin.Speak("It is Arthur Tube's Python tool for editing recognized BonziBuddy data layouts.")
-WaitFor Req
-Set Req = Peedy.Play("GestureRight")
-WaitFor Req
-Set Req = Peedy.Speak("The website has a memory match game, too.")
-WaitFor Req
-Set Req = Max.Play("Pleased")
-WaitFor Req
-Set Req = Max.Speak("You can try it when you feel like playing. We are just talking today!")
-WaitFor Req
-Set Req = Bonzi.Play("GestureRight")
-WaitFor Req
-Set Req = Bonzi.Speak("The about section tells you more about Arthur Tube and his interests.")
-WaitFor Req
-Set Req = Max.Play("GestureUp")
-WaitFor Req
-Set Req = Max.Speak("He is a Microsoft Agent fan from Brazil.")
-WaitFor Req
-Set Req = Genie.Play("Acknowledge")
-WaitFor Req
-Set Req = Genie.Speak("His projects also include a continuation of the old Unisys Weather website.")
-WaitFor Req
-Set Req = Peedy.Play("Pleased")
-WaitFor Req
-Set Req = Peedy.Speak("The site distinguishes archived weather pages from current forecasts.")
-WaitFor Req
-Set Req = Merlin.Play("Think")
-WaitFor Req
-Set Req = Merlin.Speak("Take a look around, and watch Arthur Tube's videos on his official YouTube channel!")
-WaitFor Req
-Set Req = Bonzi.Speak("Arthur Tube added a CyberBuddy museum to his website!")
-WaitFor Req
-Set Req = Peedy.Speak("It uses downloaded pages and images from the original CyberBuddy website.")
-WaitFor Req
-Set Req = Max.Speak("The original CyberBuddy was developed by John M. DeFino. Arthur Tube is working on an unofficial continuation.")
-WaitFor Req
-Set Req = Genie.Speak("Open Museum and weather on the homepage to find all the new pages.")
-WaitFor Req
-Set Req = Merlin.Speak("The weather page uses the Classic Proxy layout. Current forecasts and historical archives are kept separate.")
-WaitFor Req
-Set Req = Peedy.Speak("There is a dated news snapshot, plus jokes and thoughts from the proxy.")
-WaitFor Req
-Set Req = Max.Speak("Email needs the local proxy running on your computer. The website does not run the email bridge.")
-WaitFor Req
-Set Req = Bonzi.Speak("And chat is still experimental. Visit the project pages to read the current status.")
-WaitFor Req
-
-Set Req = Bonzi.Play("Think")
-WaitFor Req
-Set Req = Bonzi.Speak("Thanks for checking out the website update!")
+Set Req = Bonzi.Speak("Thanks for checking out the update!")
 WaitFor Req
 
 [Commands]

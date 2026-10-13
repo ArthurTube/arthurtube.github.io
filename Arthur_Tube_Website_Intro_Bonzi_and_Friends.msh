@@ -202,6 +202,17 @@ WaitFor Req
 Set Req = Peedy.Speak("And if you try Memory Match, Bonzi might need to borrow your memory.")
 WaitFor Req
 
+Set Req = Bonzi.Speak("Arthur Tube also has a Bonzi dot com continuation!")
+WaitFor Req
+Set Req = Peedy.Speak("You can explore recovered original pages and images from two thousand four.")
+WaitFor Req
+Set Req = Max.Speak("The download page has the unofficial BonziBUDDY update, the E X E Text Customizer, and the data file Customizer.")
+WaitFor Req
+Set Req = Genie.Speak("The browser launcher opens the site in your default browser, including Edge, Chrome, or Firefox.")
+WaitFor Req
+Set Req = Merlin.Speak("That opens a separate browser. The old services and the internal Internet Explorer component have not been replaced.")
+WaitFor Req
+
 [Commands]
 MenuName=MASH Menu
 ACO=Advanced Character Options|~|Advanced Character Options
