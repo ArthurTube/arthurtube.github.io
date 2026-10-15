@@ -38,37 +38,37 @@ Set Req = Merlin.Show()
 WaitFor Req
 Set Req = Bonzi.Play("Wave")
 WaitFor Req
-Set Req = Bonzi.Speak("Hi! Arthur Tube has updated the BonziBUDDY pages on his website!")
+Set Req = Bonzi.Speak("Hi! Arthur Tube has a new CyberBuddy Classic Proxy update!")
 WaitFor Req
-Set Req = Peedy.Speak("The homepage now has a link to the Bonzi dot com continuation.")
+Set Req = Peedy.Speak("CyberBuddy Classic Proxy version six point two now has finished proxy chat support.")
 WaitFor Req
-Set Req = Max.Speak("It uses original pages and images recovered from the two thousand four archive.")
+Set Req = Max.Speak("Chat send and receive are working, including the shared U I N directory and online users.")
 WaitFor Req
-Set Req = Merlin.Speak("The archived page layouts are still there. Arthur added English download instructions.")
+Set Req = Merlin.Speak("U I N lookup, ping, and presence are working too.")
 WaitFor Req
-Set Req = Genie.Speak("Open Downloads and instructions to find the unofficial update and tools.")
+Set Req = Genie.Speak("Native L A N communication is working in Patch twelve, and it passed the automated tests and the recorded practical test.")
 WaitFor Req
-Set Req = Bonzi.Speak("There is a download link for my unofficial update package!")
+Set Req = Bonzi.Speak("That means CyberBuddy Proxy Chat is finished!")
 WaitFor Req
-Set Req = Max.Speak("The original Bonzi Software credits are retained. Arthur Tube made the unofficial changes.")
+Set Req = Peedy.Speak("Patch thirteen is a separate startup update. It is designed to keep Use Server Based Instant Messaging enabled when CyberBuddy starts and runs its introduction.")
 WaitFor Req
-Set Req = Peedy.Speak("The E X E Text Customizer lets you export text, edit it, validate it, and create a separate executable with a backup.")
+Set Req = Max.Speak("The working Patch twelve chat transport is preserved. Patch thirteen does not rebuild the chat system.")
 WaitFor Req
-Set Req = Merlin.Speak("Its capacity fix checks for unused original space. Changing a number in a text comment does not create more space in the program.")
+Set Req = Merlin.Speak("Existing memory, settings, and U I N data are preserved during the update.")
 WaitFor Req
-Set Req = Genie.Speak("There is a separate customizer for jokes, facts, personality messages, and songs.")
+Set Req = Genie.Speak("Arthur Tube also prepared a new N S I S installer and a zip package for CyberBuddy Classic Proxy six point two Patch thirteen.")
 WaitFor Req
-Set Req = Bonzi.Speak("And you can open the website in your default browser!")
+Set Req = Bonzi.Speak("The What's New page and Project Notebook now show CyberBuddy Proxy Chat as finished.")
 WaitFor Req
-Set Req = Peedy.Speak("That can be Microsoft Edge, Google Chrome, Firefox, or another browser you use.")
+Set Req = Peedy.Speak("The older six point zero and six point one information remains available as project history.")
 WaitFor Req
-Set Req = Max.Speak("The browser launcher opens a separate browser. It does not replace the Internet Explorer component inside BonziBUDDY.")
+Set Req = Max.Speak("Patch thirteen still needs its final practical Windows startup check before that startup preference fix is marked confirmed.")
 WaitFor Req
-Set Req = Merlin.Speak("Some archived files are missing, and copying a page does not bring its old online service back.")
+Set Req = Merlin.Speak("Visit arthur tube dot github dot io for the CyberBuddy Classic Proxy project and downloads.")
 WaitFor Req
-Set Req = Genie.Speak("Visit arthur tube dot github dot io, then choose the BonziBUDDY continuation.")
+Set Req = Genie.Speak("This website update script is named Arthur Tube Website Update dot M S H.")
 WaitFor Req
-Set Req = Bonzi.Speak("Thanks for checking out the update!")
+Set Req = Bonzi.Speak("Thanks for following the CyberBuddy Classic Proxy project!")
 WaitFor Req
 
 [Commands]

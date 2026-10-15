@@ -110,15 +110,15 @@ Set Req = Max.Speak("It also explains the shared directory and online presence."
 WaitFor Req
 Set Req = Merlin.Play("Think")
 WaitFor Req
-Set Req = Merlin.Speak("Self chat worked in Arthur's test using a local I P address. Longer messages worked, too. Sending by U I N did not work in that test.")
+Set Req = Merlin.Speak("CyberBuddy Classic Proxy version 6 point 2 finishes Chat and Native L A N messaging. Send and Receive are working.")
 WaitFor Req
-Set Req = Max.Speak("The next test is between two separate clients. Both should send a message and receive a reply.")
+Set Req = Max.Speak("Native L A N Patch 12 passed the automated tests, and Arthur confirmed the practical recorded Chat and L A N test.")
 WaitFor Req
 Set Req = Genie.Speak("Select Private, and use the other client's reachable I P address for the next test.")
 WaitFor Req
 Set Req = Bonzi.Speak("So sending a message to myself is a good start. But now I need another buddy!")
 WaitFor Req
-Set Req = Merlin.Speak("The website has a short testing tutorial. Chat remains experimental; messaging between separate networks is not confirmed.")
+Set Req = Merlin.Speak("Chat and Native L A N are now finished for the version 6 point 2 update.")
 WaitFor Req
 
 Set Req = Bonzi.Play("Acknowledge")
@@ -186,7 +186,7 @@ Set Req = Peedy.Speak("There is a dated news snapshot, plus jokes and thoughts f
 WaitFor Req
 Set Req = Max.Speak("Email needs the local proxy running on your computer. The website does not run the email bridge.")
 WaitFor Req
-Set Req = Bonzi.Speak("And chat is still experimental. Visit the project pages to read the current status.")
+Set Req = Bonzi.Speak("And Chat is now finished in CyberBuddy Classic Proxy version 6 point 2. Visit the project pages for the latest status.")
 WaitFor Req
 
 Set Req = Merlin.Play("Wave")
