@@ -213,6 +213,17 @@ WaitFor Req
 Set Req = Merlin.Speak("That opens a separate browser. The old services and the internal Internet Explorer component have not been replaced.")
 WaitFor Req
 
+Set Req = Genie.Play("Announce")
+WaitFor Req
+Set Req = Genie.Speak("There is a new math tool too: the Closest Factor Pair Calculator!")
+WaitFor Req
+Set Req = Peedy.Speak("Type a positive whole number and it finds the closest factors and lists all the factor pairs.")
+WaitFor Req
+Set Req = Bonzi.Speak("Try six hundred seventy two. The closest pair is twenty four times twenty eight!")
+WaitFor Req
+Set Req = Max.Speak("You can open the calculator from the Arthur Tube homepage or use its own calculator page.")
+WaitFor Req
+
 [Commands]
 MenuName=MASH Menu
 ACO=Advanced Character Options|~|Advanced Character Options

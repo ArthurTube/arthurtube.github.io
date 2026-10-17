@@ -71,6 +71,15 @@ WaitFor Req
 Set Req = Bonzi.Speak("Thanks for following the CyberBuddy Classic Proxy project!")
 WaitFor Req
 
+Set Req = Peedy.Speak("There is also a new Closest Factor Pair Calculator on Arthur Tube's website.")
+WaitFor Req
+Set Req = Max.Speak("Enter any positive whole number and it finds the closest factor pair and every factor pair.")
+WaitFor Req
+Set Req = Genie.Speak("For example, six hundred seventy two equals twenty four times twenty eight. Those are the closest factors.")
+WaitFor Req
+Set Req = Merlin.Speak("The What's New page and Project Notebook have been updated for October seventeenth, twenty twenty six.")
+WaitFor Req
+
 [Commands]
 MenuName=MASH Menu
 ACO=Advanced Character Options|~|Advanced Character Options
