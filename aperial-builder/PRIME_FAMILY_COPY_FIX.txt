@@ -1,0 +1,14 @@
+Aperialblocks prime-family copy fix — 25 October 2026
+
+Fixes the case where a multiplier build could appear unchanged from prime ×1.
+
+Rules:
+- Prime-family Build now generates the family by default.
+- The exact original counted prime mask is always used in Auto/Original mode.
+- Alternate masks are used only when the user explicitly selects Recovered alternate profile.
+- Multiplier 2 creates 2 complete copies; multiplier 3 creates 3 complete copies; and so on.
+- Every copy preserves all occupied and empty positions of the source-prime outline.
+- Group width changes placement of complete copies only.
+- The optional Keep complete source product checkbox remains available when a supplied product sprite should take priority.
+
+Test example: Prime 197, Multiplier 2 => 394 with two complete copies of the exact 197 mask.
