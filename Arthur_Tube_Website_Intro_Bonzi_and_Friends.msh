@@ -224,6 +224,27 @@ WaitFor Req
 Set Req = Max.Speak("You can open the calculator from the Arthur Tube homepage or use its own calculator page.")
 WaitFor Req
 
+Set Req = Bonzi.Play("Announce")
+WaitFor Req
+Set Req = Bonzi.Speak("And now there is an Aperialblocks Band Builder on Arthur Tube's website!")
+WaitFor Req
+Set Req = Peedy.Speak("It is made to help the Numberblocks community build Aperialblocks faster, with Bands thirty five through five hundred ten, covering numbers three hundred forty one through five thousand one hundred.")
+WaitFor Req
+Set Req = Max.Speak("The builder includes the current uploaded colours, prime family patterns, checkerboards, own faces, and block shape tools.")
+WaitFor Req
+Set Req = Genie.Speak("Aperial is base infinity, or base omega, similar to Argam. Official canon Aperial numbers are by Aperial one zero zero eight zero, while generated builder drafts stay separate. Arthur Tube News is new too, with project updates, Aperial and Numberblocks updates, stocks, weather, and more.")
+WaitFor Req
+Set Req = Merlin.Speak("You can also subscribe with the Arthur Tube News R S S feed in X M L format.")
+WaitFor Req
+Set Req = Bonzi.Speak("The homepage What's New section and Project Notebook were updated on October twenty fifth, twenty twenty six.")
+WaitFor Req
+Set Req = Peedy.Speak("Arthur Tube News has also been upgraded into a multi source R S S reader with current external headlines from Fox News and B B C News.")
+WaitFor Req
+Set Req = Max.Speak("External headlines link directly to their original publishers, while Arthur Tube updates keep their own R S S feed.")
+WaitFor Req
+Set Req = Genie.Speak("CyberBuddy News keeps its separate Classic Proxy style news page and automated refresh.")
+WaitFor Req
+
 [Commands]
 MenuName=MASH Menu
 ACO=Advanced Character Options|~|Advanced Character Options

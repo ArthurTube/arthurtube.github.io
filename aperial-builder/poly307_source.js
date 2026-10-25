@@ -1,0 +1,7 @@
+(()=>{
+const data=window.POLY307_SUPPLIED;let installed=false;
+function install(){if(!bank)return false;const t=structuredClone(data.target),bytes=Uint8Array.from(atob(data.svg),c=>c.charCodeAt(0));extra.set(t.costumes[0].md5ext,bytes);refs[307]={target:t,sequence:[{costume:0,duration:6.4}],soundData:[],selectedSounds:[],links:[],origin:'Supplied Poly307 static drawing',suppliedStatic:true,reviewNote:data.note};indexAssets();cache.clear();componentCache.clear();restCache.clear();lastRenderKey='';installed=true;$('loaded').textContent=Object.keys(refs).length+' references ready';if(!new URLSearchParams(location.search).has('reviewSource')){$('number').value=307;$('familyPrime').value=307;$('familyMultiplier').value=1;$('familyWidth').value=1;items=[{n:307,a:1,b:307}];choose(items[0]);status('Poly307 supplied shape loaded: 153 teal +153 lime +1 white. Static drawing; animation and sound still need references.')}return true}
+const previousChoose=choose;choose=function(i){previousChoose(i);if(i.n===307&&!i.custom&&refs[307]?.suppliedStatic){$('badge').textContent='SUPPLIED POLY307 · STATIC';$('warnings').textContent='Exactly307 main-body squares:153 teal,153 lime,1 white centre. Original face, limbs and numberling retained. The separate9-block example is excluded. No animation timing or music is supplied by this SVG.'}};
+window.Poly307Reference={install,data,get installed(){return installed}};
+let tries=0;if(!install()){const timer=setInterval(()=>{if(install()||++tries>240)clearInterval(timer)},250)}
+})();

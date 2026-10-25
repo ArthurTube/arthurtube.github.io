@@ -80,6 +80,36 @@ WaitFor Req
 Set Req = Merlin.Speak("The What's New page and Project Notebook have been updated for October seventeenth, twenty twenty six.")
 WaitFor Req
 
+Set Req = Bonzi.Play("Announce")
+WaitFor Req
+Set Req = Bonzi.Speak("Arthur Tube's website has another update for October twenty fifth, twenty twenty six!")
+WaitFor Req
+Set Req = Peedy.Speak("The Aperialblocks Band Builder is now on the website to help the Numberblocks community make Aperialblocks faster.")
+WaitFor Req
+Set Req = Max.Speak("The website release covers Bands thirty five through five hundred ten, from three hundred forty one through five thousand one hundred.")
+WaitFor Req
+Set Req = Genie.Speak("Aperial is base infinity, or base omega, similar to Argam. The builder covers Bands thirty five through five hundred ten, numbers three hundred forty one through five thousand one hundred, and keeps official canon material separate from generated drafts.")
+WaitFor Req
+Set Req = Merlin.Speak("Supplied complete characters and reference artwork take priority over generated drafts.")
+WaitFor Req
+Set Req = Bonzi.Speak("Arthur Tube News is also live with a new news page and an R S S feed in X M L format!")
+WaitFor Req
+Set Req = Peedy.Speak("It is prepared for website and project updates, Aperial and Numberblocks news, stock updates, weather updates, and more.")
+WaitFor Req
+Set Req = Max.Speak("The homepage What's New section, Project Notebook, navigation, and shortcuts have all been updated.")
+WaitFor Req
+Set Req = Genie.Speak("The Closest Factor Pair Calculator is still available too. For example, six hundred seventy two equals twenty four times twenty eight.")
+WaitFor Req
+Set Req = Merlin.Speak("Visit arthur tube dot github dot io, open the Aperialblocks Band Builder, read Arthur Tube News, or subscribe to the R S S feed.")
+WaitFor Req
+
+Set Req = Peedy.Speak("Arthur Tube News has also been upgraded into a multi source R S S reader with current external headlines from Fox News and B B C News.")
+WaitFor Req
+Set Req = Max.Speak("External headlines link directly to their original publishers, while Arthur Tube updates keep their own R S S feed.")
+WaitFor Req
+Set Req = Genie.Speak("CyberBuddy News keeps its separate Classic Proxy style news page and automated refresh.")
+WaitFor Req
+
 [Commands]
 MenuName=MASH Menu
 ACO=Advanced Character Options|~|Advanced Character Options
