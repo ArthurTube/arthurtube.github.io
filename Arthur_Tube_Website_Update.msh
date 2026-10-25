@@ -36,8 +36,6 @@ Merlin.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273002}"
 Merlin.MoveTo 980, 430
 Set Req = Merlin.Show()
 WaitFor Req
-Set Req = Bonzi.Play("Wave")
-WaitFor Req
 Set Req = Bonzi.Speak("Hi! Arthur Tube has a new CyberBuddy Classic Proxy update!")
 WaitFor Req
 Set Req = Peedy.Speak("CyberBuddy Classic Proxy version six point two now has finished proxy chat support.")
@@ -80,8 +78,6 @@ WaitFor Req
 Set Req = Merlin.Speak("The What's New page and Project Notebook have been updated for October seventeenth, twenty twenty six.")
 WaitFor Req
 
-Set Req = Bonzi.Play("Announce")
-WaitFor Req
 Set Req = Bonzi.Speak("Arthur Tube's website has another update for October twenty fifth, twenty twenty six!")
 WaitFor Req
 Set Req = Peedy.Speak("The Aperialblocks Band Builder is now on the website to help the Numberblocks community make Aperialblocks faster.")

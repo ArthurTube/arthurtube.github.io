@@ -36,79 +36,41 @@ Merlin.TTSModeID = "{CA141FD0-AC7F-11D1-97A3-006008273002}"
 Merlin.MoveTo 980, 430
 Set Req = Merlin.Show()
 WaitFor Req
-Set Req = Genie.Play("Announce")
-WaitFor Req
 Set Req = Genie.Speak("Everybody ready? We have a website to introduce!")
-WaitFor Req
-Set Req = Bonzi.Play("Pleased")
 WaitFor Req
 Set Req = Bonzi.Speak("Ready. I practiced my welcome face.")
 WaitFor Req
-Set Req = Peedy.Play("Confused")
-WaitFor Req
 Set Req = Peedy.Speak("That looks exactly like your banana face.")
-WaitFor Req
-Set Req = Max.Play("Wave")
 WaitFor Req
 Set Req = Max.Speak("Hello! Welcome to Arthur Tube's website!")
 WaitFor Req
-Set Req = Merlin.Play("Greet")
-WaitFor Req
 Set Req = Merlin.Speak("A little corner of the internet for videos, projects, and classic desktop characters.")
-WaitFor Req
-Set Req = Bonzi.Play("Wave")
 WaitFor Req
 Set Req = Bonzi.Speak("Including a very handsome purple gorilla.")
 WaitFor Req
-Set Req = Peedy.Play("Acknowledge")
-WaitFor Req
 Set Req = Peedy.Speak("And a green bird who keeps the introduction moving.")
-WaitFor Req
-Set Req = Genie.Play("GestureRight")
 WaitFor Req
 Set Req = Genie.Speak("The address is arthur tube dot github dot io.")
 WaitFor Req
-Set Req = Max.Play("Acknowledge")
-WaitFor Req
 Set Req = Max.Speak("Arthur Tube. One website, plenty to explore.")
-WaitFor Req
-Set Req = Merlin.Play("Suggest")
 WaitFor Req
 Set Req = Merlin.Speak("Start with the video shelf. You can find his first website video there.")
 WaitFor Req
-Set Req = Peedy.Play("Pleased")
-WaitFor Req
 Set Req = Peedy.Speak("There are Microsoft Agent videos and CyberBuddy demonstrations, too.")
-WaitFor Req
-Set Req = Bonzi.Play("Suggest")
 WaitFor Req
 Set Req = Bonzi.Speak("So you can watch us after watching us introduce the place where you can watch us.")
 WaitFor Req
-Set Req = Genie.Play("Confused")
-WaitFor Req
 Set Req = Genie.Speak("I think you just made a circle.")
-WaitFor Req
-Set Req = Max.Play("Pleased")
 WaitFor Req
 Set Req = Max.Speak("A video circle. Very efficient.")
 WaitFor Req
-Set Req = Merlin.Play("Announce")
-WaitFor Req
 Set Req = Merlin.Speak("Now, the projects. Arthur Tube created CyberBuddy Classic Proxy.")
-WaitFor Req
-Set Req = Peedy.Play("GestureRight")
 WaitFor Req
 Set Req = Peedy.Speak("It is an unofficial compatibility project for the original CyberBuddy client.")
 WaitFor Req
-Set Req = Genie.Play("Acknowledge")
-WaitFor Req
 Set Req = Genie.Speak("The site explains its weather, news, and other online features.")
 WaitFor Req
-Set Req = Max.Play("GestureUp")
-WaitFor Req
 Set Req = Max.Speak("It also explains the shared directory and online presence.")
-WaitFor Req
-Set Req = Merlin.Play("Think")
 WaitFor Req
 Set Req = Merlin.Speak("CyberBuddy Classic Proxy version 6 point 2 finishes Chat and Native L A N messaging. Send and Receive are working.")
 WaitFor Req
@@ -121,11 +83,7 @@ WaitFor Req
 Set Req = Merlin.Speak("Chat and Native L A N are now finished for the version 6 point 2 update.")
 WaitFor Req
 
-Set Req = Bonzi.Play("Acknowledge")
-WaitFor Req
 Set Req = Bonzi.Speak("Then we shall have our conversation right here.")
-WaitFor Req
-Set Req = Peedy.Play("Suggest")
 WaitFor Req
 Set Req = Bonzi.Speak("Arthur Tube added Fantasyland to his website!")
 WaitFor Req
@@ -140,35 +98,19 @@ WaitFor Req
 
 Set Req = Peedy.Speak("There is also the BonziBuddy Customizer, another project by Arthur Tube.")
 WaitFor Req
-Set Req = Bonzi.Play("Pleased")
-WaitFor Req
 Set Req = Bonzi.Speak("You can edit recognized joke, fact, personality, and song data. I approve of more jokes.")
-WaitFor Req
-Set Req = Max.Play("GestureRight")
 WaitFor Req
 Set Req = Max.Speak("Check the download section for instructions and compatibility details.")
 WaitFor Req
-Set Req = Genie.Play("Suggest")
-WaitFor Req
 Set Req = Genie.Speak("And if you feel like a game, try the memory match page.")
-WaitFor Req
-Set Req = Bonzi.Play("Think")
 WaitFor Req
 Set Req = Bonzi.Speak("I remember that game. Probably.")
 WaitFor Req
-Set Req = Merlin.Play("Pleased")
-WaitFor Req
 Set Req = Merlin.Speak("The about section tells you more about Arthur Tube, a creator from Brazil.")
-WaitFor Req
-Set Req = Peedy.Play("Acknowledge")
 WaitFor Req
 Set Req = Peedy.Speak("Bonzi and I are his favorite Microsoft Agent characters.")
 WaitFor Req
-Set Req = Max.Play("Surprised")
-WaitFor Req
 Set Req = Max.Speak("Excuse me, I am standing right here!")
-WaitFor Req
-Set Req = Genie.Play("Pleased")
 WaitFor Req
 Set Req = Genie.Speak("You are still invited, Max.")
 WaitFor Req
@@ -189,15 +131,9 @@ WaitFor Req
 Set Req = Bonzi.Speak("And Chat is now finished in CyberBuddy Classic Proxy version 6 point 2. Visit the project pages for the latest status.")
 WaitFor Req
 
-Set Req = Merlin.Play("Wave")
-WaitFor Req
 Set Req = Merlin.Speak("Explore at your own pace. Thanks for visiting Arthur Tube's website!")
 WaitFor Req
-Set Req = Bonzi.Play("Wave")
-WaitFor Req
 Set Req = Bonzi.Speak("Enjoy exploring Arthur Tube's website!")
-WaitFor Req
-Set Req = Peedy.Play("Wave")
 WaitFor Req
 Set Req = Peedy.Speak("And if you try Memory Match, Bonzi might need to borrow your memory.")
 WaitFor Req
@@ -213,8 +149,6 @@ WaitFor Req
 Set Req = Merlin.Speak("That opens a separate browser. The old services and the internal Internet Explorer component have not been replaced.")
 WaitFor Req
 
-Set Req = Genie.Play("Announce")
-WaitFor Req
 Set Req = Genie.Speak("There is a new math tool too: the Closest Factor Pair Calculator!")
 WaitFor Req
 Set Req = Peedy.Speak("Type a positive whole number and it finds the closest factors and lists all the factor pairs.")
@@ -224,8 +158,6 @@ WaitFor Req
 Set Req = Max.Speak("You can open the calculator from the Arthur Tube homepage or use its own calculator page.")
 WaitFor Req
 
-Set Req = Bonzi.Play("Announce")
-WaitFor Req
 Set Req = Bonzi.Speak("And now there is an Aperialblocks Band Builder on Arthur Tube's website!")
 WaitFor Req
 Set Req = Peedy.Speak("It is made to help the Numberblocks community build Aperialblocks faster, with Bands thirty five through five hundred ten, covering numbers three hundred forty one through five thousand one hundred.")
