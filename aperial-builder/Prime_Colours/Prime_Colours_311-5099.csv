@@ -1,0 +1,619 @@
+prime,name,letters,first_colour,second_colour,block_count,colour_counts,columns,rows,shape_kind,status,canonical_design_verified,svg
+311,Cire,CI,#4aa7e0,#a50f0f,311,"{'#101010': 1, '#4aa7e0': 155, '#a50f0f': 155}",19.0,17.0,uploaded_revision,latest aligned uploaded static reference; design approval unverified,False,SVG/311.svg
+313,Leuck,LE,#b2fa0a,#12a325,313,"{'#b2fa0a': 192, '#12a325': 120, '#101010': 1}",25.0,25.0,uploaded_revision,latest aligned uploaded static reference; design approval unverified,False,SVG/313.svg
+317,Atale,AT,#a86118,#4a4b4d,317,"{'#a86118': 158, '#4a4b4d': 158, '#101010': 1}",15.0,23.0,uploaded_revision,latest aligned uploaded static reference; design approval unverified,False,SVG/317.svg
+331,Fide,FI,#2159f2,#a50f0f,331,"{'#2159f2': 165, '#a50f0f': 165, '#ffffff': 1}",17.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/331.svg
+337,Lede,LD,#b2fa0a,#ffd988,337,"{'#b2fa0a': 168, '#ffd988': 168, '#ffffff': 1}",19.0,19,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/337.svg
+347,Laett,LA,#b2fa0a,#a86118,347,"{'#b2fa0a': 173, '#a86118': 173, '#ffffff': 1}",19.0,19,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/347.svg
+349,Harmo,HA,#fa9a91,#a86118,349,"{'#fa9a91': 174, '#a86118': 174, '#ffffff': 1}",19.0,19,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/349.svg
+353,Daphe,DA,#ffd988,#a86118,353,"{'#ffd988': 176, '#a86118': 176, '#ffffff': 1}",17.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/353.svg
+359,Ise,IS,#a50f0f,#91e6e6,359,"{'#a50f0f': 179, '#91e6e6': 179, '#000000': 1}",15.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/359.svg
+367,Ariane,AR,#a86118,#f1ee97,367,"{'#a86118': 183, '#f1ee97': 183, '#000000': 1}",23.0,17,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/367.svg
+373,Nyss,NY,#fad42a,#f85b0c,373,"{'#fad42a': 186, '#f85b0c': 186, '#000000': 1}",19.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/373.svg
+379,Eunge,EN,#12a325,#fad42a,379,"{'#12a325': 189, '#fad42a': 189, '#000000': 1}",17.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/379.svg
+383,Heste,HS,#fa9a91,#91e6e6,383,"{'#fa9a91': 191, '#91e6e6': 191, '#000000': 1}",21.0,19,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/383.svg
+389,Agle,AG,#a86118,#d28fff,389,"{'#a86118': 194, '#d28fff': 194, '#000000': 1}",15.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/389.svg
+397,Dorsel,DO,#ffd988,#85e678,397,"{'#ffd988': 198, '#85e678': 198, '#000000': 1}",15.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/397.svg
+401,Palse,PE,#008b8b,#12a325,401,"{'#008b8b': 200, '#12a325': 200, '#ffffff': 1}",25.0,17,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/401.svg
+409,Virg,VR,#ad008f,#f1ee97,409,"{'#ad008f': 204, '#f1ee97': 204, '#ffffff': 1}",17.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/409.svg
+419,Neuse,NE,#fad42a,#12a325,419,"{'#fad42a': 209, '#12a325': 209, '#ffffff': 1}",21.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/419.svg
+421,Erop,ER,#12a325,#f1ee97,421,"{'#12a325': 210, '#f1ee97': 210, '#000000': 1}",29,29,centered_square_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/421.svg
+431,Kalpe,KL,#8b8c08,#b2fa0a,431,"{'#8b8c08': 215, '#b2fa0a': 215, '#000000': 1}",17.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/431.svg
+433,Ale,AL,#a86118,#b2fa0a,433,"{'#a86118': 216, '#b2fa0a': 216, '#000000': 1}",21.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/433.svg
+439,Pann,PN,#008b8b,#fad42a,439,"{'#008b8b': 219, '#fad42a': 219, '#ffffff': 1}",15.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/439.svg
+443,Melte,MT,#f72a6e,#4a4b4d,443,"{'#f72a6e': 221, '#4a4b4d': 221, '#000000': 1}",17.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/443.svg
+449,Neym,MN,#f72a6e,#fad42a,449,"{'#f72a6e': 224, '#fad42a': 224, '#000000': 1}",15.0,31,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/449.svg
+457,Conce,CO,#4aa7e0,#85e678,457,"{'#4aa7e0': 228, '#85e678': 228, '#000000': 1}",23.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/457.svg
+461,Elpe,EL,#12a325,#b2fa0a,461,"{'#12a325': 230, '#b2fa0a': 230, '#000000': 1}",21.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/461.svg
+463,Eche,EC,#12a325,#4aa7e0,463,"{'#12a325': 231, '#4aa7e0': 231, '#ffffff': 1}",19.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/463.svg
+467,Dann,DN,#ffd988,#fad42a,467,"{'#ffd988': 233, '#fad42a': 233, '#000000': 1}",23.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/467.svg
+479,Erat,EA,#12a325,#a86118,479,"{'#12a325': 239, '#a86118': 239, '#ffffff': 1}",23.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/479.svg
+487,Auso,AU,#a86118,#00ff90,487,"{'#a86118': 243, '#00ff90': 243, '#000000': 1}",19.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/487.svg
+491,Ange,AN,#a86118,#fad42a,491,"{'#a86118': 245, '#fad42a': 245, '#000000': 1}",21.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/491.svg
+499,Cybe,CY,#4aa7e0,#f85b0c,499,"{'#4aa7e0': 249, '#f85b0c': 249, '#000000': 1}",23.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/499.svg
+503,Maje,MJ,#f72a6e,#dddddd,503,"{'#f72a6e': 251, '#dddddd': 251, '#ffffff': 1}",21.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/503.svg
+509,Ase,AI,#a86118,#a50f0f,509,"{'#a86118': 254, '#a50f0f': 254, '#000000': 1}",25.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/509.svg
+521,Leto,LT,#b2fa0a,#4a4b4d,521,"{'#b2fa0a': 260, '#4a4b4d': 260, '#000000': 1}",23.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/521.svg
+523,Hepe,HP,#fa9a91,#008b8b,523,"{'#fa9a91': 261, '#008b8b': 261, '#000000': 1}",19.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/523.svg
+541,Pune,PU,#008b8b,#f31119,541,"{'#008b8b': 270, '#f31119': 270, '#000000': 1}",23.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/541.svg
+547,Nibe,NI,#fad42a,#a50f0f,547,"{'#fad42a': 273, '#a50f0f': 273, '#ffffff': 1}",19.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/547.svg
+557,Foro,FE,#2159f2,#12a325,557,"{'#2159f2': 278, '#12a325': 278, '#ffffff': 1}",25.0,23,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/557.svg
+563,Klyte,KT,#8b8c08,#f85b0c,563,"{'#8b8c08': 281, '#f85b0c': 281, '#000000': 1}",25.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/563.svg
+569,Galte,GA,#d28fff,#a86118,569,"{'#d28fff': 284, '#a86118': 284, '#ffffff': 1}",17.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/569.svg
+571,Eyde,EY,#12a325,#f85b0c,571,"{'#12a325': 285, '#f85b0c': 285, '#000000': 1}",25.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/571.svg
+577,Frey,FR,#2159f2,#f1ee97,577,"{'#2159f2': 288, '#f1ee97': 288, '#000000': 1}",19.0,31,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/577.svg
+587,Frig,FG,#2159f2,#d28fff,587,"{'#2159f2': 293, '#d28fff': 293, '#000000': 1}",21.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/587.svg
+593,Dian,DI,#ffd988,#a50f0f,593,"{'#ffd988': 296, '#a50f0f': 296, '#000000': 1}",23.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/593.svg
+599,Eryno,EO,#12a325,#85e678,599,"{'#12a325': 299, '#85e678': 299, '#000000': 1}",27.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/599.svg
+601,Saph,SA,#91e6e6,#a86118,601,"{'#91e6e6': 300, '#a86118': 300, '#ffffff': 1}",25.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/601.svg
+607,Terc,TP,#4a4b4d,#f1ee97,607,{},25.0,27,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/607.svg
+613,Alke,AK,#a86118,#8b8c08,613,"{'#a86118': 306, '#8b8c08': 306, '#000000': 1}",35,35,centered_square_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/613.svg
+617,Batre,BA,#fd82ff,#a86118,617,"{'#fd82ff': 308, '#a86118': 308, '#ffffff': 1}",25.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/617.svg
+619,Klio,KI,#8b8c08,#a50f0f,619,"{'#8b8c08': 309, '#a50f0f': 309, '#ffffff': 1}",19.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/619.svg
+631,Jock,IO,#a50f0f,#85e678,631,"{'#a50f0f': 315, '#85e678': 315, '#000000': 1}",17.0,41,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/631.svg
+641,Selme,SE,#91e6e6,#12a325,641,"{'#91e6e6': 320, '#12a325': 320, '#ffffff': 1}",27.0,25,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/641.svg
+643,Sylve,SY,#91e6e6,#f85b0c,643,"{'#91e6e6': 321, '#f85b0c': 321, '#000000': 1}",29.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/643.svg
+647,Tisbe,TI,#4a4b4d,#a50f0f,647,"{'#4a4b4d': 323, '#a50f0f': 323, '#ffffff': 1}",25.0,27,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/647.svg
+653,Jula,JL,#dddddd,#b2fa0a,653,"{'#dddddd': 326, '#b2fa0a': 326, '#000000': 1}",27.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/653.svg
+659,Anpe,AP,#a86118,#85e678,659,"{'#a86118': 329, '#85e678': 329, '#000000': 1}",27.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/659.svg
+661,Alne,AE,#a86118,#12a325,661,"{'#a86118': 330, '#12a325': 330, '#000000': 1}",27.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/661.svg
+673,Undene,UN,#00ff90,#fad42a,673,"{'#00ff90': 336, '#fad42a': 336, '#ffffff': 1}",19.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/673.svg
+677,Minare,MI,#f72a6e,#a50f0f,677,"{'#f72a6e': 338, '#a50f0f': 338, '#ffffff': 1}",33.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/677.svg
+683,Auro,AO,#a86118,#f31119,683,"{'#a86118': 341, '#f31119': 341, '#000000': 1}",25.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/683.svg
+691,Arse,AH,#a86118,#fa9a91,691,"{'#a86118': 345, '#fa9a91': 345, '#000000': 1}",27.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/691.svg
+701,Glea,GL,#a86118,#f7ac32,701,"{'#a86118': 350, '#f7ac32': 350, '#000000': 1}",27.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/701.svg
+709,Kolo,KO,#8b8c08,#85e678,709,"{'#8b8c08': 354, '#85e678': 354, '#000000': 1}",29.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/709.svg
+719,Iante,IA,#a50f0f,#a86118,719,"{'#a50f0f': 359, '#a86118': 359, '#ffffff': 1}",35.0,21,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/719.svg
+727,Dike,DK,#ffd988,#8b8c08,727,"{'#ffd988': 363, '#8b8c08': 363, '#000000': 1}",35.0,21,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/727.svg
+733,Heka,HK,#fa9a91,#8b8c08,733,"{'#fa9a91': 366, '#8b8c08': 366, '#000000': 1}",23.0,33,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/733.svg
+739,Hela,HL,#fa9a91,#b2fa0a,739,"{'#fa9a91': 369, '#b2fa0a': 369, '#000000': 1}",17.0,45,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/739.svg
+743,Mire,MR,#f72a6e,#f1ee97,743,"{'#f72a6e': 371, '#f1ee97': 371, '#000000': 1}",33.0,23,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/743.svg
+751,Hera,HR,#fa9a91,#f1ee97,751,"{'#fa9a91': 375, '#f1ee97': 375, '#000000': 1}",31.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/751.svg
+757,Klyme,KM,#8b8c08,#f72a6e,757,"{'#8b8c08': 378, '#f72a6e': 378, '#000000': 1}",29.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/757.svg
+761,Remis,RE,#a86118,#fffe2f,761,"{'#a86118': 380, '#fffe2f': 380, '#000000': 1}",39,39,centered_square_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/761.svg
+769,Denn,DE,#ffd988,#12a325,769,"{'#ffd988': 384, '#12a325': 384, '#000000': 1}",31.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/769.svg
+773,Camil,CA,#4aa7e0,#a86118,773,"{'#4aa7e0': 386, '#a86118': 386, '#ffffff': 1}",29.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/773.svg
+787,Hecu,HC,#fa9a91,#4aa7e0,787,"{'#fa9a91': 393, '#4aa7e0': 393, '#ffffff': 1}",35.0,23,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/787.svg
+797,Felice,FC,#2159f2,#4aa7e0,797,"{'#2159f2': 398, '#4aa7e0': 398, '#ffffff': 1}",25.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/797.svg
+809,Lyde,LY,#b2fa0a,#f85b0c,809,"{'#b2fa0a': 404, '#f85b0c': 404, '#000000': 1}",31.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/809.svg
+811,Hetare,HT,#a86118,#5dee27,811,"{'#a86118': 405, '#5dee27': 405, '#000000': 1}",31.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/811.svg
+821,Irya,IY,#a50f0f,#008b8b,821,"{'#a50f0f': 410, '#008b8b': 410, '#000000': 1}",31.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/821.svg
+823,Ama,AY,#a86118,#1af7ff,823,"{'#a86118': 411, '#1af7ff': 411, '#000000': 1}",29.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/823.svg
+827,Kasyra,KY,#8b8c08,#91e6e6,827,"{'#8b8c08': 413, '#91e6e6': 413, '#000000': 1}",29.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/827.svg
+829,Thyra,TY,#4a4b4d,#f85b0c,829,"{'#4a4b4d': 414, '#f85b0c': 414, '#000000': 1}",29.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/829.svg
+839,Sirane,SI,#91e6e6,#a50f0f,839,"{'#91e6e6': 419, '#a50f0f': 419, '#ffffff': 1}",37.0,23,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/839.svg
+853,Lome,LO,#b2fa0a,#85e678,853,"{'#b2fa0a': 426, '#85e678': 426, '#000000': 1}",29.0,31,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/853.svg
+857,Peith,PI,#008b8b,#a50f0f,857,"{'#008b8b': 428, '#a50f0f': 428, '#ffffff': 1}",31.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/857.svg
+859,Lath,LN,#a86118,#723bc2,859,"{'#a86118': 429, '#723bc2': 429, '#000000': 1}",35.0,25,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/859.svg
+863,Liss,LI,#b2fa0a,#4aa7e0,863,{},33.0,27,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/863.svg
+877,Herm,HM,#fa9a91,#f72a6e,877,"{'#fa9a91': 438, '#f72a6e': 438, '#000000': 1}",31.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/877.svg
+881,Gerd,GE,#d28fff,#12a325,881,"{'#d28fff': 440, '#12a325': 440, '#ffffff': 1}",31.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/881.svg
+883,Beurd,BU,#fd82ff,#f1ee97,883,"{'#fd82ff': 441, '#f1ee97': 441, '#000000': 1}",31.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/883.svg
+887,Sterde,ST,#a86118,#c467dc,887,"{'#a86118': 443, '#c467dc': 443, '#000000': 1}",31.0,29,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/887.svg
+907,Lyrax,LX,#b2fa0a,#a50f0f,907,{},29.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/907.svg
+911,Velle,VL,#ad008f,#b2fa0a,911,"{'#ad008f': 455, '#b2fa0a': 455, '#ffffff': 1}",25.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/911.svg
+919,Joh,JO,#dddddd,#85e678,919,"{'#dddddd': 459, '#85e678': 459, '#000000': 1}",35.0,27,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/919.svg
+929,Numes,NM,#fad42a,#f72a6e,929,"{'#fad42a': 464, '#f72a6e': 464, '#ffffff': 1}",33.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/929.svg
+937,Tinge,TN,#a86118,#fad42a,937,{},31.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/937.svg
+941,Eleck,EK,#12a325,#8b8c08,941,"{'#12a325': 470, '#8b8c08': 470, '#ffffff': 1}",33.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/941.svg
+947,Vala,VA,#ad008f,#a86118,947,"{'#ad008f': 473, '#a86118': 473, '#ffffff': 1}",31.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/947.svg
+953,Ethra,EH,#a86118,#fa9a91,953,{},31.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/953.svg
+967,Vice,YC,#4aa7e0,#f1ee97,967,{},39.0,25,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/967.svg
+971,Sorf,SO,#91e6e6,#85e678,971,"{'#91e6e6': 485, '#85e678': 485, '#ffffff': 1}",37.0,27,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/971.svg
+977,Reth,RT,#fa9a91,#4a4b4d,977,{},33.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/977.svg
+983,Autro,UT,#a86118,#00ff90,983,{},37.0,27,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/983.svg
+991,Malbe,MB,#f72a6e,#fd82ff,991,"{'#f72a6e': 495, '#fd82ff': 495, '#ffffff': 1}",35.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/991.svg
+997,Tolse,TO,#4a4b4d,#85e678,997,"{'#4a4b4d': 498, '#85e678': 498, '#ffffff': 1}",33.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/997.svg
+1009,Juve,JE,#dddddd,#12a325,1009,"{'#dddddd': 504, '#12a325': 504, '#ffffff': 1}",31.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1009.svg
+1013,Siwa,SW,#91e6e6,#9c94ff,1013,"{'#91e6e6': 506, '#9c94ff': 506, '#000000': 1}",45,45,centered_square_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/1013.svg
+1019,Nelu,NL,#b2fa0a,#f72a6e,1019,{},33.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1019.svg
+1021,Plonn,PB,#008b8b,#f31119,1021,{},33.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1021.svg
+1031,Dria,DR,#f31119,#ffd988,1031,{},31.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1031.svg
+1033,Viba,VB,#ad008f,#fd82ff,1033,"{'#ad008f': 516, '#fd82ff': 516, '#ffffff': 1}",19.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1033.svg
+1039,Ameda,AD,#a86118,#ffd988,1039,"{'#a86118': 519, '#ffd988': 519, '#ffffff': 1}",33.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1039.svg
+1049,Luce,LC,#b2fa0a,#fad42a,1049,{},39.0,27,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1049.svg
+1051,Proge,PG,#008b8b,#4a4b4d,1051,{},37.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1051.svg
+1061,Galia,GI,#d28fff,#b2fa0a,1061,{},33.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1061.svg
+1063,Meda,MD,#f72a6e,#ffd988,1063,"{'#f72a6e': 531, '#ffd988': 531, '#ffffff': 1}",33.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1063.svg
+1069,Nuva,NU,#fad42a,#00ff90,1069,"{'#fad42a': 534, '#00ff90': 534, '#ffffff': 1}",35.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1069.svg
+1087,Bante,AB,#f31119,#fd82ff,1087,{},35.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1087.svg
+1091,Tesh,AC,#f31119,#a86118,1091,{},41.0,27,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1091.svg
+1093,Hill,HI,#fa9a91,#a50f0f,1093,"{'#fa9a91': 546, '#a50f0f': 546, '#ffffff': 1}",43.0,27,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1093.svg
+1097,Beth,BT,#fd82ff,#4a4b4d,1097,"{'#fd82ff': 548, '#4a4b4d': 548, '#ffffff': 1}",25.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1097.svg
+1103,Sull,SU,#91e6e6,#4aa7e0,1103,{},39.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1103.svg
+1109,Xanth,XA,#821af9,#a86118,1109,"{'#821af9': 554, '#a86118': 554, '#ffffff': 1}",39.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1109.svg
+1117,Deje,DJ,#ffd988,#dddddd,1117,"{'#ffd988': 558, '#dddddd': 558, '#ffffff': 1}",29.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1117.svg
+1123,Korr,KR,#8b8c08,#f1ee97,1123,"{'#8b8c08': 561, '#f1ee97': 561, '#ffffff': 1}",37.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1123.svg
+1129,Leem,LM,#a86118,#a50f0f,1129,{},35.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1129.svg
+1151,Nore,NO,#00ff90,#a86118,1151,{},35.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1151.svg
+1153,Thore,TR,#a86118,#85e678,1153,{},37.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1153.svg
+1163,Laure,LR,#b2fa0a,#f1ee97,1163,"{'#b2fa0a': 581, '#f1ee97': 581, '#ffffff': 1}",33.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1163.svg
+1171,Ghorn,EI,#12a325,#a50f0f,1171,"{'#12a325': 585, '#a50f0f': 585, '#ffffff': 1}",35.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1171.svg
+1181,Ware,WA,#12a325,#ad008f,1181,{},39.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1181.svg
+1187,Royle,RY,#b2fa0a,#ff3cd8,1187,"{'#b2fa0a': 593, '#ff3cd8': 593, '#000000': 1}",39.0,31,source_profile_growth_draft,Uploaded colour pair and centre; counted shape placement remains a draft,False,SVG/1187.svg
+1193,Drone,RH,#f1ee97,#fa9a91,1193,"{'#f1ee97': 596, '#fa9a91': 596, '#ffffff': 1}",37.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1193.svg
+1201,Yord,YO,#00ff90,#ffd988,1201,{},49,49,centered_square_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1201.svg
+1213,Bilse,BI,#91e6e6,#fd82ff,1213,{},35.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1213.svg
+1217,Zelle,ZE,#000e7b,#12a325,1217,"{'#000e7b': 608, '#12a325': 608, '#ffffff': 1}",35.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1217.svg
+1223,Mhar,MH,#f72a6e,#f31119,1223,{},43.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1223.svg
+1229,Ophel,OP,#85e678,#008b8b,1229,"{'#85e678': 614, '#008b8b': 614, '#ffffff': 1}",43.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1229.svg
+1231,Bucke,BA,#fd82ff,#00ff90,1231,{},43.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1231.svg
+1237,Vinn,VI,#a50f0f,#c467dc,1237,{},35.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1237.svg
+1249,Frad,FA,#2159f2,#a86118,1249,"{'#2159f2': 624, '#a86118': 624, '#ffffff': 1}",41.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1249.svg
+1259,Drox,DX,#f31119,#4aa7e0,1259,{},39.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1259.svg
+1277,Yude,YD,#a50f0f,#ffd988,1277,{},37.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1277.svg
+1279,Yume,YM,#a50f0f,#f72a6e,1279,{},37.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1279.svg
+1283,Belse,BL,#fd82ff,#b2fa0a,1283,"{'#fd82ff': 641, '#b2fa0a': 641, '#ffffff': 1}",37.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1283.svg
+1289,Quelt,QU,#8b8c08,#4a4b4d,1289,{},45.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1289.svg
+1291,Garm,GR,#d28fff,#f1ee97,1291,"{'#d28fff': 645, '#f1ee97': 645, '#ffffff': 1}",37.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1291.svg
+1297,Chare,CH,#12a325,#fa9a91,1297,{},39.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1297.svg
+1301,Esse,ES,#12a325,#91e6e6,1301,"{'#12a325': 650, '#91e6e6': 650, '#ffffff': 1}",51,51,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/1301.svg
+1303,Itse,IT,#a50f0f,#4a4b4d,1303,"{'#a50f0f': 651, '#4a4b4d': 651, '#ffffff': 1}",35.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1303.svg
+1307,Jope,DP,#ffd988,#008b8b,1307,"{'#ffd988': 653, '#008b8b': 653, '#ffffff': 1}",43.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1307.svg
+1319,Uke,UK,#5dee27,#00ff90,1319,{},31.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1319.svg
+1321,Tule,TU,#4aa7e0,#b2fa0a,1321,{},43.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1321.svg
+1327,Lamb,LB,#b2fa0a,#fd82ff,1327,"{'#b2fa0a': 663, '#fd82ff': 663, '#ffffff': 1}",41.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1327.svg
+1361,Menpe,MP,#f72a6e,#008b8b,1361,"{'#f72a6e': 680, '#008b8b': 680, '#ffffff': 1}",37.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1361.svg
+1367,Patt,PT,#2159f2,#4a4b4d,1367,{},41.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1367.svg
+1373,Isme,IM,#a50f0f,#12a325,1373,{},45.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1373.svg
+1381,Kolg,KG,#8b8c08,#d28fff,1381,"{'#8b8c08': 690, '#d28fff': 690, '#ffffff': 1}",37.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1381.svg
+1399,Nause,NA,#fad42a,#a86118,1399,"{'#fad42a': 699, '#a86118': 699, '#ffffff': 1}",49.0,29,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1399.svg
+1409,Bram,BR,#a86118,#fd82ff,1409,{},41.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1409.svg
+1423,Prok,PK,#008b8b,#8b8c08,1423,"{'#008b8b': 711, '#8b8c08': 711, '#ffffff': 1}",41.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1423.svg
+1427,Qual,EB,#5dee27,#f1ee97,1427,{},39.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1427.svg
+1429,Fime,PC,#2159f2,#f72a6e,1429,{},39.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1429.svg
+1433,Rante,RA,#f31119,#ff3cd8,1433,{},47.0,31,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1433.svg
+1439,Lemp,LP,#a86118,#008b8b,1439,{},39.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1439.svg
+1447,Rybe,BY,#fd82ff,#f85b0c,1447,"{'#fd82ff': 723, '#f85b0c': 723, '#ffffff': 1}",29.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1447.svg
+1451,Meyn,MY,#ffd988,#f85b0c,1451,{},37.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1451.svg
+1453,Pype,PC,#008b8b,#5dee27,1453,{},39.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1453.svg
+1459,Ryse,PS,#4aa7e0,#fa9a91,1459,{},39.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1459.svg
+1471,Paj,PJ,#008b8b,#dddddd,1471,"{'#008b8b': 735, '#dddddd': 735, '#ffffff': 1}",45.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1471.svg
+1481,Klysa,KS,#8b8c08,#f31119,1481,{},45.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1481.svg
+1483,Morya,MO,#f72a6e,#fa9a91,1483,{},43.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1483.svg
+1487,Hurya,HU,#fa9a91,#5dee27,1487,{},43.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1487.svg
+1489,Dhysa,DH,#fa9a91,#ffd988,1489,{},41.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1489.svg
+1493,Lakre,LK,#b2fa0a,#91e6e6,1493,{},39.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1493.svg
+1499,Dide,DB,#ffd988,#f3cf81,1499,{},39.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1499.svg
+1511,Ilbe,IB,#a50f0f,#fd82ff,1511,"{'#a50f0f': 755, '#fd82ff': 755, '#ffffff': 1}",49.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1511.svg
+1523,Isold,IL,#a50f0f,#b2fa0a,1523,"{'#a50f0f': 761, '#b2fa0a': 761, '#ffffff': 1}",43.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1523.svg
+1531,Mede,MC,#f72a6e,#5dee27,1531,{},41.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1531.svg
+1543,Lile,LF,#b2fa0a,#f31119,1543,{},47.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1543.svg
+1549,Ascer,AF,#a86118,#91e6e6,1549,{},45.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1549.svg
+1553,Enone,OE,#85e678,#12a325,1553,"{'#85e678': 776, '#12a325': 776, '#ffffff': 1}",45.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1553.svg
+1559,Kleopr,KE,#8b8c08,#12a325,1559,"{'#8b8c08': 779, '#12a325': 779, '#ffffff': 1}",45.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1559.svg
+1567,Eudor,ED,#12a325,#ffd988,1567,"{'#12a325': 783, '#ffd988': 783, '#ffffff': 1}",43.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1567.svg
+1571,Bianc,BN,#fd82ff,#a50f0f,1571,{},41.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1571.svg
+1579,Tusneld,TS,#4a4b4d,#00ff90,1579,{},43.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1579.svg
+1583,Stefa,SP,#91e6e6,#4a4b4d,1583,{},41.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1583.svg
+1597,Eos,EF,#5dee27,#85e678,1597,{},45.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1597.svg
+1601,Luci,LG,#00ff90,#4aa7e0,1601,{},49.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1601.svg
+1607,Rosa,RO,#f1ee97,#85e678,1607,"{'#f1ee97': 803, '#85e678': 803, '#ffffff': 1}",39.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1607.svg
+1609,Ocean,OC,#85e678,#4aa7e0,1609,"{'#85e678': 804, '#4aa7e0': 804, '#ffffff': 1}",43.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1609.svg
+1613,Henri,HN,#fa9a91,#fad42a,1613,"{'#fa9a91': 806, '#fad42a': 806, '#ffffff': 1}",41.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1613.svg
+1619,Werin,WE,#9c94ff,#12a325,1619,"{'#9c94ff': 809, '#12a325': 809, '#ffffff': 1}",47.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1619.svg
+1621,Filosof,PD,#fa9a91,#85e678,1621,{},47.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1621.svg
+1627,Agate,AJ,#a86118,#d28fff,1627,{},47.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1627.svg
+1637,Adelind,AQ,#a86118,#f31119,1637,{},45.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1637.svg
+1657,Atamas,AV,#4a4b4d,#f72a6e,1657,{},41.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1657.svg
+1663,Vindon,VN,#ad008f,#fad42a,1663,"{'#ad008f': 831, '#fad42a': 831, '#ffffff': 1}",41.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1663.svg
+1667,Russ,RU,#f1ee97,#00ff90,1667,"{'#f1ee97': 833, '#00ff90': 833, '#ffffff': 1}",41.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1667.svg
+1669,Astere,AW,#a86118,#5dee27,1669,{},41.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1669.svg
+1693,Barbar,BC,#fd82ff,#f31119,1693,{},41.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1693.svg
+1697,Carol,CR,#4aa7e0,#fad42a,1697,{},43.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1697.svg
+1699,Hono,HO,#fa9a91,#c467dc,1699,{},49.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1699.svg
+1709,Celest,CS,#4aa7e0,#12a325,1709,{},69.0,25,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1709.svg
+1721,Hypa,HY,#fa9a91,#fd82ff,1721,{},47.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1721.svg
+1723,Adrast,AD,#f1ee97,#a86118,1723,{},47.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1723.svg
+1733,Vanadis,VD,#ad008f,#f31119,1733,{},45.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1733.svg
+1741,Germa,GM,#d28fff,#f72a6e,1741,"{'#d28fff': 870, '#f72a6e': 870, '#ffffff': 1}",59,59,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/1741.svg
+1747,Kriemd,KH,#8b8c08,#fa9a91,1747,"{'#8b8c08': 873, '#fa9a91': 873, '#ffffff': 1}",43.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1747.svg
+1753,Ida,ID,#a50f0f,#f31119,1753,{},31.0,57,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1753.svg
+1759,Sita,SI,#91e6e6,#f31119,1759,{},43.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1759.svg
+1777,Vera,VE,#12a325,#f31119,1777,{},45.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1777.svg
+1783,Aspor,AS,#a86118,#ff3cd8,1783,{},33.0,57,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1783.svg
+1787,Eukrate,EU,#12a325,#ff3cd8,1787,{},49.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1787.svg
+1789,Lame,LA,#b2fa0a,#5dee27,1789,{},49.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1789.svg
+1801,Ilse,IL,#a50f0f,#5dee27,1801,{},49.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1801.svg
+1811,Bett,BN,#fd82ff,#fad42a,1811,"{'#fd82ff': 905, '#fad42a': 905, '#ffffff': 1}",47.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1811.svg
+1823,Sofi,SP,#91e6e6,#008b8b,1823,"{'#91e6e6': 911, '#008b8b': 911, '#ffffff': 1}",43.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1823.svg
+1831,Clement,CM,#4aa7e0,#f72a6e,1831,"{'#4aa7e0': 915, '#f72a6e': 915, '#ffffff': 1}",43.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1831.svg
+1847,Matilde,MA,#b2fa0a,#fa9a91,1847,{},53.0,35,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1847.svg
+1861,August,AU,#a86118,#723bc2,1861,{},61,61,centered_square_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1861.svg
+1867,Oppa,OA,#85e678,#a86118,1867,"{'#85e678': 933, '#a86118': 933, '#ffffff': 1}",45.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1867.svg
+1871,Walpurg,WA,#9c94ff,#a86118,1871,"{'#9c94ff': 935, '#a86118': 935, '#ffffff': 1}",51.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1871.svg
+1873,Sile,SL,#91e6e6,#b2fa0a,1873,"{'#91e6e6': 936, '#b2fa0a': 936, '#ffffff': 1}",51.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1873.svg
+1877,Tyce,TC,#4a4b4d,#4aa7e0,1877,"{'#4a4b4d': 938, '#4aa7e0': 938, '#ffffff': 1}",57.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1877.svg
+1879,Alete,AL,#f31119,#5dee27,1879,{},51.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1879.svg
+1889,Hubert,HU,#fa9a91,#00ff90,1889,"{'#fa9a91': 944, '#00ff90': 944, '#ffffff': 1}",49.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1889.svg
+1901,Prymno,PY,#008b8b,#f85b0c,1901,"{'#008b8b': 950, '#f85b0c': 950, '#ffffff': 1}",47.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1901.svg
+1907,Vald,VA,#ad008f,#ffd988,1907,{},45.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1907.svg
+1913,Dresd,DR,#ffd988,#f1ee97,1913,"{'#ffd988': 956, '#f1ee97': 956, '#ffffff': 1}",45.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1913.svg
+1931,Libuss,LI,#b2fa0a,#fffe2f,1931,{},45.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1931.svg
+1933,Anna,AN,#f31119,#c467dc,1933,{},53.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1933.svg
+1949,Aline,AL,#a86118,#c467dc,1949,{},53.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1949.svg
+1951,Tirz,TZ,#4a4b4d,#000e7b,1951,"{'#4a4b4d': 975, '#000e7b': 975, '#ffffff': 1}",45.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1951.svg
+1973,Ador,AD,#ffd988,#ff3cd8,1973,{},51.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1973.svg
+1979,Just,JS,#dddddd,#91e6e6,1979,"{'#dddddd': 989, '#91e6e6': 989, '#ffffff': 1}",57.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/1979.svg
+1987,Anahit,AN,#f31119,#9f9f9f,1987,{},49.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1987.svg
+1993,Pentel,PE,#008b8b,#c467dc,1993,{},47.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1993.svg
+1997,Anto,AN,#9f9f9f,#a86118,1997,{},45.0,45,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1997.svg
+1999,Atropos,AT,#4a4b4d,#008b8b,1999,{},45.0,45,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/1999.svg
+2003,Filago,PG,#008b8b,#d28fff,2003,"{'#008b8b': 1001, '#d28fff': 1001, '#ffffff': 1}",45.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2003.svg
+2011,Sapien,SN,#91e6e6,#fad42a,2011,"{'#91e6e6': 1005, '#fad42a': 1005, '#ffffff': 1}",45.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2011.svg
+2017,Adelhd,AD,#ffd988,#b2fa0a,2017,{},47.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2017.svg
+2027,Elvir,EL,#5dee27,#ff3cd8,2027,{},55.0,37,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2027.svg
+2029,Paul,PU,#008b8b,#00ff90,2029,"{'#008b8b': 1014, '#00ff90': 1014, '#ffffff': 1}",35.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2029.svg
+2039,Tule,TL,#4a4b4d,#b2fa0a,2039,"{'#4a4b4d': 1019, '#b2fa0a': 1019, '#ffffff': 1}",49.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2039.svg
+2053,Fili,PH,#a50f0f,#9f9f9f,2053,{},53.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2053.svg
+2063,Lucre,LU,#b2fa0a,#ff3cd8,2063,{},51.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2063.svg
+2069,Clorie,CN,#4aa7e0,#ffd988,2069,{},51.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2069.svg
+2081,Emma,EM,#12a325,#f72a6e,2081,"{'#12a325': 1040, '#f72a6e': 1040, '#ffffff': 1}",49.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2081.svg
+2083,Amal,AM,#a86118,#9f9f9f,2083,{},49.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2083.svg
+2087,Regi,RE,#f1ee97,#12a325,2087,"{'#f1ee97': 1043, '#12a325': 1043, '#ffffff': 1}",47.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2087.svg
+2089,Icle,IC,#a50f0f,#4aa7e0,2089,"{'#a50f0f': 1044, '#4aa7e0': 1044, '#ffffff': 1}",47.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2089.svg
+2099,Neftys,NP,#fad42a,#008b8b,2099,"{'#fad42a': 1049, '#008b8b': 1049, '#ffffff': 1}",47.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2099.svg
+2111,Glauke,GU,#d28fff,#00ff90,2111,"{'#d28fff': 1055, '#00ff90': 1055, '#ffffff': 1}",47.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2111.svg
+2113,Nene,NT,#fad42a,#4a4b4d,2113,"{'#fad42a': 1056, '#4a4b4d': 1056, '#ffffff': 1}",65,65,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/2113.svg
+2129,Brun,BR,#fd82ff,#ff3cd8,2129,{},55.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2129.svg
+2131,Alice,AL,#a86118,#4aa7e0,2131,{},47.0,47,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2131.svg
+2137,Ludov,LV,#b2fa0a,#ad008f,2137,"{'#b2fa0a': 1068, '#ad008f': 1068, '#ffffff': 1}",49.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2137.svg
+2141,Bras,BS,#fd82ff,#91e6e6,2141,"{'#fd82ff': 1070, '#91e6e6': 1070, '#ffffff': 1}",47.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2141.svg
+2143,Feli,FA,#2159f2,#5dee27,2143,{},67.0,33,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2143.svg
+2153,Tere,TS,#4a4b4d,#5dee27,2153,{},75.0,29,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2153.svg
+2161,Fetus,PH,#fa9a91,#f31119,2161,{},53.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2161.svg
+2179,Ceci,CA,#4aa7e0,#5dee27,2179,{},49.0,45,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2179.svg
+2203,Baptist,BP,#fd82ff,#008b8b,2203,"{'#fd82ff': 1101, '#008b8b': 1101, '#ffffff': 1}",67.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2203.svg
+2207,Tora,TH,#85e678,#ff3cd8,2207,{},57.0,39,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2207.svg
+2213,Gerald,GD,#d28fff,#ffd988,2213,"{'#d28fff': 1106, '#ffd988': 1106, '#ffffff': 1}",83.0,27,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2213.svg
+2221,Bava,BV,#fd82ff,#ad008f,2221,"{'#fd82ff': 1110, '#ad008f': 1110, '#ffffff': 1}",47.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2221.svg
+2237,Clar,CL,#4aa7e0,#91e6e6,2237,{},55.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2237.svg
+2239,Josef,JP,#85e678,#a50f0f,2239,{},55.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2239.svg
+2243,Olga,OL,#85e678,#b2fa0a,2243,"{'#85e678': 1121, '#b2fa0a': 1121, '#ffffff': 1}",55.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2243.svg
+2251,Gord,GO,#d28fff,#85e678,2251,"{'#d28fff': 1125, '#85e678': 1125, '#ffffff': 1}",53.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2251.svg
+2267,Unitas,UI,#00ff90,#a50f0f,2267,"{'#00ff90': 1133, '#a50f0f': 1133, '#ffffff': 1}",51.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2267.svg
+2269,Nike,NK,#fad42a,#8b8c08,2269,"{'#fad42a': 1134, '#8b8c08': 1134, '#ffffff': 1}",51.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2269.svg
+2273,Polyxo,PX,#008b8b,#821af9,2273,"{'#008b8b': 1136, '#821af9': 1136, '#ffffff': 1}",51.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2273.svg
+2281,Frates,FT,#2159f2,#fad42a,2281,{},49.0,47,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2281.svg
+2287,Margat,MG,#f72a6e,#d28fff,2287,"{'#f72a6e': 1143, '#d28fff': 1143, '#ffffff': 1}",49.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2287.svg
+2293,Clau,CU,#4aa7e0,#00ff90,2293,"{'#4aa7e0': 1146, '#00ff90': 1146, '#ffffff': 1}",59.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2293.svg
+2297,Pierr,PI,#008b8b,#ff3cd8,2297,{},55.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2297.svg
+2309,Cald,CD,#4aa7e0,#f31119,2309,{},57.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2309.svg
+2311,Rosal,RS,#f1ee97,#91e6e6,2311,"{'#f1ee97': 1155, '#91e6e6': 1155, '#ffffff': 1}",47.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2311.svg
+2333,Constan,CT,#4aa7e0,#4a4b4d,2333,"{'#4aa7e0': 1166, '#4a4b4d': 1166, '#ffffff': 1}",49.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2333.svg
+2339,Gobert,GB,#d28fff,#fd82ff,2339,"{'#d28fff': 1169, '#fd82ff': 1169, '#ffffff': 1}",55.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2339.svg
+2341,Roxane,RX,#f1ee97,#821af9,2341,"{'#f1ee97': 1170, '#821af9': 1170, '#ffffff': 1}",55.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2341.svg
+2347,Ideocre,MA,#f72a6e,#723bc2,2347,{},55.0,43,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2347.svg
+2351,Leon,LE,#b2fa0a,#c467dc,2351,{},59.0,41,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2351.svg
+2357,Katar,KN,#8b8c08,#fad42a,2357,"{'#8b8c08': 1178, '#fad42a': 1178, '#ffffff': 1}",53.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2357.svg
+2371,Florent,FN,#1af7ff,#fad42a,2371,{},51.0,47,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2371.svg
+2377,Feo,PH,#85e678,#5dee27,2377,{},49.0,49,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2377.svg
+2381,Bruc,BC,#fd82ff,#4aa7e0,2381,"{'#fd82ff': 1190, '#4aa7e0': 1190, '#ffffff': 1}",69,69,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/2381.svg
+2383,Bamberg,BM,#fd82ff,#f72a6e,2383,"{'#fd82ff': 1191, '#f72a6e': 1191, '#ffffff': 1}",49.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2383.svg
+2389,Heideg,HB,#fa9a91,#ff3cd8,2389,{},49.0,49,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2389.svg
+2393,Tamar,TM,#4a4b4d,#ff3cd8,2393,{},51.0,47,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2393.svg
+2399,Colum,CB,#4aa7e0,#fd82ff,2399,"{'#4aa7e0': 1199, '#fd82ff': 1199, '#ffffff': 1}",69.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2399.svg
+2411,Gudrun,GN,#d28fff,#fad42a,2411,"{'#d28fff': 1205, '#fad42a': 1205, '#ffffff': 1}",59.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2411.svg
+2417,Svea,SV,#91e6e6,#ad008f,2417,"{'#91e6e6': 1208, '#ad008f': 1208, '#ffffff': 1}",51.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2417.svg
+2423,Adalbt,AD,#a86118,#fffe2f,2423,{},53.0,47,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2423.svg
+2437,Eteridg,ET,#12a325,#5dee27,2437,{},43.0,57,source_profile_growth_draft,Uploaded 1–2447 swatch colours; counted body placement remains a draft,False,SVG/2437.svg
+2441,Siri,SR,#91e6e6,#f1ee97,2441,"{'#91e6e6': 1220, '#f1ee97': 1220, '#ffffff': 1}",63.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2441.svg
+2447,Bade,BD,#fd82ff,#ffd988,2447,"{'#fd82ff': 1223, '#ffd988': 1223, '#ffffff': 1}",55.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2447.svg
+2459,Cicago,CG,#4aa7e0,#d28fff,2459,"{'#4aa7e0': 1229, '#d28fff': 1229, '#ffffff': 1}",55.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2459.svg
+2467,Robert,RB,#f1ee97,#fd82ff,2467,"{'#f1ee97': 1233, '#fd82ff': 1233, '#ffffff': 1}",53.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2467.svg
+2473,Lacadr,LA,#b2fa0a,#a86118,2473,"{'#b2fa0a': 1236, '#a86118': 1236, '#ffffff': 1}",51.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2473.svg
+2477,Devo,DV,#ffd988,#ad008f,2477,"{'#ffd988': 1238, '#ad008f': 1238, '#ffffff': 1}",51.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2477.svg
+2503,Budr,BO,#fd82ff,#85e678,2503,"{'#fd82ff': 1251, '#85e678': 1251, '#ffffff': 1}",81.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2503.svg
+2521,Dorot,DT,#ffd988,#4a4b4d,2521,"{'#ffd988': 1260, '#4a4b4d': 1260, '#ffffff': 1}",71,71,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/2521.svg
+2531,Eduard,ED,#12a325,#ffd988,2531,"{'#12a325': 1265, '#ffd988': 1265, '#ffffff': 1}",65.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2531.svg
+2539,Califor,CF,#4aa7e0,#2159f2,2539,"{'#4aa7e0': 1269, '#2159f2': 1269, '#ffffff': 1}",57.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2539.svg
+2543,Endymn,EN,#12a325,#fad42a,2543,"{'#12a325': 1271, '#fad42a': 1271, '#ffffff': 1}",57.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2543.svg
+2549,Ostar,OS,#85e678,#91e6e6,2549,"{'#85e678': 1274, '#91e6e6': 1274, '#ffffff': 1}",57.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2549.svg
+2551,Desidt,DS,#ffd988,#91e6e6,2551,"{'#ffd988': 1275, '#91e6e6': 1275, '#ffffff': 1}",57.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2551.svg
+2557,Tercid,TD,#4a4b4d,#ffd988,2557,"{'#4a4b4d': 1278, '#ffd988': 1278, '#ffffff': 1}",55.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2557.svg
+2579,Herment,HE,#fa9a91,#12a325,2579,"{'#fa9a91': 1289, '#12a325': 1289, '#ffffff': 1}",51.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2579.svg
+2591,Pari,PA,#008b8b,#a86118,2591,"{'#008b8b': 1295, '#a86118': 1295, '#ffffff': 1}",67.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2591.svg
+2593,May,MY,#f72a6e,#f85b0c,2593,"{'#f72a6e': 1296, '#f85b0c': 1296, '#ffffff': 1}",53.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2593.svg
+2609,Dembok,DM,#ffd988,#f72a6e,2609,"{'#ffd988': 1304, '#f72a6e': 1304, '#ffffff': 1}",43.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2609.svg
+2617,Ornamt,OR,#85e678,#f1ee97,2617,"{'#85e678': 1308, '#f1ee97': 1308, '#ffffff': 1}",53.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2617.svg
+2621,Yrsa,YR,#f85b0c,#f1ee97,2621,"{'#f85b0c': 1310, '#f1ee97': 1310, '#ffffff': 1}",75.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2621.svg
+2633,Gisel,GI,#d28fff,#a50f0f,2633,"{'#d28fff': 1316, '#a50f0f': 1316, '#ffffff': 1}",59.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2633.svg
+2647,Ruperl,RP,#f1ee97,#008b8b,2647,"{'#f1ee97': 1323, '#008b8b': 1323, '#ffffff': 1}",59.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2647.svg
+2657,Eleonor,EL,#12a325,#b2fa0a,2657,"{'#12a325': 1328, '#b2fa0a': 1328, '#ffffff': 1}",57.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2657.svg
+2659,Gabri,GA,#d28fff,#a86118,2659,"{'#d28fff': 1329, '#a86118': 1329, '#ffffff': 1}",33.0,81,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2659.svg
+2663,Ligu,LG,#b2fa0a,#d28fff,2663,"{'#b2fa0a': 1331, '#d28fff': 1331, '#ffffff': 1}",57.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2663.svg
+2671,Nini,NI,#fad42a,#a50f0f,2671,"{'#fad42a': 1335, '#a50f0f': 1335, '#ffffff': 1}",55.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2671.svg
+2677,Apoll,AP,#a86118,#008b8b,2677,"{'#a86118': 1338, '#008b8b': 1338, '#ffffff': 1}",53.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2677.svg
+2683,Geor,GE,#d28fff,#12a325,2683,"{'#d28fff': 1341, '#12a325': 1341, '#ffffff': 1}",55.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2683.svg
+2687,Carlov,CV,#4aa7e0,#ad008f,2687,"{'#4aa7e0': 1343, '#ad008f': 1343, '#ffffff': 1}",53.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2687.svg
+2689,Bono,BO,#fd82ff,#85e678,2689,"{'#fd82ff': 1344, '#85e678': 1344, '#ffffff': 1}",51.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2689.svg
+2693,Havn,HV,#fa9a91,#ad008f,2693,"{'#fa9a91': 1346, '#ad008f': 1346, '#ffffff': 1}",63.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2693.svg
+2699,Padu,PA,#008b8b,#a86118,2699,"{'#008b8b': 1349, '#a86118': 1349, '#ffffff': 1}",53.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2699.svg
+2707,Isar,IS,#a50f0f,#91e6e6,2707,"{'#a50f0f': 1353, '#91e6e6': 1353, '#ffffff': 1}",41.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2707.svg
+2711,Cordub,CO,#4aa7e0,#85e678,2711,"{'#4aa7e0': 1355, '#85e678': 1355, '#ffffff': 1}",51.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2711.svg
+2713,Vincent,VC,#ad008f,#4aa7e0,2713,"{'#ad008f': 1356, '#4aa7e0': 1356, '#ffffff': 1}",83.0,33,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2713.svg
+2719,Amic,AM,#a86118,#f72a6e,2719,"{'#a86118': 1359, '#f72a6e': 1359, '#ffffff': 1}",53.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2719.svg
+2729,Haid,HA,#fa9a91,#a86118,2729,"{'#fa9a91': 1364, '#a86118': 1364, '#ffffff': 1}",61.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2729.svg
+2731,Eria,AE,#a86118,#12a325,2731,"{'#a86118': 1365, '#12a325': 1365, '#ffffff': 1}",45.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2731.svg
+2741,Modes,MO,#f72a6e,#85e678,2741,"{'#f72a6e': 1370, '#85e678': 1370, '#ffffff': 1}",53.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2741.svg
+2749,Bohe,BH,#fd82ff,#fa9a91,2749,"{'#fd82ff': 1374, '#fa9a91': 1374, '#ffffff': 1}",59.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2749.svg
+2753,Palm,PA,#008b8b,#a86118,2753,"{'#008b8b': 1376, '#a86118': 1376, '#ffffff': 1}",71.0,39,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2753.svg
+2767,Melus,MU,#f72a6e,#00ff90,2767,"{'#f72a6e': 1383, '#00ff90': 1383, '#ffffff': 1}",57.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2767.svg
+2777,Burgun,BG,#fd82ff,#d28fff,2777,"{'#fd82ff': 1388, '#d28fff': 1388, '#ffffff': 1}",55.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2777.svg
+2789,Ursul,US,#00ff90,#91e6e6,2789,"{'#00ff90': 1394, '#91e6e6': 1394, '#ffffff': 1}",55.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2789.svg
+2791,Geomet,GT,#d28fff,#4a4b4d,2791,"{'#d28fff': 1395, '#4a4b4d': 1395, '#ffffff': 1}",53.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2791.svg
+2797,Campa,CP,#4aa7e0,#008b8b,2797,"{'#4aa7e0': 1398, '#008b8b': 1398, '#ffffff': 1}",53.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2797.svg
+2801,Holm,HO,#fa9a91,#85e678,2801,"{'#fa9a91': 1400, '#85e678': 1400, '#ffffff': 1}",55.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2801.svg
+2803,Huenn,HU,#fa9a91,#00ff90,2803,"{'#fa9a91': 1401, '#00ff90': 1401, '#ffffff': 1}",69.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2803.svg
+2819,Fidu,FD,#2159f2,#ffd988,2819,"{'#2159f2': 1409, '#ffd988': 1409, '#ffffff': 1}",63.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2819.svg
+2833,Myrrh,MY,#f72a6e,#f85b0c,2833,"{'#f72a6e': 1416, '#f85b0c': 1416, '#ffffff': 1}",39.0,73,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2833.svg
+2837,Dodon,DO,#ffd988,#85e678,2837,"{'#ffd988': 1418, '#85e678': 1418, '#ffffff': 1}",77.0,37,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2837.svg
+2843,Jani,JA,#dddddd,#a86118,2843,"{'#dddddd': 1421, '#a86118': 1421, '#ffffff': 1}",61.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2843.svg
+2851,Burdil,BU,#fd82ff,#00ff90,2851,"{'#fd82ff': 1425, '#00ff90': 1425, '#ffffff': 1}",61.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2851.svg
+2857,Ilmatar,IL,#a50f0f,#b2fa0a,2857,"{'#a50f0f': 1428, '#b2fa0a': 1428, '#ffffff': 1}",65.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2857.svg
+2861,Siegen,SG,#91e6e6,#d28fff,2861,"{'#91e6e6': 1430, '#d28fff': 1430, '#ffffff': 1}",93.0,31,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2861.svg
+2879,Aquita,AQ,#a86118,#5e007e,2879,"{'#a86118': 1439, '#5e007e': 1439, '#ffffff': 1}",57.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2879.svg
+2887,Carybs,CH,#4aa7e0,#fa9a91,2887,"{'#4aa7e0': 1443, '#fa9a91': 1443, '#ffffff': 1}",55.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2887.svg
+2897,Indust,IU,#a50f0f,#00ff90,2897,"{'#a50f0f': 1448, '#00ff90': 1448, '#ffffff': 1}",55.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2897.svg
+2903,Alma,AL,#a86118,#b2fa0a,2903,"{'#a86118': 1451, '#b2fa0a': 1451, '#ffffff': 1}",55.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2903.svg
+2909,Ingebg,IG,#a50f0f,#d28fff,2909,"{'#a50f0f': 1454, '#d28fff': 1454, '#ffffff': 1}",65.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2909.svg
+2917,Wilhelm,WI,#9c94ff,#a50f0f,2917,"{'#9c94ff': 1458, '#a50f0f': 1458, '#ffffff': 1}",65.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2917.svg
+2927,Lampe,LP,#b2fa0a,#008b8b,2927,"{'#b2fa0a': 1463, '#008b8b': 1463, '#ffffff': 1}",43.0,71,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2927.svg
+2939,Ardu,AR,#a86118,#f1ee97,2939,"{'#a86118': 1469, '#f1ee97': 1469, '#ffffff': 1}",63.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2939.svg
+2953,Deli,DL,#ffd988,#b2fa0a,2953,"{'#ffd988': 1476, '#b2fa0a': 1476, '#ffffff': 1}",57.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2953.svg
+2957,Eoli,AE,#a86118,#12a325,2957,"{'#a86118': 1478, '#12a325': 1478, '#ffffff': 1}",55.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2957.svg
+2963,Vienn,VI,#ad008f,#a50f0f,2963,"{'#ad008f': 1481, '#a50f0f': 1481, '#ffffff': 1}",61.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2963.svg
+2969,Admete,AD,#a86118,#ffd988,2969,"{'#a86118': 1484, '#ffd988': 1484, '#ffffff': 1}",73.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2969.svg
+2971,Perse,PE,#008b8b,#12a325,2971,"{'#008b8b': 1485, '#12a325': 1485, '#ffffff': 1}",61.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2971.svg
+2999,Ducr,DU,#ffd988,#00ff90,2999,"{'#ffd988': 1499, '#00ff90': 1499, '#ffffff': 1}",55.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/2999.svg
+3001,Otti,OT,#85e678,#4a4b4d,3001,"{'#85e678': 1500, '#4a4b4d': 1500, '#ffffff': 1}",55.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3001.svg
+3011,Cle,CH,#4aa7e0,#fa9a91,3011,"{'#4aa7e0': 1505, '#fa9a91': 1505, '#ffffff': 1}",55.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3011.svg
+3019,Cyane,CY,#4aa7e0,#f85b0c,3019,"{'#4aa7e0': 1509, '#f85b0c': 1509, '#ffffff': 1}",63.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3019.svg
+3023,Arsine,AR,#a86118,#f1ee97,3023,"{'#a86118': 1511, '#f1ee97': 1511, '#ffffff': 1}",87.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3023.svg
+3037,Tia,TH,#4a4b4d,#fa9a91,3037,"{'#4a4b4d': 1518, '#fa9a91': 1518, '#ffffff': 1}",55.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3037.svg
+3041,Erna,ER,#12a325,#f1ee97,3041,"{'#12a325': 1520, '#f1ee97': 1520, '#ffffff': 1}",57.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3041.svg
+3049,Aracne,AR,#a86118,#f1ee97,3049,"{'#a86118': 1524, '#f1ee97': 1524, '#ffffff': 1}",71.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3049.svg
+3061,Fama,FM,#2159f2,#f72a6e,3061,"{'#2159f2': 1530, '#f72a6e': 1530, '#ffffff': 1}",63.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3061.svg
+3067,Aspa,AS,#a86118,#91e6e6,3067,"{'#a86118': 1533, '#91e6e6': 1533, '#ffffff': 1}",57.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3067.svg
+3079,Cloris,CH,#4aa7e0,#fa9a91,3079,"{'#4aa7e0': 1539, '#fa9a91': 1539, '#ffffff': 1}",63.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3079.svg
+3083,Xante,XN,#821af9,#fad42a,3083,"{'#821af9': 1541, '#fad42a': 1541, '#ffffff': 1}",61.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3083.svg
+3089,Elisat,EB,#12a325,#fd82ff,3089,"{'#12a325': 1544, '#fd82ff': 1544, '#ffffff': 1}",61.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3089.svg
+3109,Edburg,ED,#12a325,#ffd988,3109,"{'#12a325': 1554, '#ffd988': 1554, '#ffffff': 1}",57.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3109.svg
+3119,Liriope,LI,#b2fa0a,#a50f0f,3119,"{'#b2fa0a': 1559, '#a50f0f': 1559, '#ffffff': 1}",57.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3119.svg
+3121,Pala,PA,#008b8b,#a86118,3121,"{'#008b8b': 1560, '#a86118': 1560, '#ffffff': 1}",79,79,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/3121.svg
+3137,Vatican,VT,#ad008f,#4a4b4d,3137,"{'#ad008f': 1568, '#4a4b4d': 1568, '#ffffff': 1}",67.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3137.svg
+3163,Suev,SU,#91e6e6,#00ff90,3163,"{'#91e6e6': 1581, '#00ff90': 1581, '#ffffff': 1}",65.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3163.svg
+3167,Aleman,AL,#a86118,#b2fa0a,3167,"{'#a86118': 1583, '#b2fa0a': 1583, '#ffffff': 1}",65.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3167.svg
+3169,Aure,AU,#a86118,#00ff90,3169,"{'#a86118': 1584, '#00ff90': 1584, '#ffffff': 1}",65.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3169.svg
+3181,Bertold,BE,#fd82ff,#12a325,3181,"{'#fd82ff': 1590, '#12a325': 1590, '#ffffff': 1}",57.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3181.svg
+3187,Zahrin,ZA,#000e7b,#a86118,3187,"{'#000e7b': 1593, '#a86118': 1593, '#ffffff': 1}",63.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3187.svg
+3191,Berol,BE,#fd82ff,#12a325,3191,"{'#fd82ff': 1595, '#12a325': 1595, '#ffffff': 1}",63.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3191.svg
+3203,Diotim,DI,#ffd988,#a50f0f,3203,"{'#ffd988': 1601, '#a50f0f': 1601, '#ffffff': 1}",75.0,43,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3203.svg
+3209,Grat,GR,#d28fff,#f1ee97,3209,"{'#d28fff': 1604, '#f1ee97': 1604, '#ffffff': 1}",63.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3209.svg
+3217,Corn,CO,#4aa7e0,#85e678,3217,"{'#4aa7e0': 1608, '#85e678': 1608, '#ffffff': 1}",59.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3217.svg
+3221,Hippo,HI,#fa9a91,#a50f0f,3221,"{'#fa9a91': 1610, '#a50f0f': 1610, '#ffffff': 1}",57.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3221.svg
+3229,Galene,GA,#d28fff,#a86118,3229,"{'#d28fff': 1614, '#a86118': 1614, '#ffffff': 1}",59.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3229.svg
+3251,Mona,MC,#f72a6e,#4aa7e0,3251,"{'#f72a6e': 1625, '#4aa7e0': 1625, '#ffffff': 1}",93.0,35,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3251.svg
+3253,Lotis,LO,#b2fa0a,#85e678,3253,"{'#b2fa0a': 1626, '#85e678': 1626, '#ffffff': 1}",81.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3253.svg
+3257,Hybris,HY,#fa9a91,#f85b0c,3257,"{'#fa9a91': 1628, '#f85b0c': 1628, '#ffffff': 1}",67.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3257.svg
+3259,Nefele,NH,#fad42a,#fa9a91,3259,"{'#fad42a': 1629, '#fa9a91': 1629, '#ffffff': 1}",49.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3259.svg
+3271,Pyti,PY,#008b8b,#f85b0c,3271,"{'#008b8b': 1635, '#f85b0c': 1635, '#ffffff': 1}",63.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3271.svg
+3299,Eros,ER,#12a325,#f1ee97,3299,"{'#12a325': 1649, '#f1ee97': 1649, '#ffffff': 1}",65.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3299.svg
+3301,Hung,HG,#fa9a91,#d28fff,3301,"{'#fa9a91': 1650, '#d28fff': 1650, '#ffffff': 1}",51.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3301.svg
+3307,Ella,EL,#12a325,#b2fa0a,3307,"{'#12a325': 1653, '#b2fa0a': 1653, '#ffffff': 1}",65.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3307.svg
+3313,Patri,PC,#008b8b,#4aa7e0,3313,"{'#008b8b': 1656, '#4aa7e0': 1656, '#ffffff': 1}",63.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3313.svg
+3319,Rhod,RD,#f1ee97,#ffd988,3319,"{'#f1ee97': 1659, '#ffd988': 1659, '#ffffff': 1}",71.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3319.svg
+3323,Zeuxo,ZU,#000e7b,#00ff90,3323,"{'#000e7b': 1661, '#00ff90': 1661, '#ffffff': 1}",63.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3323.svg
+3329,Ohio,OH,#85e678,#fa9a91,3329,"{'#85e678': 1664, '#fa9a91': 1664, '#ffffff': 1}",61.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3329.svg
+3331,Teodor,TH,#4a4b4d,#fa9a91,3331,"{'#4a4b4d': 1665, '#fa9a91': 1665, '#ffffff': 1}",63.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3331.svg
+3343,Batilde,BA,#fd82ff,#a86118,3343,"{'#fd82ff': 1671, '#a86118': 1671, '#ffffff': 1}",61.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3343.svg
+3347,Eicsfel,EF,#12a325,#2159f2,3347,"{'#12a325': 1673, '#2159f2': 1673, '#ffffff': 1}",59.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3347.svg
+3359,Fotogf,PH,#008b8b,#fa9a91,3359,"{'#008b8b': 1679, '#fa9a91': 1679, '#ffffff': 1}",59.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3359.svg
+3361,Gyptis,GY,#d28fff,#f85b0c,3361,"{'#d28fff': 1680, '#f85b0c': 1680, '#ffffff': 1}",45.0,75,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3361.svg
+3371,Edna,ED,#12a325,#ffd988,3371,"{'#12a325': 1685, '#ffd988': 1685, '#ffffff': 1}",57.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3371.svg
+3373,Eterns,AE,#a86118,#12a325,3373,"{'#a86118': 1686, '#12a325': 1686, '#ffffff': 1}",69.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3373.svg
+3389,Valene,VA,#ad008f,#a86118,3389,"{'#ad008f': 1694, '#a86118': 1694, '#ffffff': 1}",67.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3389.svg
+3391,Natalie,NL,#fad42a,#b2fa0a,3391,"{'#fad42a': 1695, '#b2fa0a': 1695, '#ffffff': 1}",67.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3391.svg
+3407,Hamburg,HA,#fa9a91,#a86118,3407,"{'#fa9a91': 1703, '#a86118': 1703, '#ffffff': 1}",73.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3407.svg
+3413,Brigitt,BR,#fd82ff,#f1ee97,3413,"{'#fd82ff': 1706, '#f1ee97': 1706, '#ffffff': 1}",59.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3413.svg
+3433,Patien,PA,#008b8b,#a86118,3433,"{'#008b8b': 1716, '#a86118': 1716, '#ffffff': 1}",65.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3433.svg
+3449,Hamilt,HA,#fa9a91,#a86118,3449,"{'#fa9a91': 1724, '#a86118': 1724, '#ffffff': 1}",61.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3449.svg
+3457,Tea,TE,#4a4b4d,#12a325,3457,"{'#4a4b4d': 1728, '#12a325': 1728, '#ffffff': 1}",59.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3457.svg
+3461,Matesis,MS,#f72a6e,#91e6e6,3461,"{'#f72a6e': 1730, '#91e6e6': 1730, '#ffffff': 1}",61.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3461.svg
+3463,Brucs,BR,#fd82ff,#f1ee97,3463,"{'#fd82ff': 1731, '#f1ee97': 1731, '#ffffff': 1}",59.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3463.svg
+3467,Abnob,AB,#a86118,#fd82ff,3467,"{'#a86118': 1733, '#fd82ff': 1733, '#ffffff': 1}",59.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3467.svg
+3469,Allegh,AL,#a86118,#b2fa0a,3469,"{'#a86118': 1734, '#b2fa0a': 1734, '#ffffff': 1}",59.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3469.svg
+3491,Hercy,HE,#fa9a91,#12a325,3491,"{'#fa9a91': 1745, '#12a325': 1745, '#ffffff': 1}",69.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3491.svg
+3499,Signe,SI,#91e6e6,#a50f0f,3499,"{'#91e6e6': 1749, '#a50f0f': 1749, '#ffffff': 1}",75.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3499.svg
+3511,Scan,SC,#91e6e6,#4aa7e0,3511,"{'#91e6e6': 1755, '#4aa7e0': 1755, '#ffffff': 1}",69.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3511.svg
+3517,Sask,SK,#91e6e6,#8b8c08,3517,"{'#91e6e6': 1758, '#8b8c08': 1758, '#ffffff': 1}",75.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3517.svg
+3527,Erifyl,ER,#12a325,#f1ee97,3527,"{'#12a325': 1763, '#f1ee97': 1763, '#ffffff': 1}",67.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3527.svg
+3529,Lola,LO,#b2fa0a,#85e678,3529,"{'#b2fa0a': 1764, '#85e678': 1764, '#ffffff': 1}",67.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3529.svg
+3533,Megair,ME,#f72a6e,#12a325,3533,"{'#f72a6e': 1766, '#12a325': 1766, '#ffffff': 1}",67.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3533.svg
+3539,Alekto,AL,#a86118,#b2fa0a,3539,"{'#a86118': 1769, '#b2fa0a': 1769, '#ffffff': 1}",67.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3539.svg
+3541,Tisife,TP,#4a4b4d,#008b8b,3541,"{'#4a4b4d': 1770, '#008b8b': 1770, '#ffffff': 1}",49.0,75,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3541.svg
+3547,Laur,LA,#b2fa0a,#a86118,3547,"{'#b2fa0a': 1773, '#a86118': 1773, '#ffffff': 1}",65.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3547.svg
+3557,Lina,LI,#b2fa0a,#a50f0f,3557,"{'#b2fa0a': 1778, '#a50f0f': 1778, '#ffffff': 1}",65.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3557.svg
+3559,Argent,AR,#a86118,#f1ee97,3559,"{'#a86118': 1779, '#f1ee97': 1779, '#ffffff': 1}",65.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3559.svg
+3571,Kili,KI,#8b8c08,#a50f0f,3571,"{'#8b8c08': 1785, '#a50f0f': 1785, '#ffffff': 1}",61.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3571.svg
+3581,Papagen,PA,#008b8b,#a86118,3581,"{'#008b8b': 1790, '#a86118': 1790, '#ffffff': 1}",61.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3581.svg
+3583,Roma,RM,#f1ee97,#f72a6e,3583,"{'#f1ee97': 1791, '#f72a6e': 1791, '#ffffff': 1}",61.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3583.svg
+3593,Nolli,NO,#fad42a,#85e678,3593,"{'#fad42a': 1796, '#85e678': 1796, '#ffffff': 1}",71.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3593.svg
+3607,Pruden,PR,#008b8b,#f1ee97,3607,"{'#008b8b': 1803, '#f1ee97': 1803, '#ffffff': 1}",59.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3607.svg
+3613,Ocllo,OC,#85e678,#4aa7e0,3613,"{'#85e678': 1806, '#4aa7e0': 1806, '#ffffff': 1}",85,85,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/3613.svg
+3617,Hedwig,HW,#fa9a91,#9c94ff,3617,"{'#fa9a91': 1808, '#9c94ff': 1808, '#ffffff': 1}",67.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3617.svg
+3623,Ital,IT,#a50f0f,#4a4b4d,3623,"{'#a50f0f': 1811, '#4a4b4d': 1811, '#ffffff': 1}",81.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3623.svg
+3631,Terge,TG,#4a4b4d,#d28fff,3631,"{'#4a4b4d': 1815, '#d28fff': 1815, '#ffffff': 1}",69.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3631.svg
+3637,Caprer,CA,#4aa7e0,#a86118,3637,"{'#4aa7e0': 1818, '#a86118': 1818, '#ffffff': 1}",65.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3637.svg
+3643,Hans,HA,#fa9a91,#a86118,3643,"{'#fa9a91': 1821, '#a86118': 1821, '#ffffff': 1}",69.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3643.svg
+3659,Emit,EM,#12a325,#f72a6e,3659,"{'#12a325': 1829, '#f72a6e': 1829, '#ffffff': 1}",67.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3659.svg
+3671,Petr,PE,#008b8b,#12a325,3671,"{'#008b8b': 1835, '#12a325': 1835, '#ffffff': 1}",55.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3671.svg
+3673,Sepp,SE,#91e6e6,#12a325,3673,"{'#91e6e6': 1836, '#12a325': 1836, '#ffffff': 1}",67.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3673.svg
+3677,Pittsg,PB,#008b8b,#fd82ff,3677,"{'#008b8b': 1838, '#fd82ff': 1838, '#ffffff': 1}",65.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3677.svg
+3691,Genu,GE,#d28fff,#12a325,3691,"{'#d28fff': 1845, '#12a325': 1845, '#ffffff': 1}",63.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3691.svg
+3697,Cremon,CR,#4aa7e0,#f1ee97,3697,"{'#4aa7e0': 1848, '#f1ee97': 1848, '#ffffff': 1}",61.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3697.svg
+3701,Vene,VE,#ad008f,#12a325,3701,"{'#ad008f': 1850, '#12a325': 1850, '#ffffff': 1}",63.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3701.svg
+3709,Kreus,KU,#8b8c08,#00ff90,3709,"{'#8b8c08': 1854, '#00ff90': 1854, '#ffffff': 1}",61.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3709.svg
+3719,Comac,CO,#4aa7e0,#85e678,3719,"{'#4aa7e0': 1859, '#85e678': 1859, '#ffffff': 1}",73.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3719.svg
+3727,Veritas,VS,#ad008f,#91e6e6,3727,"{'#ad008f': 1863, '#91e6e6': 1863, '#ffffff': 1}",69.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3727.svg
+3733,Cari,CA,#4aa7e0,#a86118,3733,"{'#4aa7e0': 1866, '#a86118': 1866, '#ffffff': 1}",61.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3733.svg
+3739,Gismond,GS,#d28fff,#91e6e6,3739,"{'#d28fff': 1869, '#91e6e6': 1869, '#ffffff': 1}",53.0,73,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3739.svg
+3761,Grises,GR,#d28fff,#f1ee97,3761,"{'#d28fff': 1880, '#f1ee97': 1880, '#ffffff': 1}",77.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3761.svg
+3767,Virtus,VU,#ad008f,#00ff90,3767,"{'#ad008f': 1883, '#00ff90': 1883, '#ffffff': 1}",65.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3767.svg
+3769,Eula,EU,#12a325,#00ff90,3769,"{'#12a325': 1884, '#00ff90': 1884, '#ffffff': 1}",69.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3769.svg
+3779,Gryf,GP,#d28fff,#008b8b,3779,"{'#d28fff': 1889, '#008b8b': 1889, '#ffffff': 1}",69.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3779.svg
+3793,Iva,IV,#a50f0f,#ad008f,3793,"{'#a50f0f': 1896, '#ad008f': 1896, '#ffffff': 1}",67.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3793.svg
+3797,Tokio,TK,#4a4b4d,#8b8c08,3797,"{'#4a4b4d': 1898, '#8b8c08': 1898, '#ffffff': 1}",67.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3797.svg
+3803,Venu,VE,#ad008f,#12a325,3803,"{'#ad008f': 1901, '#12a325': 1901, '#ffffff': 1}",67.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3803.svg
+3821,Selinur,SE,#91e6e6,#12a325,3821,"{'#91e6e6': 1910, '#12a325': 1910, '#ffffff': 1}",63.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3821.svg
+3823,Urhixr,UH,#00ff90,#fa9a91,3823,"{'#00ff90': 1911, '#fa9a91': 1911, '#ffffff': 1}",65.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3823.svg
+3833,Sigune,SI,#91e6e6,#a50f0f,3833,"{'#91e6e6': 1916, '#a50f0f': 1916, '#ffffff': 1}",83.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3833.svg
+3847,Evelyn,EV,#12a325,#ad008f,3847,"{'#12a325': 1923, '#ad008f': 1923, '#ffffff': 1}",73.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3847.svg
+3851,Cora,CO,#4aa7e0,#85e678,3851,"{'#4aa7e0': 1925, '#85e678': 1925, '#ffffff': 1}",61.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3851.svg
+3853,Cava,CA,#4aa7e0,#a86118,3853,"{'#4aa7e0': 1926, '#a86118': 1926, '#ffffff': 1}",73.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3853.svg
+3863,Marion,MA,#f72a6e,#a86118,3863,"{'#f72a6e': 1931, '#a86118': 1931, '#ffffff': 1}",79.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3863.svg
+3877,Laod,LA,#b2fa0a,#a86118,3877,"{'#b2fa0a': 1938, '#a86118': 1938, '#ffffff': 1}",71.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3877.svg
+3881,Princet,PR,#008b8b,#f1ee97,3881,"{'#008b8b': 1940, '#f1ee97': 1940, '#ffffff': 1}",71.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3881.svg
+3889,Ioland,IO,#a50f0f,#85e678,3889,"{'#a50f0f': 1944, '#85e678': 1944, '#ffffff': 1}",71.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3889.svg
+3907,Mabe,MA,#f72a6e,#a86118,3907,"{'#f72a6e': 1953, '#a86118': 1953, '#ffffff': 1}",69.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3907.svg
+3911,David,DA,#ffd988,#a86118,3911,"{'#ffd988': 1955, '#a86118': 1955, '#ffffff': 1}",69.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3911.svg
+3917,Tauris,TN,#4a4b4d,#fad42a,3917,"{'#4a4b4d': 1958, '#fad42a': 1958, '#ffffff': 1}",69.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3917.svg
+3919,Centem,CE,#4aa7e0,#12a325,3919,"{'#4aa7e0': 1959, '#12a325': 1959, '#ffffff': 1}",57.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3919.svg
+3923,Armid,AR,#a86118,#f1ee97,3923,"{'#a86118': 1961, '#f1ee97': 1961, '#ffffff': 1}",77.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3923.svg
+3929,Atal,AT,#a86118,#4a4b4d,3929,"{'#a86118': 1964, '#4a4b4d': 1964, '#ffffff': 1}",69.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3929.svg
+3931,Amhers,AM,#a86118,#f72a6e,3931,"{'#a86118': 1965, '#f72a6e': 1965, '#ffffff': 1}",67.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3931.svg
+3943,Edit,ED,#12a325,#ffd988,3943,"{'#12a325': 1971, '#ffd988': 1971, '#ffffff': 1}",63.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3943.svg
+3947,Halawe,HA,#fa9a91,#a86118,3947,"{'#fa9a91': 1973, '#a86118': 1973, '#ffffff': 1}",63.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3947.svg
+3967,Sylva,SY,#91e6e6,#f85b0c,3967,"{'#91e6e6': 1983, '#f85b0c': 1983, '#ffffff': 1}",75.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3967.svg
+3989,Franzk,FZ,#2159f2,#000e7b,3989,"{'#2159f2': 1994, '#000e7b': 1994, '#ffffff': 1}",73.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/3989.svg
+4001,Brix,BX,#fd82ff,#821af9,4001,"{'#fd82ff': 2000, '#821af9': 2000, '#ffffff': 1}",55.0,73,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4001.svg
+4003,Helg,HE,#fa9a91,#12a325,4003,"{'#fa9a91': 2001, '#12a325': 2001, '#ffffff': 1}",69.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4003.svg
+4007,Ada,AD,#a86118,#ffd988,4007,"{'#a86118': 2003, '#ffd988': 2003, '#ffffff': 1}",73.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4007.svg
+4013,Fidelio,FI,#2159f2,#a50f0f,4013,"{'#2159f2': 2006, '#a50f0f': 2006, '#ffffff': 1}",77.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4013.svg
+4019,Adelae,AD,#a86118,#ffd988,4019,"{'#a86118': 2009, '#ffd988': 2009, '#ffffff': 1}",67.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4019.svg
+4021,Jena,JN,#dddddd,#fad42a,4021,"{'#dddddd': 2010, '#fad42a': 2010, '#ffffff': 1}",71.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4021.svg
+4027,Euryae,EU,#12a325,#00ff90,4027,"{'#12a325': 2013, '#00ff90': 2013, '#ffffff': 1}",65.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4027.svg
+4049,Rezi,RZ,#f1ee97,#000e7b,4049,"{'#f1ee97': 2024, '#000e7b': 2024, '#ffffff': 1}",69.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4049.svg
+4051,Prezi,PZ,#008b8b,#000e7b,4051,"{'#008b8b': 2025, '#000e7b': 2025, '#ffffff': 1}",83.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4051.svg
+4057,Turant,TU,#4a4b4d,#00ff90,4057,"{'#4a4b4d': 2028, '#00ff90': 2028, '#ffffff': 1}",59.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4057.svg
+4073,Zerl,ZR,#000e7b,#f1ee97,4073,"{'#000e7b': 2036, '#f1ee97': 2036, '#ffffff': 1}",65.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4073.svg
+4079,Hercul,HE,#fa9a91,#12a325,4079,"{'#fa9a91': 2039, '#12a325': 2039, '#ffffff': 1}",65.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4079.svg
+4091,Sara,SA,#91e6e6,#a86118,4091,"{'#91e6e6': 2045, '#a86118': 2045, '#ffffff': 1}",65.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4091.svg
+4093,Nasso,NS,#fad42a,#91e6e6,4093,"{'#fad42a': 2046, '#91e6e6': 2046, '#ffffff': 1}",73.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4093.svg
+4099,Montae,MO,#f72a6e,#85e678,4099,"{'#f72a6e': 2049, '#85e678': 2049, '#ffffff': 1}",75.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4099.svg
+4111,Merapi,ME,#f72a6e,#12a325,4111,"{'#f72a6e': 2055, '#12a325': 2055, '#ffffff': 1}",65.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4111.svg
+4127,Pauly,PA,#008b8b,#a86118,4127,"{'#008b8b': 2063, '#a86118': 2063, '#ffffff': 1}",81.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4127.svg
+4129,Friede,FK,#2159f2,#8b8c08,4129,"{'#2159f2': 2064, '#8b8c08': 2064, '#ffffff': 1}",101.0,41,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4129.svg
+4133,Pami,PA,#008b8b,#a86118,4133,"{'#008b8b': 2066, '#a86118': 2066, '#ffffff': 1}",73.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4133.svg
+4139,Rosame,RA,#f1ee97,#a86118,4139,"{'#f1ee97': 2069, '#a86118': 2069, '#ffffff': 1}",73.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4139.svg
+4153,Deborah,DB,#ffd988,#fd82ff,4153,"{'#ffd988': 2076, '#fd82ff': 2076, '#ffffff': 1}",67.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4153.svg
+4157,Susann,SU,#91e6e6,#00ff90,4157,"{'#91e6e6': 2078, '#00ff90': 2078, '#ffffff': 1}",65.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4157.svg
+4159,Carloe,CH,#4aa7e0,#fa9a91,4159,"{'#4aa7e0': 2079, '#fa9a91': 2079, '#ffffff': 1}",79.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4159.svg
+4177,Jett,JT,#dddddd,#4a4b4d,4177,"{'#dddddd': 2088, '#4a4b4d': 2088, '#ffffff': 1}",71.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4177.svg
+4201,Messal,ME,#f72a6e,#12a325,4201,"{'#f72a6e': 2100, '#12a325': 2100, '#ffffff': 1}",65.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4201.svg
+4211,Herods,HE,#fa9a91,#12a325,4211,"{'#fa9a91': 2105, '#12a325': 2105, '#ffffff': 1}",65.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4211.svg
+4217,Praxes,PR,#008b8b,#f1ee97,4217,"{'#008b8b': 2108, '#f1ee97': 2108, '#ffffff': 1}",67.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4217.svg
+4219,Heffyiremary,KD,#8b8c08,#ffd988,4219,"{'#8b8c08': 2109, '#ffd988': 2109, '#ffffff': 1}",77.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4219.svg
+4229,Jessond,JD,#dddddd,#ffd988,4229,"{'#dddddd': 2114, '#ffd988': 2114, '#ffffff': 1}",83.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4229.svg
+4231,Sent,SE,#91e6e6,#12a325,4231,"{'#91e6e6': 2115, '#12a325': 2115, '#ffffff': 1}",77.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4231.svg
+4241,Ortrud,OU,#85e678,#00ff90,4241,"{'#85e678': 2120, '#00ff90': 2120, '#ffffff': 1}",67.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4241.svg
+4243,Sigele,SD,#91e6e6,#ffd988,4243,"{'#91e6e6': 2121, '#ffd988': 2121, '#ffffff': 1}",43.0,99,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4243.svg
+4253,Kundry,KU,#8b8c08,#00ff90,4253,"{'#8b8c08': 2126, '#00ff90': 2126, '#ffffff': 1}",75.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4253.svg
+4259,Perag,PE,#008b8b,#12a325,4259,"{'#008b8b': 2129, '#12a325': 2129, '#ffffff': 1}",75.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4259.svg
+4261,Norm,NR,#fad42a,#f1ee97,4261,"{'#fad42a': 2130, '#f1ee97': 2130, '#ffffff': 1}",57.0,75,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4261.svg
+4271,Fyllis,PH,#008b8b,#fa9a91,4271,"{'#008b8b': 2135, '#fa9a91': 2135, '#ffffff': 1}",75.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4271.svg
+4273,Viol,VO,#ad008f,#85e678,4273,"{'#ad008f': 2136, '#85e678': 2136, '#ffffff': 1}",91.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4273.svg
+4283,Carmen,CA,#4aa7e0,#a86118,4283,"{'#4aa7e0': 2141, '#a86118': 2141, '#ffffff': 1}",73.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4283.svg
+4289,Nanon,NA,#fad42a,#a86118,4289,"{'#fad42a': 2144, '#a86118': 2144, '#ffffff': 1}",73.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4289.svg
+4297,Delil,DE,#ffd988,#12a325,4297,"{'#ffd988': 2148, '#12a325': 2148, '#ffffff': 1}",97.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4297.svg
+4327,Ingwe,IW,#a50f0f,#9c94ff,4327,"{'#a50f0f': 2163, '#9c94ff': 2163, '#ffffff': 1}",67.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4327.svg
+4337,Salome,SM,#91e6e6,#f72a6e,4337,"{'#91e6e6': 2168, '#f72a6e': 2168, '#ffffff': 1}",67.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4337.svg
+4339,Suleik,SU,#91e6e6,#00ff90,4339,"{'#91e6e6': 2169, '#00ff90': 2169, '#ffffff': 1}",67.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4339.svg
+4349,Dudu,DU,#ffd988,#00ff90,4349,"{'#ffd988': 2174, '#00ff90': 2174, '#ffffff': 1}",89.0,49,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4349.svg
+4357,Marba,MA,#f72a6e,#a86118,4357,"{'#f72a6e': 2178, '#a86118': 2178, '#ffffff': 1}",75.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4357.svg
+4363,Stereo,ST,#91e6e6,#4a4b4d,4363,"{'#91e6e6': 2181, '#4a4b4d': 2181, '#ffffff': 1}",65.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4363.svg
+4373,Eleut,EL,#12a325,#b2fa0a,4373,"{'#12a325': 2186, '#b2fa0a': 2186, '#ffffff': 1}",77.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4373.svg
+4391,Cerusk,CK,#4aa7e0,#8b8c08,4391,"{'#4aa7e0': 2195, '#8b8c08': 2195, '#ffffff': 1}",83.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4391.svg
+4397,Misa,MI,#f72a6e,#a50f0f,4397,"{'#f72a6e': 2198, '#a50f0f': 2198, '#ffffff': 1}",75.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4397.svg
+4409,Kyter,KY,#8b8c08,#f85b0c,4409,"{'#8b8c08': 2204, '#f85b0c': 2204, '#ffffff': 1}",75.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4409.svg
+4421,Dulcin,DC,#ffd988,#4aa7e0,4421,"{'#ffd988': 2210, '#4aa7e0': 2210, '#ffffff': 1}",67.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4421.svg
+4423,Rebekk,RK,#f1ee97,#8b8c08,4423,"{'#f1ee97': 2211, '#8b8c08': 2211, '#ffffff': 1}",51.0,87,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4423.svg
+4441,Reca,RC,#f1ee97,#4aa7e0,4441,"{'#f1ee97': 2220, '#4aa7e0': 2220, '#ffffff': 1}",73.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4441.svg
+4447,Regind,RG,#f1ee97,#d28fff,4447,"{'#f1ee97': 2223, '#d28fff': 2223, '#ffffff': 1}",71.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4447.svg
+4451,Renate,RN,#f1ee97,#fad42a,4451,"{'#f1ee97': 2225, '#fad42a': 2225, '#ffffff': 1}",71.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4451.svg
+4457,Emanuel,EM,#12a325,#f72a6e,4457,"{'#12a325': 2228, '#f72a6e': 2228, '#ffffff': 1}",69.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4457.svg
+4463,Rhea,RH,#f1ee97,#fa9a91,4463,"{'#f1ee97': 2231, '#fa9a91': 2231, '#ffffff': 1}",67.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4463.svg
+4481,Happ,HA,#fa9a91,#a86118,4481,"{'#fa9a91': 2240, '#a86118': 2240, '#ffffff': 1}",69.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4481.svg
+4483,Sido,SI,#91e6e6,#a50f0f,4483,"{'#91e6e6': 2241, '#a50f0f': 2241, '#ffffff': 1}",85.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4483.svg
+4493,Selene,SE,#91e6e6,#12a325,4493,"{'#91e6e6': 2246, '#12a325': 2246, '#ffffff': 1}",85.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4493.svg
+4507,Taunt,TA,#4a4b4d,#a86118,4507,"{'#4a4b4d': 2253, '#a86118': 2253, '#ffffff': 1}",75.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4507.svg
+4513,Olym,OY,#85e678,#f85b0c,4513,"{'#85e678': 2256, '#f85b0c': 2256, '#ffffff': 1}",95,95,centered_square_draft,letter-palette colours; shape and colour placement draft,False,SVG/4513.svg
+4517,Klotie,KL,#8b8c08,#b2fa0a,4517,"{'#8b8c08': 2258, '#b2fa0a': 2258, '#ffffff': 1}",77.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4517.svg
+4519,Semirs,SE,#91e6e6,#12a325,4519,"{'#91e6e6': 2259, '#12a325': 2259, '#ffffff': 1}",59.0,79,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4519.svg
+4523,Bilkis,BK,#fd82ff,#8b8c08,4523,"{'#fd82ff': 2261, '#8b8c08': 2261, '#ffffff': 1}",89.0,51,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4523.svg
+4547,Tekl,TH,#4a4b4d,#fa9a91,4547,"{'#4a4b4d': 2273, '#fa9a91': 2273, '#ffffff': 1}",71.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4547.svg
+4549,Hypsie,HY,#fa9a91,#f85b0c,4549,"{'#fa9a91': 2274, '#f85b0c': 2274, '#ffffff': 1}",75.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4549.svg
+4561,Acilles,AC,#a86118,#4aa7e0,4561,"{'#a86118': 2280, '#4aa7e0': 2280, '#ffffff': 1}",61.0,75,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4561.svg
+4567,Croa,CR,#4aa7e0,#f1ee97,4567,"{'#4aa7e0': 2283, '#f1ee97': 2283, '#ffffff': 1}",75.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4567.svg
+4583,Tomyris,TO,#4a4b4d,#85e678,4583,"{'#4a4b4d': 2291, '#85e678': 2291, '#ffffff': 1}",73.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4583.svg
+4591,Irmgard,IR,#a50f0f,#f1ee97,4591,"{'#a50f0f': 2295, '#f1ee97': 2295, '#ffffff': 1}",73.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4591.svg
+4597,Batseb,BA,#fd82ff,#a86118,4597,"{'#fd82ff': 2298, '#a86118': 2298, '#ffffff': 1}",69.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4597.svg
+4603,Tita,TI,#4a4b4d,#a50f0f,4603,"{'#4a4b4d': 2301, '#a50f0f': 2301, '#ffffff': 1}",71.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4603.svg
+4621,Mireie,MI,#f72a6e,#a50f0f,4621,"{'#f72a6e': 2310, '#a50f0f': 2310, '#ffffff': 1}",45.0,103,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4621.svg
+4637,Polyxen,PO,#008b8b,#85e678,4637,"{'#008b8b': 2318, '#85e678': 2318, '#ffffff': 1}",79.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4637.svg
+4639,Sceil,SH,#91e6e6,#fa9a91,4639,"{'#91e6e6': 2319, '#fa9a91': 2319, '#ffffff': 1}",69.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4639.svg
+4643,Bandu,BA,#fd82ff,#a86118,4643,"{'#fd82ff': 2321, '#a86118': 2321, '#ffffff': 1}",79.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4643.svg
+4649,Octa,OV,#85e678,#ad008f,4649,"{'#85e678': 2324, '#ad008f': 2324, '#ffffff': 1}",79.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4649.svg
+4651,Luis,LU,#b2fa0a,#00ff90,4651,"{'#b2fa0a': 2325, '#00ff90': 2325, '#ffffff': 1}",85.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4651.svg
+4657,Musa,MU,#f72a6e,#00ff90,4657,"{'#f72a6e': 2328, '#00ff90': 2328, '#ffffff': 1}",75.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4657.svg
+4663,Nertus,NE,#fad42a,#12a325,4663,"{'#fad42a': 2331, '#12a325': 2331, '#ffffff': 1}",83.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4663.svg
+4673,Mariann,MA,#f72a6e,#a86118,4673,"{'#f72a6e': 2336, '#a86118': 2336, '#ffffff': 1}",77.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4673.svg
+4679,Timandr,TI,#4a4b4d,#a50f0f,4679,"{'#4a4b4d': 2339, '#a50f0f': 2339, '#ffffff': 1}",77.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4679.svg
+4691,Tekm,TE,#4a4b4d,#12a325,4691,"{'#4a4b4d': 2345, '#12a325': 2345, '#ffffff': 1}",57.0,85,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4691.svg
+4703,Juvi,JV,#dddddd,#ad008f,4703,"{'#dddddd': 2351, '#ad008f': 2351, '#ffffff': 1}",75.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4703.svg
+4721,Brange,BR,#fd82ff,#f1ee97,4721,"{'#fd82ff': 2360, '#f1ee97': 2360, '#ffffff': 1}",75.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4721.svg
+4723,Jenny,JY,#dddddd,#f85b0c,4723,"{'#dddddd': 2361, '#f85b0c': 2361, '#ffffff': 1}",73.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4723.svg
+4729,Adolfe,AF,#a86118,#2159f2,4729,"{'#a86118': 2364, '#2159f2': 2364, '#ffffff': 1}",71.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4729.svg
+4733,Fulv,FU,#2159f2,#00ff90,4733,"{'#2159f2': 2366, '#00ff90': 2366, '#ffffff': 1}",69.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4733.svg
+4751,Valesk,VK,#ad008f,#8b8c08,4751,"{'#ad008f': 2375, '#8b8c08': 2375, '#ffffff': 1}",79.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4751.svg
+4759,Vale,VA,#ad008f,#a86118,4759,"{'#ad008f': 2379, '#a86118': 2379, '#ffffff': 1}",87.0,55,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4759.svg
+4783,Veronik,VE,#ad008f,#12a325,4783,"{'#ad008f': 2391, '#12a325': 2391, '#ffffff': 1}",77.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4783.svg
+4787,Ginevr,GV,#d28fff,#ad008f,4787,"{'#d28fff': 2393, '#ad008f': 2393, '#ffffff': 1}",107.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4787.svg
+4789,Pia,PI,#008b8b,#a50f0f,4789,"{'#008b8b': 2394, '#a50f0f': 2394, '#ffffff': 1}",107.0,45,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4789.svg
+4793,Roswit,RW,#f1ee97,#9c94ff,4793,"{'#f1ee97': 2396, '#9c94ff': 2396, '#ffffff': 1}",79.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4793.svg
+4799,Elly,EL,#12a325,#b2fa0a,4799,"{'#12a325': 2399, '#b2fa0a': 2399, '#ffffff': 1}",91.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4799.svg
+4801,Patros,PA,#008b8b,#a86118,4801,"{'#008b8b': 2400, '#a86118': 2400, '#ffffff': 1}",79.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4801.svg
+4813,Elfrie,EL,#12a325,#b2fa0a,4813,"{'#12a325': 2406, '#b2fa0a': 2406, '#ffffff': 1}",103.0,47,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4813.svg
+4817,Triberg,TB,#4a4b4d,#fd82ff,4817,"{'#4a4b4d': 2408, '#fd82ff': 2408, '#ffffff': 1}",85.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4817.svg
+4831,Drak,DR,#ffd988,#f1ee97,4831,"{'#ffd988': 2415, '#f1ee97': 2415, '#ffffff': 1}",71.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4831.svg
+4861,Werdai,WR,#9c94ff,#f1ee97,4861,"{'#9c94ff': 2430, '#f1ee97': 2430, '#ffffff': 1}",65.0,75,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4861.svg
+4871,Ester,ES,#12a325,#91e6e6,4871,"{'#12a325': 2435, '#91e6e6': 2435, '#ffffff': 1}",71.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4871.svg
+4877,Cimer,CH,#4aa7e0,#fa9a91,4877,"{'#4aa7e0': 2438, '#fa9a91': 2438, '#ffffff': 1}",71.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4877.svg
+4889,Hektor,HE,#fa9a91,#12a325,4889,"{'#fa9a91': 2444, '#12a325': 2444, '#ffffff': 1}",83.0,59,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4889.svg
+4903,Xeni,XE,#821af9,#12a325,4903,"{'#821af9': 2451, '#12a325': 2451, '#ffffff': 1}",93.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4903.svg
+4909,Notburg,NB,#fad42a,#fd82ff,4909,"{'#fad42a': 2454, '#fd82ff': 2454, '#ffffff': 1}",79.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4909.svg
+4919,Caris,CH,#4aa7e0,#fa9a91,4919,"{'#4aa7e0': 2459, '#fa9a91': 2459, '#ffffff': 1}",81.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4919.svg
+4931,Criste,CH,#4aa7e0,#fa9a91,4931,"{'#4aa7e0': 2465, '#fa9a91': 2465, '#ffffff': 1}",87.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4931.svg
+4933,Bernard,BE,#fd82ff,#12a325,4933,"{'#fd82ff': 2466, '#12a325': 2466, '#ffffff': 1}",81.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4933.svg
+4937,Eufe,EU,#12a325,#00ff90,4937,"{'#12a325': 2468, '#00ff90': 2468, '#ffffff': 1}",77.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4937.svg
+4943,Filipp,PH,#008b8b,#fa9a91,4943,"{'#008b8b': 2471, '#fa9a91': 2471, '#ffffff': 1}",87.0,57,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4943.svg
+4951,Pyrrh,PY,#008b8b,#f85b0c,4951,"{'#008b8b': 2475, '#f85b0c': 2475, '#ffffff': 1}",79.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4951.svg
+4957,Zelim,ZL,#000e7b,#b2fa0a,4957,"{'#000e7b': 2478, '#b2fa0a': 2478, '#ffffff': 1}",75.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4957.svg
+4967,Ute,UT,#00ff90,#4a4b4d,4967,"{'#00ff90': 2483, '#4a4b4d': 2483, '#ffffff': 1}",95.0,53,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4967.svg
+4969,Vund,VU,#ad008f,#00ff90,4969,"{'#ad008f': 2484, '#00ff90': 2484, '#ffffff': 1}",73.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4969.svg
+4973,Erik,ER,#12a325,#f1ee97,4973,"{'#12a325': 2486, '#f1ee97': 2486, '#ffffff': 1}",71.0,71,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4973.svg
+4987,Crysos,CH,#4aa7e0,#fa9a91,4987,"{'#4aa7e0': 2493, '#fa9a91': 2493, '#ffffff': 1}",77.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4987.svg
+4993,Moir,MO,#f72a6e,#85e678,4993,"{'#f72a6e': 2496, '#85e678': 2496, '#ffffff': 1}",77.0,65,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4993.svg
+4999,Laton,LA,#b2fa0a,#a86118,4999,"{'#b2fa0a': 2499, '#a86118': 2499, '#ffffff': 1}",75.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/4999.svg
+5003,Brambl,BR,#fd82ff,#f1ee97,5003,"{'#fd82ff': 2501, '#f1ee97': 2501, '#ffffff': 1}",75.0,67,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5003.svg
+5009,Agnes,AG,#a86118,#d28fff,5009,"{'#a86118': 2504, '#d28fff': 2504, '#ffffff': 1}",73.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5009.svg
+5011,Clara,CL,#4aa7e0,#b2fa0a,5011,"{'#4aa7e0': 2505, '#b2fa0a': 2505, '#ffffff': 1}",73.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5011.svg
+5021,Scehe,SZ,#91e6e6,#000e7b,5021,"{'#91e6e6': 2510, '#000e7b': 2510, '#ffffff': 1}",73.0,69,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5021.svg
+5023,Cosim,CO,#4aa7e0,#85e678,5023,"{'#4aa7e0': 2511, '#85e678': 2511, '#ffffff': 1}",71.0,71,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5023.svg
+5039,Agripp,AG,#a86118,#d28fff,5039,"{'#a86118': 2519, '#d28fff': 2519, '#ffffff': 1}",83.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5039.svg
+5051,Kast,KA,#8b8c08,#a86118,5051,"{'#8b8c08': 2525, '#a86118': 2525, '#ffffff': 1}",83.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5051.svg
+5059,Adelge,AD,#a86118,#ffd988,5059,"{'#a86118': 2529, '#ffd988': 2529, '#ffffff': 1}",83.0,61,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5059.svg
+5077,Pipp,PI,#008b8b,#a50f0f,5077,"{'#008b8b': 2538, '#a50f0f': 2538, '#ffffff': 1}",81.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5077.svg
+5081,Josefa,JF,#dddddd,#2159f2,5081,"{'#dddddd': 2540, '#2159f2': 2540, '#ffffff': 1}",81.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5081.svg
+5087,Amalat,AM,#a86118,#f72a6e,5087,"{'#a86118': 2543, '#f72a6e': 2543, '#ffffff': 1}",81.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5087.svg
+5099,Antikle,AN,#a86118,#fad42a,5099,"{'#a86118': 2549, '#fad42a': 2549, '#ffffff': 1}",81.0,63,source_profile_growth_draft,letter-palette colours; shape and colour placement draft,False,SVG/5099.svg

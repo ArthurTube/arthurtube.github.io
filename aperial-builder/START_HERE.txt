@@ -1,0 +1,113 @@
+APERIAL BUILDER — REFERENCE WORKSHOP UPDATE
+
+Extract the ENTIRE ZIP into one folder. Open Aperial_Builder_UPDATED.html.
+The original two bank files and all required assets are included. No older download is required.
+
+NEW WORKSHOP
+Use the Animation reference workshop panel at the top of the builder.
+Open Review 180–990 and prime references 131–5099.
+Select V17 (49 supplied characters), supplied primes (31 characters), or later prime glyphs (619).
+Play source costumes, step between poses, inspect the source palette and open original Jukeebox links.
+The complete uploaded video is included, with manual seeking and frame stepping.
+Save checked items and correction notes as review JSON. Import that JSON to continue later.
+
+USE A COMPLETE REFERENCE
+Click Use this complete reference in the builder, or enter its number in the builder workshop panel.
+Only the selected reference is installed. Existing 1–300 references are not silently replaced by V17 versions.
+Source faces, limb positions, changing body blocks and glow are preserved together in complete costumes.
+The selected reference is also available as a face/arm/leg source for draft combinations.
+Export complete original sprites directly in the workshop, or use the builder's Scratch exports.
+
+CORRECTION
+960: the source costume reporter minus one is now evaluated. Its 24 waits run forward and backward, 0.06 s each, for a 1.44 s cycle. No invented reverse sequence is used.
+
+PRIMES AFTER 127
+All 650 primes from 131 through 5099 are indexed: 31 supplied source characters through 293 and 619 later glyph references from 307.
+Names match the supplied master workbook. Later glyph references do not establish complete bodies, face rules, motion, music or unique official glyphs. Repeated pairs and other unresolved evidence are shown. No later prime is silently declared official.
+The supplied WIP palette is included unchanged. The A letter is brown in that palette.
+
+TIMING AND SOUND LIMITS
+Browser playback interprets explicit costume/wait scripts, including costume-number arithmetic; it is not a complete Scratch virtual machine. Native X/Y movement, effects and musical synchronization still require a Scratch review.
+Original exported scripts are retained with a standalone green-flag playback entry point.
+V17 audio is compressed to 64 kbps Ogg Opus for this portable bank; it is not byte-identical to the source WAV files. Source sounds and Jukeebox URLs retain their names. No new melody or key change is created.
+No full native Scratch runtime or browser UI playback test was performed for this update. Structural export and source-timing checks are included in Validation.json.
+
+71 FAMILY
+Family71/Family71_Builder.html is included. The counted ×1–×4 masks are supplied references; later masks and multiplier groups remain drafts.
+
+CREDITS
+Supplied art, names, symbols, animation and sounds belong to their original creators. Preserve the source project credits, including those in the original V17 release notes. Generated factor combinations and reconstructed glyph candidates are not certified official work.
+
+301+ V17 BUILDER CONTROLS
+Click Load V17 for 301+ to add all 44 supplied V17 characters numbered 336–990, while preserving any existing corrected references. Artwork is decoded on demand rather than loading every costume at once.
+Set the band number, then click Build selected band with V17. Exact supplied characters use whole original costumes and scripts. Other characters keep their separately labelled drafts.
+For a new composite, select a V17 donor and click Apply reference to current draft. This borrows its face, arms and legs; the optional body track follows its actual colour/glow poses and timing. The body remains an editable rectangular draft with N square blocks, not a verified canonical shape or factor-to-face rule. Inspect the cutouts and source reference before sharing.
+The exact factor pair is retained. Donor body timing is included in preview changes and exported costume/wait sequences. Save review plans to retain donor choices; restoring a plan reloads its selected V17 donor. New combined drafts are silent. Prime body generation and the 1728 cube are protected from this rectangle donor tool.
+The reference-number inputs now accept loaded source numbers beyond320. The previous input-versus-menu loading error is corrected.
+
+GENERAL PRIME FAMILY BUILDER — NOT LIMITED TO71
+Use All prime families / 301+ at the top of the builder. Enter a prime and multiplier, then choose a group width dividing that multiplier. Each occupied prime square is replaced by width×height square blocks. Empty positions in the outline remain empty. For example the same engine works for29,41,71,131,293 and any imported counted prime mask.
+61 source prime masks below300 were counted from supplied drawings. Prime281 is blocked for generated family shapes: the dominant square group contains277 instead of281 and needs manual review. The complete source sprite can still be preserved; the builder does not silently add four invented squares.
+The71 alternate mask recovered from×2/×3 is retained as an explicit supplied exception, not applied to all primes. The four supplied71 family masks are reproduced exactly. Other inferred multiplier layouts remain drafts.
+Multipliers1–300 and target numbers up to5100 are supported. For later primes, import a complete prime sprite and use Count loaded prime drawing, or import a counted mask JSON. A later glyph card does not provide a prime body. Save mask JSON for reuse.
+Keep complete source sprite is enabled by default. The builder also checks the supplied workshop for an exact complete character before generating a draft. Its complete original shape and native animation take priority.
+For new family drafts, each rendered pose has exactly prime×multiplier square blocks. Actual source colour poses and compatible counted shape poses drive the body; selected source face/arm/leg poses remain editable. Source shape changes use fixed union bounds to avoid re-fitting the body every frame. Faces and limb cutouts require visual review. Native X/Y motion, effects, numberling animation and new music are not synthesized. Existing complete sprites preserve their native scripts.
+Save review plans to retain the prime mask and group parameters. Standard .sprite3 and .sb3 exports include generated family poses and sampled costume waits. Check playback and appearance in Scratch before publishing.
+
+NUMBER3 COLOUR CORRECTION
+Numeric3 is yellow, not magenta. The counted supplied colour is#fffe2f. Automatic factor palettes now preserve3's yellow identity and source yellow glow shades, including when another body palette is borrowed. This applies to both3×prime andprime×3. Other legitimate magenta factors, including11, remain unchanged. Manual custom-colour mode remains an explicitly user-edited draft.
+
+307 POLY AND CENTRED-SQUARE PRIMES
+Poly307 now uses the uploaded Poly(1).svg as a supplied static drawing. Main body:307 squares in a17×19 bounding grid with16 empty positions;153 teal +153 lime +1 white centre. The separate9-block diagram and annotation text are excluded from the exported character. The original guide is preserved in Reference_Workshop/Poly_Original_Guide.svg. No animation or sound was inferred from the SVG.
+The workshop now opens the complete static Poly307 drawing instead of only its earlier glyph card. The builder installs307 automatically after loading its normal reference bank.
+313: centred-square geometry,13²+12²=313. Diamond radius12,25 rows, with lengths1,3,...,25,...,3,1.156 first-letter cells +156 second-letter cells +1 centre. Current letter colours come from the prime index; the white centre is a draft choice. No verified313 face, limbs, numberling, sound or animation is supplied.
+The Centred-square primes panel also offers15 mathematical body layouts from313 through4513 (all centred-square primes in the builder's range). These are body-layout drafts; supplied complete artwork is never replaced. Do not turn a non-centred prime such as307 into313's diamond. Existing lower-prime designs, including5's supplied vertical form, remain unchanged.
+Direct SVG, counted-mask JSON and sprite examples for307/313 are in Reference_Workshop. New family construction can use their masks, with later multiplier shapes still flagged as drafts.
+
+PRIME REPAIR RANGE311–5099
+The repair panel indexes all618 primes.3 uploaded revised static drawings (311,313,317) are installed for review,14 other mathematical centred-square layouts remain drafts, and601 primes have no supplied body reference. Normal prime exports are blocked for glyph-only entries; the explicit glyph-review checkbox permits labelled reference-card exports. No entry is automatically called officially fixed or animation-verified.
+Current source: Sprite2_311_317_ALIGNED_CAPS.sprite3,version2.311 has311 squares in19×17 bounds;317 has317 squares in15×23 bounds. Their uploaded aligned-cap positions are preserved. The general family engine now accepts non-overlapping half-cell masks, so expanding these families does not widen the reference into artificial35/23-column grids.
+313's uploaded revision is a25-row diamond of313 squares. Its actual colour pattern (192 lime /120 green /1 black centre in the latest aligned upload) is preserved. This supersedes the earlier assumption that every visible prime body must split into equal colour halves. The mathematical313 half-colour body remains a separately labelled earlier draft, not an official source.
+The supplied tutorial colouring3 page describes letter colours and a square representing oddity. It does not define every later outline or require a universal equal visible colour split. Tutorial SVG pages and an exhaustive review CSV are included inReference_Workshop/Prime_311plus.
+Shapes331,349 and the other missing cases remain unverified rather than receiving invented official silhouettes. Import an actual complete sprite or counted mask when available. Original uploaded artwork and sounds were not modified.
+
+PRIME SHAPE COUNT STUDY —131–307 AND311–5099
+New lightweight viewer: Reference_Workshop/Prime_Shape_Study/Prime_Shape_Count_Viewer.html. It opens offline without decoding the large animation bank. Extract the entire ZIP first. The main builder also has a Prime shapes / count and construct panel.
+32 supplied prime bodies from131 through307 were independently counted in their first static pose.31 counts match.281 has277 individually drawn body squares; the source is preserved and flagged. CSV/JSON tables and a body-only square-count sheet are included. These dimensions describe bounding grids, not filled rectangles.
+All618 later primes now have exact-count geometry specifications:3 uploaded revised outlines,14 existing centred-square mathematical drafts and601 new source-profile growth drafts. The latter still have NO verified canonical body reference. Geometry availability does not mean the official design was found.
+Each new draft uses a counted131–307 row profile with its horizontal offsets. Add a columns to both sides of every row and b middle-row copies above and below the centre: P = sourcePrime +2a×sourceHeight +2b×(sourceMiddleWidth+2a). This is a visible mathematical construction choice, not a universal Aperial rule learned from the creator. Every later outline has exactly P connected, non-overlapping square cells.
+Select a prime and click Create counted body draft / keep source. Complete existing sprites take priority. Missing bodies can now be explicitly created as coloured, static, body-only drafts and exported through the usual controls. No borrowed face, limbs, letter-colour placement, glow, movement, symbol or music is silently added. Missing normal prime exports remain blocked until a complete reference or explicit body draft is chosen.
+New geometry and export checks cover618 prime outlines (1,600,114 square cells), sample actual Scratch exporter outputs for331/349/5099, and preservation of uploaded311/313 designs. Native Scratch playback and full browser UI playback were not performed.
+
+PRIME LETTER COLOURS — POLY307 EXAMPLE
+The shape-count viewer and main prime-body draft tool now use the current letter palette instead of neutral grey. Poly307 is included as the exact supplied colour reference: P teal#008b8b (153 squares), L lime#b2fa0a (153 squares), white centre (1 square). Its upper/right-of-centre region is P and lower/left-of-centre region is L.
+For the new601 growth drafts, that placement is an explicit Poly-style draft with each prime's own letter colours. It does not certify the canonical shape or placement. Existing coloured centred-square drafts remain separate mathematical drafts. Uploaded311/313/317 patterns are preserved exactly rather than forced into equal halves. Original Poly face, limbs and full artwork are unchanged.
+
+INTEGRATED APERIAL PRIME COLOUR BUILDER
+Use the Aperial prime colours /311–5099 panel. All618 prime colour SVGs and the complete table are included under Prime_Colours/. No separate colour ZIP import is needed.
+Use coloured body drafts for missing primes is enabled by default. Normal band previews and Scratch exports now construct a coloured, exact-count body for a missing prime instead of leaving a glyph card. Every prime in a multi-character export is prepared, including items not selected in the preview. Existing supplied sprites and imported masks retain priority. Enable glyph-review export and/or disable the automatic colour mode for explicit reference-card work.
+The prime-family tool can also obtain a missing counted mask from the colour bank on demand. Its multiplier layout, face/limb borrowing and new combined body remain drafts. No new music is generated.
+Uploaded311/313/317 designs and Poly307 remain unchanged. New shapes and colour placements are not certified official. Native Scratch playback is still needed before publishing.
+
+311–317 OUTDATED REFERENCE CORRECTION
+The prime colour update previously preserved an older revision for311/313/317, and314 differed from the later reviewed artwork.316 was already current and is preserved. These references are now refreshed from the later saved files.311/313/317 use Sprite2_311_317_ALIGNED_CAPS.sprite3 version2, counted311/313/317 squares and unchanged uploaded colours (including the supplied black centre). Their colour-body SVGs and masks are updated too. They remain static drawings, with official approval unverified.
+314 uses the later Aperial_Band_32_REVIEWED.sb3 version5 artwork and native scripts.316 uses the still later Aperial_316_Camite_Animated.sprite3; its first costume is byte-identical to the uploaded corrected camite.svg.312/315 retain matching artwork with later reviewed scripts. Existing sound metadata matches, so original bundled audio is reused without a key or volume change.
+Known older bundled references refresh automatically. Later user imports and edited masks are preserved. Use the Updated references /311–317 panel to explicitly refresh these saved versions if an older draft is still selected. The complete new masks, colours and source details are included; do not restore an old review plan if you want to inspect the new source directly.
+Native Scratch playback and complete visual animation review remain unverified. The primes have no invented animation or music.
+
+NUMERIC5 PALETTE CORRECTION
+The supplied Official Aperial Colors! [WIP].sb3 numeric5 swatch is#1af7ff. The complete borrowed5 costume has a paler#85faff body and#e8feff light poses. Automatic generated factor palettes now use the official swatch base#1af7ff. The source light-pose pattern is retained with a derived lighter#d4fdff draft shade. Existing complete costume artwork is not recoloured. This also preserves5 in generated prime-family drafts when a donor body palette is selected. Manual custom colours, sounds and musical keys are unchanged.
+
+SELECT AND MOVE INDIVIDUAL BLOCKS
+Open a number, then click Edit blocks / shape above the preview. Click and drag one square; Shift-click adds or removes squares. Drag from empty space to select a group. Arrow keys/buttons move the selection; Select same colour selects a whole colour group. Rotate selection, Arrange rows, Undo, Redo and Reset are included. Total count and per-block colours are preserved; overlapping moves are rejected. The scrollable canvas renders only the visible area, so large bodies do not require a huge canvas bitmap.
+Click Apply shape to draft, then use the normal Scratch export controls. This edits a separate captured first-pose body draft; the complete supplied source is unchanged. Body glow/shape poses are frozen in the edited copy, while chosen face/limb reference tracks remain available for review. Face/limb placement may need adjustment after major shape changes. Save shape JSON and load it in this editor after reopening the same number. Only flat, individually countable square bodies are supported; a complex uncountable source must first be opened as a counted draft or supplied mask.
+
+6/7/9/14/21 COLOURS AND ANIMATION
+Numeric6 keeps the supplied purple base#723bc2 and source body poses.9 keeps three source grey groups of three: rest#919191,#aaaaaa,#d1d1d1, plus the actual source light poses. Its complete source square eyes, mouth and limbs remain unchanged.7 keeps all7 source rainbow colours.14 keeps its14 source multicolour blocks, rather than being flattened to its green swatch.21 retains its9 supplied poses, including lime/light phases and the21-colour transformation, with its actual0.09-second source waits. Original whole source sprites and sounds are unchanged.
+These patterns are protected from replacement by an unrelated donor's flat palette in generated combinations. Manual colours and moved per-block colours remain explicit user choices. Counted fallback pattern data are included for all supplied poses of6/7/9/14/21 and38.
+
+NESTED FACTORS —2546 EXAMPLE
+2546=38×67=2×19×67. The factor-structure text shows the decomposition. Source38's internal2/19 colours remain visible when it is combined with67. New body previews and exports sample each selected factor's pattern independently, so outer checker parity does not repeatedly sample only one inner colour. If an exact composite pattern is unavailable, factor decomposition supplies a clearly generated nested colour fallback. Supplied complete designs remain preferred. New layouts and combinations are still drafts.
+
+VALIDATION LIMITS
+Selection, drag, overlap rejection, undo/redo, JSON save/load and shape application were tested with simulated DOM/pointer events. Actual SVG-costume generation was checked for a moved6-block body. Colour checks cover6,7,9,14,21 source poses and2546's exact2546-cell nested body. No full browser UI session or native Scratch playback was performed for this update.

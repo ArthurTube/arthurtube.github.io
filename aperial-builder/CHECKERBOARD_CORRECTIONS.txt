@@ -1,0 +1,13 @@
+Colour corrections from the supplied OLD/NEW SVG diagrams
+
+Open the builder. Corrected checkerboard colours is enabled for generated drafts. Select a number and click Create draft with corrected colours to replace its current draft while preserving its supplied source reference. Individual recolouring still takes priority.
+
+322: exact 14x23 new diagram.
+329: exact 7x47 new diagram.
+336: exact 16x21 new diagram.
+912: exact 24x38 new diagram, reconstructed from its 24 embedded two-column/19-row strips; 24x2x19 grouping retained.
+880: the supplied NEW diagram has only176 visible square objects, with22x5x8 grouping. Its11x16 visible front motif is used on the flat22x40 draft, which retains880 editable cells. This is a colour correction, not a verified 3D shape.
+
+Other automatic rectangular drafts now sample factor colours by their column/row position rather than a single serial index across the entire body. Source profiles and their timing remain available. 336 now follows the supplied21 source sequence: uniform glow poses, the rainbow pose arranged by rows, and its recorded fade proportions. 16 keeps its source colour poses when available. Automatic export timing is enabled for corrected336 drafts so a four-frame sampling does not omit21 poses. The other uploaded comparisons remain static colour references. Face/limb references, scripts and audio files are unchanged.
+
+The user's 311-340 project has NOT been added. This update starts from the saved complete builder before that rejected integration.

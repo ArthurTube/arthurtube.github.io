@@ -1,0 +1,12 @@
+VIDEO AND SOURCE REVIEW
+
+Uploaded video: 480×360, 30 fps, 322.943129 seconds.
+Overview frames were sampled across the full video; additional frames were compared for changing block fills and limb/face poses. This is a sampled visual review, not a claim that every video frame or musical note was verified.
+Video appearance changes start at approximately 8.433 s and 14.833 s; a simple number = slot index × 6.4 alignment is not reliable. The workshop therefore allows manual video seeking rather than publishing guessed number timestamps.
+
+V17: 49 main characters, 566 costume entries, 513 distinct original SVG assets. All have at least 18 positive divisors. Designs and costume poses are kept whole, including limb positions and fill changes.
+Number associations follow the supplied V17 version list and project order. Existing source-label discrepancies remain visible: mapped 468 has a first costume named 486; mapped 792 has a first costume named 126. Neither is silently renamed.
+
+Primes: the V17 video is not evidence for a universal prime face or shape rule. Complete source prime characters 131–293 are kept separate. Later 307–5099 glyph references retain evidence/draft labels and collision warnings. Names were compared against the supplied master workbook without editing it.
+
+Rectangle factor pairs alone do not establish the canonical outer contour or internal block pattern. Keep supplied shapes, use the counted 71 masks for the 71 family, and review missing family designs before publishing a draft as official.

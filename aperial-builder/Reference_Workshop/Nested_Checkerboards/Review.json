@@ -1,0 +1,44 @@
+{
+  "range": [
+    1,
+    5100
+  ],
+  "examples": {
+    "2001": {
+      "rectangle": [
+        29,
+        69
+      ],
+      "source_motif": [
+        3,
+        3
+      ],
+      "squares": 2001
+    },
+    "2028": {
+      "rectangle": [
+        39,
+        52
+      ],
+      "source_motif": [
+        4,
+        2
+      ],
+      "squares": 2028
+    },
+    "2035": {
+      "rectangle": [
+        37,
+        55
+      ],
+      "source_motif": [
+        3,
+        3
+      ],
+      "squares": 2035
+    }
+  },
+  "prime_families": "Prime-body colour coordinates and multiplier-group coordinates remain separate. Multipliers2\u2013300, products up to5100.",
+  "beyond_uploaded2447": "Recursive factor motifs, arrangement unverified",
+  "native_playback_verified": false
+}

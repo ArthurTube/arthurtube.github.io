@@ -1,0 +1,9 @@
+Checks passed:
+- Exact occupied-cell positions for supplied x1, x2, x3, x4 match generated profiles.
+- 964 combinations of multipliers 1-100, divisor widths and both profiles retain exactly 71*M unique cells.
+- Four standalone reference sprites have complete costume and sound assets.
+- Generated 994 .sprite3 and .sb3 exported and inspected structurally.
+- JavaScript syntax checked.
+- Example 994 body rendered for visual inspection.
+
+Limitations: UI not tested in a full browser; native Scratch playback and reference audio not tested in this turn. Multipliers 5-100 remain draft shapes. No fabricated faces/limbs/musical combinations.

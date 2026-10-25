@@ -1,0 +1,18 @@
+{
+  "group_combinations_verified": 14267,
+  "71_supplied_masks_reproduced": 4,
+  "example_render_counts": [
+    355,
+    406,
+    328,
+    393,
+    4981
+  ],
+  "unresolved_prime": 281,
+  "unknown_prime_body_guard": "passed",
+  "existing_source_priority": "passed",
+  "runtime_limit": "VM/geometry checks; browser and Scratch playback not tested in this revision",
+  "available_masks": 77,
+  "supplied_counted_masks": 62,
+  "mathematical_layout_drafts": 15
+}

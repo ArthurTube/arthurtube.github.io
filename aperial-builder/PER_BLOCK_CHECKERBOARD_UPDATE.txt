@@ -1,0 +1,14 @@
+PER-BLOCK CHECKERBOARD UPDATE
+
+Golmonze352 =16×22. The uploaded Golmonze.svg compares the old large colour regions with a new checkerboard. Each of the352 squares now alternates purple#d28fff and pink#ef1f7e in generated checkerboard drafts.
+
+Two-colour composite swatches now alternate once per body block rather than being stretched into large quadrants. This applies to generated drafts with source colours enabled. Examples408,528 and552 were checked against the per-block rule. Individually painted cells, supplied source sprites, and finished311–340 remain unchanged. Prime bodies keep their prime-colour rules.
+
+880 =22×8×5. The explicit grouped draft has five layers of22×8=176blocks, giving880total blocks. The review view lays the layers flat with four separator lines. Its two-by-two cyan/pink/hot-pink motif follows the supplied880new diagram. This is a grouped review layout, not a verified3D silhouette. The factor order is retained in export metadata/comments.
+
+Controls in the main builder:
+• Per-block checkerboards → Create checkerboard draft
+• Create880:22×8×5 grouped draft
+• Disable “Alternate each square…” to compare the previous colour layer.
+
+Source references, own faces, limb choices, sounds and native timing are retained. Colour motion follows existing source changes; native Scratch playback has not been verified for this update.

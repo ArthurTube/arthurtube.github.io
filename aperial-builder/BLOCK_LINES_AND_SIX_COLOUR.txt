@@ -1,0 +1,11 @@
+Block-line and6 colour correction
+
+Generated blocks now have rounded corners (radius4% of block width), thin solid black outlines (0.07SVG units), and full stroke opacity, following the supplied OLD/NEW drawing. Numeric6 uses purple#723bc2; old#A5B9FF is corrected only when used for numeric6. Source6 animation colours, other factor colours and manually painted cells remain intact.
+
+Updated rectangle drafts, prime-family drafts, prime-outline downloads and all618 generated prime colour SVGs. Existing source costumes are unchanged. Export a new draft to obtain the new outlines.
+
+SECOND6 COLOUR FIX
+The first fix corrected only direct#A5B9FF returns for factor6. It missed the6 slot inside rainbow references and static correction templates. The6 slot is now#723BC2 in7,14 and21-derived palettes, including329,322 and336. The direct6 palette always uses its six counted body squares rather than circular face/body decorations. Black body-animation poses are retained. Original source SVGs remain unchanged.
+
+TIMES6 GROUP FIX
+Explicit6×N rectangle drafts now selectSix's counted body palette directly. In prime-family N×6 constructions, Six's pose is indexed within each six-block group instead of by a sprite-wide index; default2×3 groups and alternative widths1,3,6 retain six cells per group. The other factor's colours are unchanged. Corrected×6 drafts default to automatic source pose timing. Use Create corrected×6 draft for this number to rebuild a multiple of6 while retaining its source reference. Individually painted block drafts are preserved and must be edited explicitly.

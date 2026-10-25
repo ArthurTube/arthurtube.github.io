@@ -1,0 +1,20 @@
+{
+  "later_primes": 618,
+  "range": [
+    311,
+    5099
+  ],
+  "body_blocks": 1600114,
+  "source_colour_masks_preserved": [
+    311,
+    313,
+    317
+  ],
+  "poly_reference": {
+    "#b2fa0a": 153,
+    "#008b8b": 153,
+    "#ffffff": 1
+  },
+  "all_SVGs_checked": "XML parsed; path square counts and fill counts match metadata; each prime has exactly P distinct square positions",
+  "limits": "Static colour bodies; new shapes and colour placements remain drafts; browser/Scratch playback not tested."
+}

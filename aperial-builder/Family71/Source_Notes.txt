@@ -1,0 +1,4 @@
+Drawing source: fantasia1 (1).svg supplied by the user. Original 71-family shapes retained.
+Band animation source: supplied Aperial 1-300 reference bank for 71, 142, 213, 284. This is a separate reference from the drawing.
+Aperial system credit: RodolfoYT12345, as supplied in project description.
+Later shapes are generated proposals. User-imported poses retain their supplied artwork.

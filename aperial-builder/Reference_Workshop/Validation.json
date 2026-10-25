@@ -1,0 +1,346 @@
+{
+  "V17_characters": 49,
+  "V17_SVG_costumes": 566,
+  "source_prime_characters": 31,
+  "later_prime_glyph_references": 619,
+  "total_primes": 650,
+  "workbook_name_differences": [],
+  "960_sequence": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    13,
+    12,
+    11,
+    10,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3
+  ],
+  "960_cycle_seconds": 1.44,
+  "timeline_warnings": {},
+  "native_runtime_test": "not performed for this update",
+  "video_review": "Overview sampled across full duration; selected detailed frames inspected. No automatic number/time alignment asserted.",
+  "V17_distinct_SVG_assets": 513,
+  "export_checks": {
+    "complete_source_exports_checked": 80,
+    "V17_sampled_sequences_checked": 49,
+    "prime_sieve_matches": 650,
+    "source_costume_bytes": "preserved in exports",
+    "missing_assets": 0,
+    "prime_glyph_no_fake_animation": true,
+    "reverse_960": "passed",
+    "UI_test": "simulated DOM, not a browser or native Scratch"
+  },
+  "builder_integration_checks": [
+    "960 and 528 loaded with complete assets",
+    "960 has corrected 24-step sequence",
+    "Existing 131 preserved",
+    "307 opens glyph reference without invented animation"
+  ],
+  "V17_301plus": {
+    "complete_sources_available": 44,
+    "existing_corrections": "preserved on bulk load",
+    "asset_loading": "lazy, 8 MiB drawing cache",
+    "input_fields": "numeric fields supported; no options property required",
+    "donor_test": {
+      "target": 1008,
+      "factors": [
+        28,
+        36
+      ],
+      "reference": 960,
+      "body_cells_each_pose": 1008,
+      "body_wait_in_export": 0.06,
+      "prime_guard": "passed",
+      "1728_cube_guard": "passed"
+    },
+    "limits": "simulated DOM and actual SVG-renderer checks, not a full browser or native Scratch playback test"
+  },
+  "general_prime_family_builder": {
+    "counted_prime_masks": 61,
+    "group_combinations_verified": 14086,
+    "71_supplied_masks_reproduced": 4,
+    "example_render_counts": [
+      355,
+      406,
+      328,
+      393,
+      4981
+    ],
+    "unresolved_prime": 281,
+    "unknown_prime_body_guard": "passed",
+    "existing_source_priority": "passed",
+    "runtime_limit": "VM/geometry checks; browser and Scratch playback not tested in this revision",
+    "export_pipeline": "Actual builder exporter produced two colour poses with355 cells each and6.4s of native costume/wait/loop code; new audio remains absent."
+  },
+  "number3_colour": {
+    "supplied_yellow": "#fffe2f",
+    "yellow_source_glow_shade": "#fffeb3 retained",
+    "magenta_donor_guard": "passed for3\u00d7131 and131\u00d73",
+    "number11_magenta": "unchanged",
+    "generated_square_count": 393
+  },
+  "Poly307_and_centered313": {
+    "Poly307": {
+      "count": 307,
+      "teal": 153,
+      "lime": 153,
+      "white": 1,
+      "grid": [
+        17,
+        19
+      ],
+      "static": true,
+      "small_example_excluded": 9
+    },
+    "Centered313": {
+      "count": 313,
+      "radius": 12,
+      "grid": [
+        25,
+        25
+      ],
+      "formula": "13\u00b2 +12\u00b2",
+      "first_letter_colour": 156,
+      "second_letter_colour": 156,
+      "centre": 1,
+      "character_status": "body layout draft; no verified face, limbs, symbol, sound or animation"
+    },
+    "additional_centered_prime_layouts": 15,
+    "native_Scratch_playback": "not performed"
+  },
+  "prime311_repairs": {
+    "scope": [
+      311,
+      5099
+    ],
+    "primes_indexed": 618,
+    "uploaded_static_revisions_needing_review": [
+      311,
+      313,
+      317
+    ],
+    "other_mathematical_body_drafts": 14,
+    "missing_body_references": 601,
+    "half_cell_mask_counts": {
+      "311": 311,
+      "313": 313,
+      "317": 317
+    },
+    "generated_family_check": {
+      "311x2": 622,
+      "313x2": 626,
+      "317x2": 634
+    },
+    "overlap_rejection": "passed",
+    "missing331_export_guard": "passed",
+    "existing_user_correction_priority": "passed",
+    "animation_or_sound_approval": "not verified",
+    "tutorial": "How to make Rodolfo's Aperialblocks!.sb3: prime letter colours and oddity square; no universal equal visible colour split established"
+  },
+  "prime_shape_study": {
+    "source_primes_131_307": 32,
+    "first_pose_counts_matching": 31,
+    "source_mismatch": {
+      "281": "277 individually drawn squares; no automatic source alteration"
+    },
+    "later_primes": 618,
+    "exact_count_growth_drafts": 601,
+    "uploaded_static_revisions": 3,
+    "other_centered_square_math_drafts": 14,
+    "total_later_body_cells_checked": 1600114,
+    "checks": [
+      "Every later prime is prime and has exactly P distinct non-overlapping unit square cells",
+      "All618 outlines form one edge-connected body",
+      "Uploaded311/313/317 row profiles kept",
+      "No source artwork overwritten; no canonical status, sound or animation inferred"
+    ],
+    "limits": "First-pose counting only. Construction choice is not evidence of Rodolfo-approved later shapes. No native Scratch playback performed.",
+    "actual_export_checks": "331,349,5099: exported single SVG costume, exact count, native wait block, no sounds; pending native playback"
+  },
+  "prime_shape_colours": {
+    "Poly307": {
+      "teal_P": "#008b8b",
+      "P_blocks": 153,
+      "lime_L": "#b2fa0a",
+      "L_blocks": 153,
+      "white_centre_blocks": 1,
+      "uploaded_svg_unchanged": true
+    },
+    "later_primes_checked": 618,
+    "new_body_drafts_coloured": 601,
+    "palette": "Current prime letter palette; numeric3 and other supplied source art unchanged",
+    "new_placement": "Poly-style upper/right first letter, lower/left second letter, white centre; explicitly a design draft",
+    "preserved_uploaded_colour_masks": [
+      307,
+      311,
+      313,
+      317
+    ],
+    "tests": [
+      "All618 prime cell counts and non-overlap checks passed",
+      "Poly307 exact square colours match the counted supplied body",
+      "311/313/317 source square-colour masks match exactly",
+      "331/349/5099 actual exported SVG costumes contain their two letter colours and white centre; no sounds added"
+    ],
+    "limits": "Shape and new colour placement remain drafts. Native Scratch/browser playback not tested."
+  },
+  "integrated_prime_colours": {
+    "bank_primes": 618,
+    "bank_location": "Prime_Colours/",
+    "automatic_missing_prime_bodies": true,
+    "preview_and_unvisited_exports": "331 preview and349/5099 actual exported SVG costumes checked for exact counts and palette fills",
+    "preservation": [
+      "311 uploaded sprite",
+      "353 imported mask",
+      "281 unresolved mask guard"
+    ],
+    "family_example": "353\u00d72=706 preserves imported mask",
+    "opt_out": "Automatic mode off and explicit glyph review leave glyph body guard intact",
+    "limits": "New shapes and colour placements remain drafts; native Scratch/browser playback not tested"
+  },
+  "latest_311_317": {
+    "sources": {
+      "311": {
+        "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+        "costume": "aa3a0d7942c331ac1be1bfe7276b984e.svg",
+        "old_costume": "7212dce7a695edace7c5f70ed34a9eb5.svg",
+        "count": 311,
+        "columns": 19.0,
+        "rows": 17.0,
+        "fill_counts": {
+          "#101010": 1,
+          "#4aa7e0": 155,
+          "#a50f0f": 155
+        }
+      },
+      "313": {
+        "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+        "costume": "1f3c071c9dc1c82f0374dc979433dd8a.svg",
+        "old_costume": "39261563d7c484e79b8b4d3c169aac3e.svg",
+        "count": 313,
+        "columns": 25.0,
+        "rows": 25.0,
+        "fill_counts": {
+          "#b2fa0a": 192,
+          "#12a325": 120,
+          "#101010": 1
+        }
+      },
+      "317": {
+        "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+        "costume": "b4f53fa2e9f5cb40d89214e7cab623d9.svg",
+        "old_costume": "9a5e7e8fec3a9082310ad3e32514fc53.svg",
+        "count": 317,
+        "columns": 15.0,
+        "rows": 23.0,
+        "fill_counts": {
+          "#a86118": 158,
+          "#4a4b4d": 158,
+          "#101010": 1
+        }
+      },
+      "312": {
+        "source": "Aperial_Band_32_REVIEWED.sb3 version5",
+        "costumes": 13,
+        "visual_changed": false,
+        "sound_metadata_unchanged": true,
+        "native_scripts": "later reviewed scripts retained"
+      },
+      "314": {
+        "source": "Aperial_Band_32_REVIEWED.sb3 version5",
+        "costumes": 5,
+        "visual_changed": true,
+        "sound_metadata_unchanged": true,
+        "native_scripts": "later reviewed scripts retained"
+      },
+      "315": {
+        "source": "Aperial_Band_32_REVIEWED.sb3 version5",
+        "costumes": 11,
+        "visual_changed": false,
+        "sound_metadata_unchanged": true,
+        "native_scripts": "later reviewed scripts retained"
+      },
+      "316": {
+        "source": "Aperial_316_Camite_Animated.sprite3; first costume byte-identical to later uploaded camite.svg",
+        "costumes": 9,
+        "visual_changed": false,
+        "sound_metadata_unchanged": true,
+        "native_scripts": "Saved animated derivative scripts retained; native playback still requires review",
+        "base_svg_matches_user_upload": true,
+        "already_current_in_previous_builder": true
+      }
+    },
+    "tests": [
+      "Latest aligned costume ids and exact non-overlapping prime counts",
+      "314 later reviewed costumes and scripts",
+      "316 all9 costumes and native scripts match saved corrected Camite; first SVG matches user upload",
+      "312/315 drawings unchanged",
+      "Existing soundData retained byte-for-byte",
+      "Later custom imports preserved on automatic refresh; explicit refresh updates stale selected draft"
+    ],
+    "limits": "Static primes have no invented animation/music; full native Scratch playback not performed"
+  },
+  "numeric5_colour": {
+    "palette_source": "Official Aperial Colors! [WIP].sb3, numeric5 swatch",
+    "official_base": "#1af7ff",
+    "prior_borrowed_costume_base": "#85faff",
+    "original_costume_light": "#e8feff",
+    "derived_draft_light": "#d4fdff",
+    "scope": "Automatic generated factor palettes only; complete original costumes unchanged",
+    "checks": [
+      "Correct official5 base",
+      "Light-pose pattern remapped while keeping positional differences",
+      "3 yellow and unrelated factors unchanged",
+      "71\u00d75 and5\u00d771 retain355 squares and5 colour even with donor palette",
+      "Manual colours unchanged"
+    ],
+    "limits": "Full native Scratch/browser playback not tested"
+  },
+  "block_shape_editor": {
+    "controls": [
+      "single drag",
+      "Shift selection",
+      "box selection",
+      "same colour",
+      "arrows",
+      "rotation",
+      "row layout",
+      "undo/redo",
+      "JSON save/load"
+    ],
+    "checks": [
+      "Count/colour preservation and overlap rejection",
+      "Half-cell validation",
+      "Simulated pointer and Shift selection",
+      "Separate draft apply; source target unchanged",
+      "Actual edited6-block SVG costume export",
+      "Nested2546 colour capture"
+    ],
+    "limits": "Simulated DOM/pointer checks; full browser UI/native Scratch playback not performed"
+  },
+  "numeric_patterns_and_nested_factors": {
+    "6": "Purple#723bc2 and supplied body poses",
+    "9": "3 groups of3 grey blocks and actual light poses",
+    "7": "7 source rainbow colours",
+    "14": "14 source multicolour cells",
+    "21": "9 source poses, including21-colour transformation,0.09s waits",
+    "2546": "38\u00d767;38=2\u00d719; exact2546 cells and inner2/19 colours retained",
+    "limits": "Full supplied costumes unchanged; generated layouts remain drafts"
+  }
+}

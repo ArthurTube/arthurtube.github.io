@@ -1,0 +1,7 @@
+Latest311–317 reference refresh
+
+311/313/317 now use Sprite2_311_317_ALIGNED_CAPS.sprite3 version2 rather than the earlier REVISED upload. Exactly311/313/317 body squares counted. Top/bottom caps use their uploaded alignment. Actual square colours, including black centre squares, are retained; do not force the Poly white-centre draft rule onto these uploaded drawings. No prime animation or sound is supplied.
+
+314 uses the later reviewed Band32 version5.312/315 matching artwork is retained with reviewed native scripts.316 already matched the corrected Camite animated sprite; it is preserved, and its first SVG is byte-identical to the later user upload.
+
+Other later prime shapes and placements remain drafts. No source is declared canon merely because it was uploaded.

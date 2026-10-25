@@ -1,0 +1,11 @@
+Own faces for generated numbers
+
+Your fixed311-340 project is a visual learning reference. It has not been changed or added to the builder.
+
+Open a target number, then use the Ultimate Numberblocks asset sheets. Drag a crop of eyes and click Add crop as eyes in Own face for each number. Crop a mouth and add it as mouth. Add eyebrows/accessories separately. Select each part, set X/Y/width/height/rotation and click Update part. Flip buttons mirror the selected part. Apply my own face to this number creates a separate custom-face draft. Original source references remain intact.
+
+Each number can retain a different face. Download my face bank saves those assignments to JSON; load it in another session. The assignments automatically apply to generated drafts of the same number and never overwrite a complete supplied sprite. Use Save current custom face for this number to retain a face loaded using the existing SVG or animated face-only sprite3 control.
+
+The composer makes a static face from your selected asset pieces. It does not invent official designs or new facial animation. Existing animated face-only sprite3 import retains its own costume sequence. Prime faces require a counted body. Custom faces no longer require a borrowed face source; -1 can disable a face/arm/leg source. Native limb references, body colours and glow remain separate controls.
+
+Generated designs remain under development. Preserve the credits in the supplied asset sheets.

@@ -1,0 +1,651 @@
+Prime,Name,Letter pair,First colour,Second colour,Coverage,Earlier same pair,Workbook name matches
+131,Pall,PA,#008b8b,#a86118,supplied complete character,,True
+137,Junn,JU,#dddddd,#00ff90,supplied complete character,,True
+139,Vest,VE,#ad008f,#12a325,supplied complete character,,True
+149,Astre,AS,#a86118,#91e6e6,supplied complete character,,True
+151,Hebb,HE,#fa9a91,#12a325,supplied complete character,,True
+157,Ires,IR,#a50f0f,#f1ee97,supplied complete character,,True
+163,Flaw,FL,#2159f2,#b2fa0a,supplied complete character,,True
+167,Mett,ME,#f72a6e,#12a325,supplied complete character,,True
+173,Hygie,HY,#fa9a91,#f85b0c,supplied complete character,,True
+179,Parthe,PR,#008b8b,#f1ee97,supplied complete character,,True
+181,Vitte,VI,#ad008f,#a50f0f,supplied complete character,,True
+191,Eger,EG,#12a325,#d28fff,supplied complete character,,True
+193,Iren,IN,#a50f0f,#fad42a,supplied complete character,,True
+197,Euno,EU,#12a325,#00ff90,supplied complete character,,True
+199,Syche,PS,#008b8b,#91e6e6,supplied complete character,,True
+211,Thete,TH,#4a4b4d,#fa9a91,supplied complete character,,True
+223,Melpo,ML,#f72a6e,#b2fa0a,supplied complete character,,True
+227,Fare,FO,#2159f2,#85e678,supplied complete character,,True
+229,Massle,MA,#f72a6e,#a86118,supplied complete character,,True
+233,Lutte,LU,#b2fa0a,#00ff90,supplied complete character,,True
+239,Kallie,KA,#8b8c08,#a86118,supplied complete character,,True
+241,Thale,TA,#4a4b4d,#a86118,supplied complete character,,True
+251,Teme,TE,#4a4b4d,#12a325,supplied complete character,,True
+257,Phoce,PH,#008b8b,#fa9a91,supplied complete character,,True
+263,Pross,PO,#008b8b,#85e678,supplied complete character,,True
+269,Eute,ET,#12a325,#4a4b4d,supplied complete character,,True
+271,Beln,BE,#fd82ff,#12a325,supplied complete character,,True
+277,Amphe,AM,#a86118,#f72a6e,supplied complete character,,True
+281,Uran,UR,#00ff90,#f1ee97,supplied complete character,,True
+283,Euph,EP,#12a325,#008b8b,supplied complete character,,True
+293,Pomon,PM,#008b8b,#f72a6e,supplied complete character,,True
+307,Poly,PL,#008b8b,#b2fa0a,maker_reference_unverified,,True
+311,Cire,CI,#4aa7e0,#a50f0f,maker_reference_unverified,,True
+313,Leuck,LE,#b2fa0a,#12a325,maker_reference_unverified,,True
+317,Atale,AT,#a86118,#4a4b4d,maker_reference_unverified,,True
+331,Fide,FI,#2159f2,#a50f0f,maker_reference_unverified,,True
+337,Lede,LD,#b2fa0a,#ffd988,maker_reference_unverified,,True
+347,Laett,LA,#b2fa0a,#a86118,maker_reference_unverified,,True
+349,Harmo,HA,#fa9a91,#a86118,maker_reference_unverified,,True
+353,Daphe,DA,#ffd988,#a86118,maker_reference_unverified,,True
+359,Ise,IS,#a50f0f,#91e6e6,maker_reference_unverified,,True
+367,Ariane,AR,#a86118,#f1ee97,maker_reference_unverified,,True
+373,Nyss,NY,#fad42a,#f85b0c,maker_reference_unverified,,True
+379,Eunge,EN,#12a325,#fad42a,maker_reference_unverified,,True
+383,Heste,HS,#fa9a91,#91e6e6,maker_reference_unverified,,True
+389,Agle,AG,#a86118,#d28fff,maker_reference_unverified,,True
+397,Dorsel,DO,#ffd988,#85e678,maker_reference_unverified,,True
+401,Palse,PE,#008b8b,#12a325,maker_reference_unverified,,True
+409,Virg,VR,#ad008f,#f1ee97,maker_reference_unverified,,True
+419,Neuse,NE,#fad42a,#12a325,maker_reference_unverified,,True
+421,Erop,ER,#12a325,#f1ee97,maker_reference_unverified,,True
+431,Kalpe,KL,#8b8c08,#b2fa0a,maker_reference_unverified,,True
+433,Ale,AL,#a86118,#b2fa0a,maker_reference_unverified,,True
+439,Pann,PN,#008b8b,#fad42a,maker_reference_unverified,,True
+443,Melte,MT,#f72a6e,#4a4b4d,missing_source_draft,,True
+449,Neym,MN,#f72a6e,#fad42a,maker_reference_unverified,,True
+457,Conce,CO,#4aa7e0,#85e678,maker_reference_unverified,,True
+461,Elpe,EL,#12a325,#b2fa0a,maker_reference_unverified,,True
+463,Eche,EC,#12a325,#4aa7e0,maker_reference_unverified,,True
+467,Dann,DN,#ffd988,#fad42a,maker_reference_unverified,,True
+479,Erat,EA,#12a325,#a86118,maker_reference_unverified,,True
+487,Auso,AU,#a86118,#00ff90,maker_reference_unverified,,True
+491,Ange,AN,#a86118,#fad42a,maker_reference_unverified,,True
+499,Cybe,CY,#4aa7e0,#f85b0c,maker_reference_unverified,,True
+503,Maje,MJ,#f72a6e,#dddddd,maker_reference_unverified,,True
+509,Ase,AI,#a86118,#a50f0f,maker_reference_unverified,,True
+521,Leto,LT,#b2fa0a,#4a4b4d,maker_reference_unverified,,True
+523,Hepe,HP,#fa9a91,#008b8b,maker_reference_unverified,,True
+541,Pune,PU,#008b8b,#00ff90,maker_reference_unverified,,True
+547,Nibe,NI,#fad42a,#a50f0f,maker_reference_unverified,,True
+557,Foro,FE,#2159f2,#12a325,maker_reference_unverified,,True
+563,Klyte,KT,#8b8c08,#4a4b4d,maker_reference_unverified,,True
+569,Galte,GA,#d28fff,#a86118,maker_reference_unverified,,True
+571,Eyde,EY,#12a325,#f85b0c,maker_reference_unverified,,True
+577,Frey,FR,#2159f2,#f1ee97,maker_reference_unverified,,True
+587,Frig,FG,#2159f2,#d28fff,maker_reference_unverified,,True
+593,Dian,DI,#ffd988,#a50f0f,maker_reference_unverified,,True
+599,Eryno,EO,#12a325,#85e678,maker_reference_unverified,,True
+601,Saph,SA,#91e6e6,#a86118,maker_reference_unverified,,True
+607,Terc,TP,#4a4b4d,#008b8b,maker_reference_unverified,,True
+613,Alke,AK,#a86118,#8b8c08,maker_reference_unverified,,True
+617,Batre,BA,#fd82ff,#a86118,missing_source_draft,,True
+619,Klio,KI,#8b8c08,#a50f0f,maker_reference_unverified,,True
+631,Jock,IO,#a50f0f,#85e678,missing_source_draft,,True
+641,Selme,SE,#91e6e6,#12a325,maker_reference_unverified,,True
+643,Sylve,SY,#91e6e6,#f85b0c,maker_reference_unverified,,True
+647,Tisbe,TI,#4a4b4d,#a50f0f,maker_reference_unverified,,True
+653,Jula,JL,#dddddd,#b2fa0a,maker_reference_unverified,,True
+659,Anpe,AP,#a86118,#008b8b,maker_reference_unverified,,True
+661,Alne,AE,#a86118,#12a325,maker_reference_unverified,,True
+673,Undene,UN,#00ff90,#fad42a,maker_reference_unverified,,True
+677,Minare,MI,#f72a6e,#a50f0f,maker_reference_unverified,,True
+683,Auro,AO,#a86118,#85e678,maker_reference_unverified,,True
+691,Arse,AH,#a86118,#fa9a91,missing_source_draft,,True
+701,Glea,GL,#d28fff,#b2fa0a,maker_reference_unverified,,True
+709,Kolo,KO,#8b8c08,#85e678,maker_reference_unverified,,True
+719,Iante,IA,#a50f0f,#a86118,maker_reference_unverified,,True
+727,Dike,DK,#ffd988,#8b8c08,maker_reference_unverified,,True
+733,Heka,HK,#fa9a91,#8b8c08,maker_reference_unverified,,True
+739,Hela,HL,#fa9a91,#b2fa0a,maker_reference_unverified,,True
+743,Mire,MR,#f72a6e,#f1ee97,maker_reference_unverified,,True
+751,Hera,HR,#fa9a91,#f1ee97,maker_reference_unverified,,True
+757,Klyme,KM,#8b8c08,#f72a6e,maker_reference_unverified,,True
+761,Remis,RE,#f1ee97,#12a325,maker_reference_unverified,,True
+769,Denn,DE,#ffd988,#12a325,maker_reference_unverified,,True
+773,Camil,CA,#4aa7e0,#a86118,maker_reference_unverified,,True
+787,Hecu,HC,#fa9a91,#4aa7e0,maker_reference_unverified,,True
+797,Felice,FC,#2159f2,#4aa7e0,maker_reference_unverified,,True
+809,Lyde,LY,#b2fa0a,#f85b0c,maker_reference_unverified,,True
+811,Hetare,HT,#fa9a91,#4a4b4d,maker_reference_unverified,,True
+821,Irya,IY,#a50f0f,#f85b0c,maker_reference_unverified,,True
+823,Ama,AY,#a86118,#f85b0c,maker_reference_unverified,,True
+827,Kasyra,KY,#8b8c08,#f85b0c,maker_reference_unverified,,True
+829,Thyra,TY,#4a4b4d,#f85b0c,maker_reference_unverified,,True
+839,Sirane,SI,#91e6e6,#a50f0f,maker_reference_unverified,,True
+853,Lome,LO,#b2fa0a,#85e678,maker_reference_unverified,,True
+857,Peith,PI,#008b8b,#a50f0f,maker_reference_unverified,,True
+859,Lath,LN,#b2fa0a,#fad42a,maker_reference_unverified,,True
+863,Liss,LI,#b2fa0a,#a50f0f,maker_reference_unverified,,True
+877,Herm,HM,#fa9a91,#f72a6e,maker_reference_unverified,,True
+881,Gerd,GE,#d28fff,#12a325,maker_reference_unverified,,True
+883,Beurd,BU,#fd82ff,#00ff90,maker_reference_unverified,,True
+887,Sterde,ST,#91e6e6,#4a4b4d,maker_reference_unverified,,True
+907,Lyrax,LX,#b2fa0a,#821af9,maker_reference_unverified,,True
+911,Velle,VL,#ad008f,#b2fa0a,maker_reference_unverified,,True
+919,Joh,JO,#dddddd,#85e678,maker_reference_unverified,,True
+929,Numes,NM,#fad42a,#f72a6e,maker_reference_unverified,,True
+937,Tinge,TN,#4a4b4d,#fad42a,maker_reference_unverified,,True
+941,Eleck,EK,#12a325,#8b8c08,maker_reference_unverified,,True
+947,Vala,VA,#ad008f,#a86118,maker_reference_unverified,,True
+953,Ethra,EH,#12a325,#fa9a91,maker_reference_unverified,,True
+967,Vice,YC,#f85b0c,#4aa7e0,maker_reference_unverified,,True
+971,Sorf,SO,#91e6e6,#85e678,missing_source_draft,,True
+977,Reth,RT,#f1ee97,#4a4b4d,maker_reference_unverified,,True
+983,Autro,UT,#00ff90,#4a4b4d,maker_reference_unverified,,True
+991,Malbe,MB,#f72a6e,#fd82ff,missing_source_draft,,True
+997,Tolse,TO,#4a4b4d,#85e678,maker_reference_unverified,,True
+1009,Juve,JE,#dddddd,#12a325,missing_source_draft,,True
+1013,Siwa,SW,#91e6e6,#9c94ff,maker_reference_unverified,,True
+1019,Nelu,NL,#fad42a,#b2fa0a,maker_reference_unverified,,True
+1021,Plonn,PB,#008b8b,#fd82ff,missing_source_draft,,True
+1031,Dria,DR,#ffd988,#f1ee97,maker_reference_unverified,,True
+1033,Viba,VB,#ad008f,#fd82ff,maker_reference_unverified,,True
+1039,Ameda,AD,#a86118,#ffd988,maker_reference_unverified,,True
+1049,Luce,LC,#b2fa0a,#4aa7e0,maker_reference_unverified,,True
+1051,Proge,PG,#008b8b,#d28fff,maker_reference_unverified,,True
+1061,Galia,GI,#d28fff,#a50f0f,maker_reference_unverified,,True
+1063,Meda,MD,#f72a6e,#ffd988,maker_reference_unverified,,True
+1069,Nuva,NU,#fad42a,#00ff90,maker_reference_unverified,,True
+1087,Bante,AB,#a86118,#fd82ff,missing_source_draft,,True
+1091,Tesh,AC,#a86118,#4aa7e0,missing_source_draft,,True
+1093,Hill,HI,#fa9a91,#a50f0f,maker_reference_unverified,,True
+1097,Beth,BT,#fd82ff,#4a4b4d,maker_reference_unverified,,True
+1103,Sull,SU,#91e6e6,#00ff90,maker_reference_unverified,,True
+1109,Xanth,XA,#821af9,#a86118,maker_reference_unverified,,True
+1117,Deje,DJ,#ffd988,#dddddd,maker_reference_unverified,,True
+1123,Korr,KR,#8b8c08,#f1ee97,maker_reference_unverified,,True
+1129,Leem,LM,#b2fa0a,#f72a6e,maker_reference_unverified,,True
+1151,Nore,NO,#fad42a,#85e678,maker_reference_unverified,,True
+1153,Thore,TR,#4a4b4d,#f1ee97,maker_reference_unverified,,True
+1163,Laure,LR,#b2fa0a,#f1ee97,maker_reference_unverified,,True
+1171,Ghorn,EI,#12a325,#a50f0f,missing_source_draft,,True
+1181,Ware,WA,#9c94ff,#a86118,maker_reference_unverified,,True
+1187,Royle,RY,#f1ee97,#f85b0c,maker_reference_unverified,,True
+1193,Drone,RH,#f1ee97,#fa9a91,missing_source_draft,,True
+1201,Yord,YO,#f85b0c,#85e678,maker_reference_unverified,,True
+1213,Bilse,BI,#fd82ff,#a50f0f,maker_reference_unverified,,True
+1217,Zelle,ZE,#000e7b,#12a325,maker_reference_unverified,,True
+1223,Mhar,MH,#f72a6e,#fa9a91,maker_reference_unverified,,True
+1229,Ophel,OP,#85e678,#008b8b,maker_reference_unverified,,True
+1231,Bucke,BA,#fd82ff,#a86118,maker_reference_unverified,617,True
+1237,Vinn,VI,#ad008f,#a50f0f,maker_reference_unverified,181,True
+1249,Frad,FA,#2159f2,#a86118,maker_reference_unverified,,True
+1259,Drox,DX,#ffd988,#821af9,maker_reference_unverified,,True
+1277,Yude,YD,#f85b0c,#ffd988,maker_reference_unverified,,True
+1279,Yume,YM,#f85b0c,#f72a6e,maker_reference_unverified,,True
+1283,Belse,BL,#fd82ff,#b2fa0a,maker_reference_unverified,,True
+1289,Quelt,QU,#5e007e,#00ff90,maker_reference_unverified,,True
+1291,Garm,GR,#d28fff,#f1ee97,maker_reference_unverified,,True
+1297,Chare,CH,#4aa7e0,#fa9a91,maker_reference_unverified,,True
+1301,Esse,ES,#12a325,#91e6e6,maker_reference_unverified,,True
+1303,Itse,IT,#a50f0f,#4a4b4d,maker_reference_unverified,,True
+1307,Jope,DP,#ffd988,#008b8b,missing_source_draft,,True
+1319,Uke,UK,#00ff90,#8b8c08,maker_reference_unverified,,True
+1321,Tule,TU,#4a4b4d,#00ff90,maker_reference_unverified,,True
+1327,Lamb,LB,#b2fa0a,#fd82ff,maker_reference_unverified,,True
+1361,Menpe,MP,#f72a6e,#008b8b,maker_reference_unverified,,True
+1367,Patt,PT,#008b8b,#4a4b4d,maker_reference_unverified,,True
+1373,Isme,IM,#a50f0f,#f72a6e,maker_reference_unverified,,True
+1381,Kolg,KG,#8b8c08,#d28fff,maker_reference_unverified,,True
+1399,Nause,NA,#fad42a,#a86118,maker_reference_unverified,,True
+1409,Bram,BR,#fd82ff,#f1ee97,maker_reference_unverified,,True
+1423,Prok,PK,#008b8b,#8b8c08,maker_reference_unverified,,True
+1427,Qual,EB,#12a325,#fd82ff,missing_source_draft,,True
+1429,Fime,PC,#008b8b,#4aa7e0,missing_source_draft,,True
+1433,Rante,RA,#f1ee97,#a86118,maker_reference_unverified,,True
+1439,Lemp,LP,#b2fa0a,#008b8b,maker_reference_unverified,,True
+1447,Rybe,BY,#fd82ff,#f85b0c,missing_source_draft,,True
+1451,Meyn,MY,#f72a6e,#f85b0c,maker_reference_unverified,,True
+1453,Pype,PC,#008b8b,#4aa7e0,maker_reference_unverified,1429,True
+1459,Ryse,PS,#008b8b,#91e6e6,maker_reference_unverified,199,True
+1471,Paj,PJ,#008b8b,#dddddd,maker_reference_unverified,,True
+1481,Klysa,KS,#8b8c08,#91e6e6,maker_reference_unverified,,True
+1483,Morya,MO,#f72a6e,#85e678,maker_reference_unverified,,True
+1487,Hurya,HU,#fa9a91,#00ff90,maker_reference_unverified,,True
+1489,Dhysa,DH,#ffd988,#fa9a91,maker_reference_unverified,,True
+1493,Lakre,LK,#b2fa0a,#8b8c08,maker_reference_unverified,,True
+1499,Dide,DB,#ffd988,#fd82ff,missing_source_draft,,True
+1511,Ilbe,IB,#a50f0f,#fd82ff,maker_reference_unverified,,True
+1523,Isold,IL,#a50f0f,#b2fa0a,missing_source_draft,,True
+1531,Mede,MC,#f72a6e,#4aa7e0,missing_source_draft,,True
+1543,Lile,LF,#b2fa0a,#2159f2,missing_source_draft,,True
+1549,Ascer,AF,#a86118,#2159f2,missing_source_draft,,True
+1553,Enone,OE,#85e678,#12a325,missing_source_draft,,True
+1559,Kleopr,KE,#8b8c08,#12a325,missing_source_draft,,True
+1567,Eudor,ED,#12a325,#ffd988,missing_source_draft,,True
+1571,Bianc,BN,#fd82ff,#fad42a,missing_source_draft,,True
+1579,Tusneld,TS,#4a4b4d,#91e6e6,missing_source_draft,,True
+1583,Stefa,SP,#91e6e6,#008b8b,missing_source_draft,,True
+1597,Eos,EF,#12a325,#2159f2,missing_source_draft,,True
+1601,Luci,LG,#b2fa0a,#d28fff,missing_source_draft,,True
+1607,Rosa,RO,#f1ee97,#85e678,missing_source_draft,,True
+1609,Ocean,OC,#85e678,#4aa7e0,missing_source_draft,,True
+1613,Henri,HN,#fa9a91,#fad42a,missing_source_draft,,True
+1619,Werin,WE,#9c94ff,#12a325,missing_source_draft,,True
+1621,Filosof,PD,#008b8b,#ffd988,missing_source_draft,,True
+1627,Agate,AJ,#a86118,#dddddd,missing_source_draft,,True
+1637,Adelind,AQ,#a86118,#5e007e,missing_source_draft,,True
+1657,Atamas,AV,#a86118,#ad008f,missing_source_draft,,True
+1663,Vindon,VN,#ad008f,#fad42a,missing_source_draft,,True
+1667,Russ,RU,#f1ee97,#00ff90,missing_source_draft,,True
+1669,Astere,AW,#a86118,#9c94ff,missing_source_draft,,True
+1693,Barbar,BC,#fd82ff,#4aa7e0,missing_source_draft,,True
+1697,Carol,CR,#4aa7e0,#f1ee97,missing_source_draft,,True
+1699,Hono,HO,#fa9a91,#85e678,missing_source_draft,,True
+1709,Celest,CS,#4aa7e0,#91e6e6,reconstructed_draft,,True
+1721,Hypa,HY,#fa9a91,#f85b0c,reconstructed_draft,173,True
+1723,Adrast,AD,#a86118,#ffd988,reconstructed_draft,1039,True
+1733,Vanadis,VD,#ad008f,#ffd988,reconstructed_draft,,True
+1741,Germa,GM,#d28fff,#f72a6e,reconstructed_draft,,True
+1747,Kriemd,KH,#8b8c08,#fa9a91,reconstructed_draft,,True
+1753,Ida,ID,#a50f0f,#ffd988,reconstructed_draft,,True
+1759,Sita,SI,#91e6e6,#a50f0f,reconstructed_draft,839,True
+1777,Vera,VE,#ad008f,#12a325,reconstructed_draft,139,True
+1783,Aspor,AS,#a86118,#91e6e6,reconstructed_draft,149,True
+1787,Eukrate,EU,#12a325,#00ff90,reconstructed_draft,197,True
+1789,Lame,LA,#b2fa0a,#a86118,reconstructed_draft,347,True
+1801,Ilse,IL,#a50f0f,#b2fa0a,reconstructed_draft,1523,True
+1811,Bett,BN,#fd82ff,#fad42a,reconstructed_draft,1571,True
+1823,Sofi,SP,#91e6e6,#008b8b,reconstructed_draft,1583,True
+1831,Clement,CM,#4aa7e0,#f72a6e,reconstructed_draft,,True
+1847,Matilde,MA,#f72a6e,#a86118,reconstructed_draft,229,True
+1861,August,AU,#a86118,#00ff90,reconstructed_draft,487,True
+1867,Oppa,OA,#85e678,#a86118,reconstructed_draft,,True
+1871,Walpurg,WA,#9c94ff,#a86118,reconstructed_draft,1181,True
+1873,Sile,SL,#91e6e6,#b2fa0a,reconstructed_draft,,True
+1877,Tyce,TC,#4a4b4d,#4aa7e0,reconstructed_draft,,True
+1879,Alete,AL,#a86118,#b2fa0a,reconstructed_draft,433,True
+1889,Hubert,HU,#fa9a91,#00ff90,reconstructed_draft,1487,True
+1901,Prymno,PY,#008b8b,#f85b0c,reconstructed_draft,,True
+1907,Vald,VA,#ad008f,#a86118,reconstructed_draft,947,True
+1913,Dresd,DR,#ffd988,#f1ee97,reconstructed_draft,1031,True
+1931,Libuss,LI,#b2fa0a,#a50f0f,reconstructed_draft,863,True
+1933,Anna,AN,#a86118,#fad42a,reconstructed_draft,491,True
+1949,Aline,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879,True
+1951,Tirz,TZ,#4a4b4d,#000e7b,reconstructed_draft,,True
+1973,Ador,AD,#a86118,#ffd988,reconstructed_draft,1039 1723,True
+1979,Just,JS,#dddddd,#91e6e6,reconstructed_draft,,True
+1987,Anahit,AN,#a86118,#fad42a,reconstructed_draft,491 1933,True
+1993,Pentel,PE,#008b8b,#12a325,reconstructed_draft,401,True
+1997,Anto,AN,#a86118,#fad42a,reconstructed_draft,491 1933 1987,True
+1999,Atropos,AT,#a86118,#4a4b4d,reconstructed_draft,317,True
+2003,Filago,PG,#008b8b,#d28fff,reconstructed_draft,1051,True
+2011,Sapien,SN,#91e6e6,#fad42a,reconstructed_draft,,True
+2017,Adelhd,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973,True
+2027,Elvir,EL,#12a325,#b2fa0a,reconstructed_draft,461,True
+2029,Paul,PU,#008b8b,#00ff90,reconstructed_draft,541,True
+2039,Tule,TL,#4a4b4d,#b2fa0a,reconstructed_draft,,True
+2053,Fili,PH,#008b8b,#fa9a91,reconstructed_draft,257,True
+2063,Lucre,LU,#b2fa0a,#00ff90,reconstructed_draft,233,True
+2069,Clorie,CN,#4aa7e0,#fad42a,reconstructed_draft,,True
+2081,Emma,EM,#12a325,#f72a6e,reconstructed_draft,,True
+2083,Amal,AM,#a86118,#f72a6e,reconstructed_draft,277,True
+2087,Regi,RE,#f1ee97,#12a325,reconstructed_draft,761,True
+2089,Icle,IC,#a50f0f,#4aa7e0,reconstructed_draft,,True
+2099,Neftys,NP,#fad42a,#008b8b,reconstructed_draft,,True
+2111,Glauke,GU,#d28fff,#00ff90,reconstructed_draft,,True
+2113,Nene,NT,#fad42a,#4a4b4d,reconstructed_draft,,True
+2129,Brun,BR,#fd82ff,#f1ee97,reconstructed_draft,1409,True
+2131,Alice,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879 1949,True
+2137,Ludov,LV,#b2fa0a,#ad008f,reconstructed_draft,,True
+2141,Bras,BS,#fd82ff,#91e6e6,reconstructed_draft,,True
+2143,Feli,FA,#2159f2,#a86118,reconstructed_draft,1249,True
+2153,Tere,TS,#4a4b4d,#91e6e6,reconstructed_draft,1579,True
+2161,Fetus,PH,#008b8b,#fa9a91,reconstructed_draft,257 2053,True
+2179,Ceci,CA,#4aa7e0,#a86118,reconstructed_draft,773,True
+2203,Baptist,BP,#fd82ff,#008b8b,reconstructed_draft,,True
+2207,Tora,TH,#4a4b4d,#fa9a91,reconstructed_draft,211,True
+2213,Gerald,GD,#d28fff,#ffd988,reconstructed_draft,,True
+2221,Bava,BV,#fd82ff,#ad008f,reconstructed_draft,,True
+2237,Clar,CL,#4aa7e0,#b2fa0a,reconstructed_draft,,True
+2239,Josef,JP,#dddddd,#008b8b,reconstructed_draft,,True
+2243,Olga,OL,#85e678,#b2fa0a,reconstructed_draft,,True
+2251,Gord,GO,#d28fff,#85e678,reconstructed_draft,,True
+2267,Unitas,UI,#00ff90,#a50f0f,reconstructed_draft,,True
+2269,Nike,NK,#fad42a,#8b8c08,reconstructed_draft,,True
+2273,Polyxo,PX,#008b8b,#821af9,reconstructed_draft,,True
+2281,Frates,FT,#2159f2,#4a4b4d,reconstructed_draft,,True
+2287,Margat,MG,#f72a6e,#d28fff,reconstructed_draft,,True
+2293,Clau,CU,#4aa7e0,#00ff90,reconstructed_draft,,True
+2297,Pierr,PI,#008b8b,#a50f0f,reconstructed_draft,857,True
+2309,Cald,CD,#4aa7e0,#ffd988,reconstructed_draft,,True
+2311,Rosal,RS,#f1ee97,#91e6e6,reconstructed_draft,,True
+2333,Constan,CT,#4aa7e0,#4a4b4d,reconstructed_draft,,True
+2339,Gobert,GB,#d28fff,#fd82ff,reconstructed_draft,,True
+2341,Roxane,RX,#f1ee97,#821af9,reconstructed_draft,,True
+2347,Ideocre,MA,#f72a6e,#a86118,reconstructed_draft,229 1847,True
+2351,Leon,LE,#b2fa0a,#12a325,reconstructed_draft,313,True
+2357,Katar,KN,#8b8c08,#fad42a,reconstructed_draft,,True
+2371,Florent,FN,#2159f2,#fad42a,reconstructed_draft,,True
+2377,Feo,PH,#008b8b,#fa9a91,reconstructed_draft,257 2053 2161,True
+2381,Bruc,BC,#fd82ff,#4aa7e0,reconstructed_draft,1693,True
+2383,Bamberg,BM,#fd82ff,#f72a6e,reconstructed_draft,,True
+2389,Heideg,HB,#fa9a91,#fd82ff,reconstructed_draft,,True
+2393,Tamar,TM,#4a4b4d,#f72a6e,reconstructed_draft,,True
+2399,Colum,CB,#4aa7e0,#fd82ff,reconstructed_draft,,True
+2411,Gudrun,GN,#d28fff,#fad42a,reconstructed_draft,,True
+2417,Svea,SV,#91e6e6,#ad008f,reconstructed_draft,,True
+2423,Adalbt,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973 2017,True
+2437,Eteridg,ET,#12a325,#4a4b4d,reconstructed_draft,269,True
+2441,Siri,SR,#91e6e6,#f1ee97,reconstructed_draft,,True
+2447,Bade,BD,#fd82ff,#ffd988,reconstructed_draft,,True
+2459,Cicago,CG,#4aa7e0,#d28fff,reconstructed_draft,,True
+2467,Robert,RB,#f1ee97,#fd82ff,reconstructed_draft,,True
+2473,Lacadr,LA,#b2fa0a,#a86118,reconstructed_draft,347 1789,True
+2477,Devo,DV,#ffd988,#ad008f,reconstructed_draft,,True
+2503,Budr,BO,#fd82ff,#85e678,reconstructed_draft,,True
+2521,Dorot,DT,#ffd988,#4a4b4d,reconstructed_draft,,True
+2531,Eduard,ED,#12a325,#ffd988,reconstructed_draft,1567,True
+2539,Califor,CF,#4aa7e0,#2159f2,reconstructed_draft,,True
+2543,Endymn,EN,#12a325,#fad42a,reconstructed_draft,379,True
+2549,Ostar,OS,#85e678,#91e6e6,reconstructed_draft,,True
+2551,Desidt,DS,#ffd988,#91e6e6,reconstructed_draft,,True
+2557,Tercid,TD,#4a4b4d,#ffd988,reconstructed_draft,,True
+2579,Herment,HE,#fa9a91,#12a325,reconstructed_draft,151,True
+2591,Pari,PA,#008b8b,#a86118,reconstructed_draft,131,True
+2593,May,MY,#f72a6e,#f85b0c,reconstructed_draft,1451,True
+2609,Dembok,DM,#ffd988,#f72a6e,reconstructed_draft,,True
+2617,Ornamt,OR,#85e678,#f1ee97,reconstructed_draft,,True
+2621,Yrsa,YR,#f85b0c,#f1ee97,reconstructed_draft,,True
+2633,Gisel,GI,#d28fff,#a50f0f,reconstructed_draft,1061,True
+2647,Ruperl,RP,#f1ee97,#008b8b,reconstructed_draft,,True
+2657,Eleonor,EL,#12a325,#b2fa0a,reconstructed_draft,461 2027,True
+2659,Gabri,GA,#d28fff,#a86118,reconstructed_draft,569,True
+2663,Ligu,LG,#b2fa0a,#d28fff,reconstructed_draft,1601,True
+2671,Nini,NI,#fad42a,#a50f0f,reconstructed_draft,547,True
+2677,Apoll,AP,#a86118,#008b8b,reconstructed_draft,659,True
+2683,Geor,GE,#d28fff,#12a325,reconstructed_draft,881,True
+2687,Carlov,CV,#4aa7e0,#ad008f,reconstructed_draft,,True
+2689,Bono,BO,#fd82ff,#85e678,reconstructed_draft,2503,True
+2693,Havn,HV,#fa9a91,#ad008f,reconstructed_draft,,True
+2699,Padu,PA,#008b8b,#a86118,reconstructed_draft,131 2591,True
+2707,Isar,IS,#a50f0f,#91e6e6,reconstructed_draft,359,True
+2711,Cordub,CO,#4aa7e0,#85e678,reconstructed_draft,457,True
+2713,Vincent,VC,#ad008f,#4aa7e0,reconstructed_draft,,True
+2719,Amic,AM,#a86118,#f72a6e,reconstructed_draft,277 2083,True
+2729,Haid,HA,#fa9a91,#a86118,reconstructed_draft,349,True
+2731,Eria,AE,#a86118,#12a325,reconstructed_draft,661,True
+2741,Modes,MO,#f72a6e,#85e678,reconstructed_draft,1483,True
+2749,Bohe,BH,#fd82ff,#fa9a91,reconstructed_draft,,True
+2753,Palm,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699,True
+2767,Melus,MU,#f72a6e,#00ff90,reconstructed_draft,,True
+2777,Burgun,BG,#fd82ff,#d28fff,reconstructed_draft,,True
+2789,Ursul,US,#00ff90,#91e6e6,reconstructed_draft,,True
+2791,Geomet,GT,#d28fff,#4a4b4d,reconstructed_draft,,True
+2797,Campa,CP,#4aa7e0,#008b8b,reconstructed_draft,,True
+2801,Holm,HO,#fa9a91,#85e678,reconstructed_draft,1699,True
+2803,Huenn,HU,#fa9a91,#00ff90,reconstructed_draft,1487 1889,True
+2819,Fidu,FD,#2159f2,#ffd988,reconstructed_draft,,True
+2833,Myrrh,MY,#f72a6e,#f85b0c,reconstructed_draft,1451 2593,True
+2837,Dodon,DO,#ffd988,#85e678,reconstructed_draft,397,True
+2843,Jani,JA,#dddddd,#a86118,reconstructed_draft,,True
+2851,Burdil,BU,#fd82ff,#00ff90,reconstructed_draft,883,True
+2857,Ilmatar,IL,#a50f0f,#b2fa0a,reconstructed_draft,1523 1801,True
+2861,Siegen,SG,#91e6e6,#d28fff,reconstructed_draft,,True
+2879,Aquita,AQ,#a86118,#5e007e,reconstructed_draft,1637,True
+2887,Carybs,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297,True
+2897,Indust,IU,#a50f0f,#00ff90,reconstructed_draft,,True
+2903,Alma,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879 1949 2131,True
+2909,Ingebg,IG,#a50f0f,#d28fff,reconstructed_draft,,True
+2917,Wilhelm,WI,#9c94ff,#a50f0f,reconstructed_draft,,True
+2927,Lampe,LP,#b2fa0a,#008b8b,reconstructed_draft,1439,True
+2939,Ardu,AR,#a86118,#f1ee97,reconstructed_draft,367,True
+2953,Deli,DL,#ffd988,#b2fa0a,reconstructed_draft,,True
+2957,Eoli,AE,#a86118,#12a325,reconstructed_draft,661 2731,True
+2963,Vienn,VI,#ad008f,#a50f0f,reconstructed_draft,181 1237,True
+2969,Admete,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973 2017 2423,True
+2971,Perse,PE,#008b8b,#12a325,reconstructed_draft,401 1993,True
+2999,Ducr,DU,#ffd988,#00ff90,reconstructed_draft,,True
+3001,Otti,OT,#85e678,#4a4b4d,reconstructed_draft,,True
+3011,Cle,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887,True
+3019,Cyane,CY,#4aa7e0,#f85b0c,reconstructed_draft,499,True
+3023,Arsine,AR,#a86118,#f1ee97,reconstructed_draft,367 2939,True
+3037,Tia,TH,#4a4b4d,#fa9a91,reconstructed_draft,211 2207,True
+3041,Erna,ER,#12a325,#f1ee97,reconstructed_draft,421,True
+3049,Aracne,AR,#a86118,#f1ee97,reconstructed_draft,367 2939 3023,True
+3061,Fama,FM,#2159f2,#f72a6e,reconstructed_draft,,True
+3067,Aspa,AS,#a86118,#91e6e6,reconstructed_draft,149 1783,True
+3079,Cloris,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011,True
+3083,Xante,XN,#821af9,#fad42a,reconstructed_draft,,True
+3089,Elisat,EB,#12a325,#fd82ff,reconstructed_draft,1427,True
+3109,Edburg,ED,#12a325,#ffd988,reconstructed_draft,1567 2531,True
+3119,Liriope,LI,#b2fa0a,#a50f0f,reconstructed_draft,863 1931,True
+3121,Pala,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753,True
+3137,Vatican,VT,#ad008f,#4a4b4d,reconstructed_draft,,True
+3163,Suev,SU,#91e6e6,#00ff90,reconstructed_draft,1103,True
+3167,Aleman,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879 1949 2131 2903,True
+3169,Aure,AU,#a86118,#00ff90,reconstructed_draft,487 1861,True
+3181,Bertold,BE,#fd82ff,#12a325,reconstructed_draft,271,True
+3187,Zahrin,ZA,#000e7b,#a86118,reconstructed_draft,,True
+3191,Berol,BE,#fd82ff,#12a325,reconstructed_draft,271 3181,True
+3203,Diotim,DI,#ffd988,#a50f0f,reconstructed_draft,593,True
+3209,Grat,GR,#d28fff,#f1ee97,reconstructed_draft,1291,True
+3217,Corn,CO,#4aa7e0,#85e678,reconstructed_draft,457 2711,True
+3221,Hippo,HI,#fa9a91,#a50f0f,reconstructed_draft,1093,True
+3229,Galene,GA,#d28fff,#a86118,reconstructed_draft,569 2659,True
+3251,Mona,MC,#f72a6e,#4aa7e0,reconstructed_draft,1531,True
+3253,Lotis,LO,#b2fa0a,#85e678,reconstructed_draft,853,True
+3257,Hybris,HY,#fa9a91,#f85b0c,reconstructed_draft,173 1721,True
+3259,Nefele,NH,#fad42a,#fa9a91,reconstructed_draft,,True
+3271,Pyti,PY,#008b8b,#f85b0c,reconstructed_draft,1901,True
+3299,Eros,ER,#12a325,#f1ee97,reconstructed_draft,421 3041,True
+3301,Hung,HG,#fa9a91,#d28fff,reconstructed_draft,,True
+3307,Ella,EL,#12a325,#b2fa0a,reconstructed_draft,461 2027 2657,True
+3313,Patri,PC,#008b8b,#4aa7e0,reconstructed_draft,1429 1453,True
+3319,Rhod,RD,#f1ee97,#ffd988,reconstructed_draft,,True
+3323,Zeuxo,ZU,#000e7b,#00ff90,reconstructed_draft,,True
+3329,Ohio,OH,#85e678,#fa9a91,reconstructed_draft,,True
+3331,Teodor,TH,#4a4b4d,#fa9a91,reconstructed_draft,211 2207 3037,True
+3343,Batilde,BA,#fd82ff,#a86118,reconstructed_draft,617 1231,True
+3347,Eicsfel,EF,#12a325,#2159f2,reconstructed_draft,1597,True
+3359,Fotogf,PH,#008b8b,#fa9a91,reconstructed_draft,257 2053 2161 2377,True
+3361,Gyptis,GY,#d28fff,#f85b0c,reconstructed_draft,,True
+3371,Edna,ED,#12a325,#ffd988,reconstructed_draft,1567 2531 3109,True
+3373,Eterns,AE,#a86118,#12a325,reconstructed_draft,661 2731 2957,True
+3389,Valene,VA,#ad008f,#a86118,reconstructed_draft,947 1907,True
+3391,Natalie,NL,#fad42a,#b2fa0a,reconstructed_draft,1019,True
+3407,Hamburg,HA,#fa9a91,#a86118,reconstructed_draft,349 2729,True
+3413,Brigitt,BR,#fd82ff,#f1ee97,reconstructed_draft,1409 2129,True
+3433,Patien,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753 3121,True
+3449,Hamilt,HA,#fa9a91,#a86118,reconstructed_draft,349 2729 3407,True
+3457,Tea,TE,#4a4b4d,#12a325,reconstructed_draft,251,True
+3461,Matesis,MS,#f72a6e,#91e6e6,reconstructed_draft,,True
+3463,Brucs,BR,#fd82ff,#f1ee97,reconstructed_draft,1409 2129 3413,True
+3467,Abnob,AB,#a86118,#fd82ff,reconstructed_draft,1087,True
+3469,Allegh,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879 1949 2131 2903 3167,True
+3491,Hercy,HE,#fa9a91,#12a325,reconstructed_draft,151 2579,True
+3499,Signe,SI,#91e6e6,#a50f0f,reconstructed_draft,839 1759,True
+3511,Scan,SC,#91e6e6,#4aa7e0,reconstructed_draft,,True
+3517,Sask,SK,#91e6e6,#8b8c08,reconstructed_draft,,True
+3527,Erifyl,ER,#12a325,#f1ee97,reconstructed_draft,421 3041 3299,True
+3529,Lola,LO,#b2fa0a,#85e678,reconstructed_draft,853 3253,True
+3533,Megair,ME,#f72a6e,#12a325,reconstructed_draft,167,True
+3539,Alekto,AL,#a86118,#b2fa0a,reconstructed_draft,433 1879 1949 2131 2903 3167 3469,True
+3541,Tisife,TP,#4a4b4d,#008b8b,reconstructed_draft,607,True
+3547,Laur,LA,#b2fa0a,#a86118,reconstructed_draft,347 1789 2473,True
+3557,Lina,LI,#b2fa0a,#a50f0f,reconstructed_draft,863 1931 3119,True
+3559,Argent,AR,#a86118,#f1ee97,reconstructed_draft,367 2939 3023 3049,True
+3571,Kili,KI,#8b8c08,#a50f0f,reconstructed_draft,619,True
+3581,Papagen,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753 3121 3433,True
+3583,Roma,RM,#f1ee97,#f72a6e,reconstructed_draft,,True
+3593,Nolli,NO,#fad42a,#85e678,reconstructed_draft,1151,True
+3607,Pruden,PR,#008b8b,#f1ee97,reconstructed_draft,179,True
+3613,Ocllo,OC,#85e678,#4aa7e0,reconstructed_draft,1609,True
+3617,Hedwig,HW,#fa9a91,#9c94ff,reconstructed_draft,,True
+3623,Ital,IT,#a50f0f,#4a4b4d,reconstructed_draft,1303,True
+3631,Terge,TG,#4a4b4d,#d28fff,reconstructed_draft,,True
+3637,Caprer,CA,#4aa7e0,#a86118,reconstructed_draft,773 2179,True
+3643,Hans,HA,#fa9a91,#a86118,reconstructed_draft,349 2729 3407 3449,True
+3659,Emit,EM,#12a325,#f72a6e,reconstructed_draft,2081,True
+3671,Petr,PE,#008b8b,#12a325,reconstructed_draft,401 1993 2971,True
+3673,Sepp,SE,#91e6e6,#12a325,reconstructed_draft,641,True
+3677,Pittsg,PB,#008b8b,#fd82ff,reconstructed_draft,1021,True
+3691,Genu,GE,#d28fff,#12a325,reconstructed_draft,881 2683,True
+3697,Cremon,CR,#4aa7e0,#f1ee97,reconstructed_draft,1697,True
+3701,Vene,VE,#ad008f,#12a325,reconstructed_draft,139 1777,True
+3709,Kreus,KU,#8b8c08,#00ff90,reconstructed_draft,,True
+3719,Comac,CO,#4aa7e0,#85e678,reconstructed_draft,457 2711 3217,True
+3727,Veritas,VS,#ad008f,#91e6e6,reconstructed_draft,,True
+3733,Cari,CA,#4aa7e0,#a86118,reconstructed_draft,773 2179 3637,True
+3739,Gismond,GS,#d28fff,#91e6e6,reconstructed_draft,,True
+3761,Grises,GR,#d28fff,#f1ee97,reconstructed_draft,1291 3209,True
+3767,Virtus,VU,#ad008f,#00ff90,reconstructed_draft,,True
+3769,Eula,EU,#12a325,#00ff90,reconstructed_draft,197 1787,True
+3779,Gryf,GP,#d28fff,#008b8b,reconstructed_draft,,True
+3793,Iva,IV,#a50f0f,#ad008f,reconstructed_draft,,True
+3797,Tokio,TK,#4a4b4d,#8b8c08,reconstructed_draft,,True
+3803,Venu,VE,#ad008f,#12a325,reconstructed_draft,139 1777 3701,True
+3821,Selinur,SE,#91e6e6,#12a325,reconstructed_draft,641 3673,True
+3823,Urhixr,UH,#00ff90,#fa9a91,reconstructed_draft,,True
+3833,Sigune,SI,#91e6e6,#a50f0f,reconstructed_draft,839 1759 3499,True
+3847,Evelyn,EV,#12a325,#ad008f,reconstructed_draft,,True
+3851,Cora,CO,#4aa7e0,#85e678,reconstructed_draft,457 2711 3217 3719,True
+3853,Cava,CA,#4aa7e0,#a86118,reconstructed_draft,773 2179 3637 3733,True
+3863,Marion,MA,#f72a6e,#a86118,reconstructed_draft,229 1847 2347,True
+3877,Laod,LA,#b2fa0a,#a86118,reconstructed_draft,347 1789 2473 3547,True
+3881,Princet,PR,#008b8b,#f1ee97,reconstructed_draft,179 3607,True
+3889,Ioland,IO,#a50f0f,#85e678,reconstructed_draft,631,True
+3907,Mabe,MA,#f72a6e,#a86118,reconstructed_draft,229 1847 2347 3863,True
+3911,David,DA,#ffd988,#a86118,reconstructed_draft,353,True
+3917,Tauris,TN,#4a4b4d,#fad42a,reconstructed_draft,937,True
+3919,Centem,CE,#4aa7e0,#12a325,reconstructed_draft,,True
+3923,Armid,AR,#a86118,#f1ee97,reconstructed_draft,367 2939 3023 3049 3559,True
+3929,Atal,AT,#a86118,#4a4b4d,reconstructed_draft,317 1999,True
+3931,Amhers,AM,#a86118,#f72a6e,reconstructed_draft,277 2083 2719,True
+3943,Edit,ED,#12a325,#ffd988,reconstructed_draft,1567 2531 3109 3371,True
+3947,Halawe,HA,#fa9a91,#a86118,reconstructed_draft,349 2729 3407 3449 3643,True
+3967,Sylva,SY,#91e6e6,#f85b0c,reconstructed_draft,643,True
+3989,Franzk,FZ,#2159f2,#000e7b,reconstructed_draft,,True
+4001,Brix,BX,#fd82ff,#821af9,reconstructed_draft,,True
+4003,Helg,HE,#fa9a91,#12a325,reconstructed_draft,151 2579 3491,True
+4007,Ada,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973 2017 2423 2969,True
+4013,Fidelio,FI,#2159f2,#a50f0f,reconstructed_draft,331,True
+4019,Adelae,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973 2017 2423 2969 4007,True
+4021,Jena,JN,#dddddd,#fad42a,reconstructed_draft,,True
+4027,Euryae,EU,#12a325,#00ff90,reconstructed_draft,197 1787 3769,True
+4049,Rezi,RZ,#f1ee97,#000e7b,reconstructed_draft,,True
+4051,Prezi,PZ,#008b8b,#000e7b,reconstructed_draft,,True
+4057,Turant,TU,#4a4b4d,#00ff90,reconstructed_draft,1321,True
+4073,Zerl,ZR,#000e7b,#f1ee97,reconstructed_draft,,True
+4079,Hercul,HE,#fa9a91,#12a325,reconstructed_draft,151 2579 3491 4003,True
+4091,Sara,SA,#91e6e6,#a86118,reconstructed_draft,601,True
+4093,Nasso,NS,#fad42a,#91e6e6,reconstructed_draft,,True
+4099,Montae,MO,#f72a6e,#85e678,reconstructed_draft,1483 2741,True
+4111,Merapi,ME,#f72a6e,#12a325,reconstructed_draft,167 3533,True
+4127,Pauly,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753 3121 3433 3581,True
+4129,Friede,FK,#2159f2,#8b8c08,reconstructed_draft,,True
+4133,Pami,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753 3121 3433 3581 4127,True
+4139,Rosame,RA,#f1ee97,#a86118,reconstructed_draft,1433,True
+4153,Deborah,DB,#ffd988,#fd82ff,reconstructed_draft,1499,True
+4157,Susann,SU,#91e6e6,#00ff90,reconstructed_draft,1103 3163,True
+4159,Carloe,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011 3079,True
+4177,Jett,JT,#dddddd,#4a4b4d,reconstructed_draft,,True
+4201,Messal,ME,#f72a6e,#12a325,reconstructed_draft,167 3533 4111,True
+4211,Herods,HE,#fa9a91,#12a325,reconstructed_draft,151 2579 3491 4003 4079,True
+4217,Praxes,PR,#008b8b,#f1ee97,reconstructed_draft,179 3607 3881,True
+4219,Heffyiremary,KD,#8b8c08,#ffd988,reconstructed_draft,,True
+4229,Jessond,JD,#dddddd,#ffd988,reconstructed_draft,,True
+4231,Sent,SE,#91e6e6,#12a325,reconstructed_draft,641 3673 3821,True
+4241,Ortrud,OU,#85e678,#00ff90,reconstructed_draft,,True
+4243,Sigele,SD,#91e6e6,#ffd988,reconstructed_draft,,True
+4253,Kundry,KU,#8b8c08,#00ff90,reconstructed_draft,3709,True
+4259,Perag,PE,#008b8b,#12a325,reconstructed_draft,401 1993 2971 3671,True
+4261,Norm,NR,#fad42a,#f1ee97,reconstructed_draft,,True
+4271,Fyllis,PH,#008b8b,#fa9a91,reconstructed_draft,257 2053 2161 2377 3359,True
+4273,Viol,VO,#ad008f,#85e678,reconstructed_draft,,True
+4283,Carmen,CA,#4aa7e0,#a86118,reconstructed_draft,773 2179 3637 3733 3853,True
+4289,Nanon,NA,#fad42a,#a86118,reconstructed_draft,1399,True
+4297,Delil,DE,#ffd988,#12a325,reconstructed_draft,769,True
+4327,Ingwe,IW,#a50f0f,#9c94ff,reconstructed_draft,,True
+4337,Salome,SM,#91e6e6,#f72a6e,reconstructed_draft,,True
+4339,Suleik,SU,#91e6e6,#00ff90,reconstructed_draft,1103 3163 4157,True
+4349,Dudu,DU,#ffd988,#00ff90,reconstructed_draft,2999,True
+4357,Marba,MA,#f72a6e,#a86118,reconstructed_draft,229 1847 2347 3863 3907,True
+4363,Stereo,ST,#91e6e6,#4a4b4d,reconstructed_draft,887,True
+4373,Eleut,EL,#12a325,#b2fa0a,reconstructed_draft,461 2027 2657 3307,True
+4391,Cerusk,CK,#4aa7e0,#8b8c08,reconstructed_draft,,True
+4397,Misa,MI,#f72a6e,#a50f0f,reconstructed_draft,677,True
+4409,Kyter,KY,#8b8c08,#f85b0c,reconstructed_draft,827,True
+4421,Dulcin,DC,#ffd988,#4aa7e0,reconstructed_draft,,True
+4423,Rebekk,RK,#f1ee97,#8b8c08,reconstructed_draft,,True
+4441,Reca,RC,#f1ee97,#4aa7e0,reconstructed_draft,,True
+4447,Regind,RG,#f1ee97,#d28fff,reconstructed_draft,,True
+4451,Renate,RN,#f1ee97,#fad42a,reconstructed_draft,,True
+4457,Emanuel,EM,#12a325,#f72a6e,reconstructed_draft,2081 3659,True
+4463,Rhea,RH,#f1ee97,#fa9a91,reconstructed_draft,1193,True
+4481,Happ,HA,#fa9a91,#a86118,reconstructed_draft,349 2729 3407 3449 3643 3947,True
+4483,Sido,SI,#91e6e6,#a50f0f,reconstructed_draft,839 1759 3499 3833,True
+4493,Selene,SE,#91e6e6,#12a325,reconstructed_draft,641 3673 3821 4231,True
+4507,Taunt,TA,#4a4b4d,#a86118,reconstructed_draft,241,True
+4513,Olym,OY,#85e678,#f85b0c,reconstructed_draft,,True
+4517,Klotie,KL,#8b8c08,#b2fa0a,reconstructed_draft,431,True
+4519,Semirs,SE,#91e6e6,#12a325,reconstructed_draft,641 3673 3821 4231 4493,True
+4523,Bilkis,BK,#fd82ff,#8b8c08,reconstructed_draft,,True
+4547,Tekl,TH,#4a4b4d,#fa9a91,reconstructed_draft,211 2207 3037 3331,True
+4549,Hypsie,HY,#fa9a91,#f85b0c,reconstructed_draft,173 1721 3257,True
+4561,Acilles,AC,#a86118,#4aa7e0,reconstructed_draft,1091,True
+4567,Croa,CR,#4aa7e0,#f1ee97,reconstructed_draft,1697 3697,True
+4583,Tomyris,TO,#4a4b4d,#85e678,reconstructed_draft,997,True
+4591,Irmgard,IR,#a50f0f,#f1ee97,reconstructed_draft,157,True
+4597,Batseb,BA,#fd82ff,#a86118,reconstructed_draft,617 1231 3343,True
+4603,Tita,TI,#4a4b4d,#a50f0f,reconstructed_draft,647,True
+4621,Mireie,MI,#f72a6e,#a50f0f,reconstructed_draft,677 4397,True
+4637,Polyxen,PO,#008b8b,#85e678,reconstructed_draft,263,True
+4639,Sceil,SH,#91e6e6,#fa9a91,reconstructed_draft,,True
+4643,Bandu,BA,#fd82ff,#a86118,reconstructed_draft,617 1231 3343 4597,True
+4649,Octa,OV,#85e678,#ad008f,reconstructed_draft,,True
+4651,Luis,LU,#b2fa0a,#00ff90,reconstructed_draft,233 2063,True
+4657,Musa,MU,#f72a6e,#00ff90,reconstructed_draft,2767,True
+4663,Nertus,NE,#fad42a,#12a325,reconstructed_draft,419,True
+4673,Mariann,MA,#f72a6e,#a86118,reconstructed_draft,229 1847 2347 3863 3907 4357,True
+4679,Timandr,TI,#4a4b4d,#a50f0f,reconstructed_draft,647 4603,True
+4691,Tekm,TE,#4a4b4d,#12a325,reconstructed_draft,251 3457,True
+4703,Juvi,JV,#dddddd,#ad008f,reconstructed_draft,,True
+4721,Brange,BR,#fd82ff,#f1ee97,reconstructed_draft,1409 2129 3413 3463,True
+4723,Jenny,JY,#dddddd,#f85b0c,reconstructed_draft,,True
+4729,Adolfe,AF,#a86118,#2159f2,reconstructed_draft,1549,True
+4733,Fulv,FU,#2159f2,#00ff90,reconstructed_draft,,True
+4751,Valesk,VK,#ad008f,#8b8c08,reconstructed_draft,,True
+4759,Vale,VA,#ad008f,#a86118,reconstructed_draft,947 1907 3389,True
+4783,Veronik,VE,#ad008f,#12a325,reconstructed_draft,139 1777 3701 3803,True
+4787,Ginevr,GV,#d28fff,#ad008f,reconstructed_draft,,True
+4789,Pia,PI,#008b8b,#a50f0f,reconstructed_draft,857 2297,True
+4793,Roswit,RW,#f1ee97,#9c94ff,reconstructed_draft,,True
+4799,Elly,EL,#12a325,#b2fa0a,reconstructed_draft,461 2027 2657 3307 4373,True
+4801,Patros,PA,#008b8b,#a86118,reconstructed_draft,131 2591 2699 2753 3121 3433 3581 4127 4133,True
+4813,Elfrie,EL,#12a325,#b2fa0a,reconstructed_draft,461 2027 2657 3307 4373 4799,True
+4817,Triberg,TB,#4a4b4d,#fd82ff,reconstructed_draft,,True
+4831,Drak,DR,#ffd988,#f1ee97,reconstructed_draft,1031 1913,True
+4861,Werdai,WR,#9c94ff,#f1ee97,reconstructed_draft,,True
+4871,Ester,ES,#12a325,#91e6e6,reconstructed_draft,1301,True
+4877,Cimer,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011 3079 4159,True
+4889,Hektor,HE,#fa9a91,#12a325,reconstructed_draft,151 2579 3491 4003 4079 4211,True
+4903,Xeni,XE,#821af9,#12a325,reconstructed_draft,,True
+4909,Notburg,NB,#fad42a,#fd82ff,reconstructed_draft,,True
+4919,Caris,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011 3079 4159 4877,True
+4931,Criste,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011 3079 4159 4877 4919,True
+4933,Bernard,BE,#fd82ff,#12a325,reconstructed_draft,271 3181 3191,True
+4937,Eufe,EU,#12a325,#00ff90,reconstructed_draft,197 1787 3769 4027,True
+4943,Filipp,PH,#008b8b,#fa9a91,reconstructed_draft,257 2053 2161 2377 3359 4271,True
+4951,Pyrrh,PY,#008b8b,#f85b0c,reconstructed_draft,1901 3271,True
+4957,Zelim,ZL,#000e7b,#b2fa0a,reconstructed_draft,,True
+4967,Ute,UT,#00ff90,#4a4b4d,reconstructed_draft,983,True
+4969,Vund,VU,#ad008f,#00ff90,reconstructed_draft,3767,True
+4973,Erik,ER,#12a325,#f1ee97,reconstructed_draft,421 3041 3299 3527,True
+4987,Crysos,CH,#4aa7e0,#fa9a91,reconstructed_draft,1297 2887 3011 3079 4159 4877 4919 4931,True
+4993,Moir,MO,#f72a6e,#85e678,reconstructed_draft,1483 2741 4099,True
+4999,Laton,LA,#b2fa0a,#a86118,reconstructed_draft,347 1789 2473 3547 3877,True
+5003,Brambl,BR,#fd82ff,#f1ee97,reconstructed_draft,1409 2129 3413 3463 4721,True
+5009,Agnes,AG,#a86118,#d28fff,reconstructed_draft,389,True
+5011,Clara,CL,#4aa7e0,#b2fa0a,reconstructed_draft,2237,True
+5021,Scehe,SZ,#91e6e6,#000e7b,reconstructed_draft,,True
+5023,Cosim,CO,#4aa7e0,#85e678,reconstructed_draft,457 2711 3217 3719 3851,True
+5039,Agripp,AG,#a86118,#d28fff,reconstructed_draft,389 5009,True
+5051,Kast,KA,#8b8c08,#a86118,reconstructed_draft,239,True
+5059,Adelge,AD,#a86118,#ffd988,reconstructed_draft,1039 1723 1973 2017 2423 2969 4007 4019,True
+5077,Pipp,PI,#008b8b,#a50f0f,reconstructed_draft,857 2297 4789,True
+5081,Josefa,JF,#dddddd,#2159f2,reconstructed_draft,,True
+5087,Amalat,AM,#a86118,#f72a6e,reconstructed_draft,277 2083 2719 3931,True
+5099,Antikle,AN,#a86118,#fad42a,reconstructed_draft,491 1933 1987 1997,True

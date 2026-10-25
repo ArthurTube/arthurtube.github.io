@@ -1,0 +1,16 @@
+FAMILY BLOCKS — UPLOADED COLOURS1–2447
+
+Generated prime-family blocks now use the current uploaded PRODUCT colour pattern. Previously the family renderer could still arrange the separate prime and multiplier colours differently, even while the uploaded colour option was enabled.
+
+The renderer now resolves occupied blocks through the same current checkerboard layer used by rectangular drafts. The latest uploaded product swatch and newer supplied checkerboard diagrams control the rest colours. The counted prime outline, empty positions, square count and multiplier group dimensions stay unchanged.
+
+Existing source colour motion is applied over the updated rest pattern; native black poses are retained. Faces, limb choices and sound assets were not replaced. Native Scratch playback has not been verified.
+
+USE
+Extract the complete updated ZIP into one folder. Open Aperial_Builder_UPDATED.html. Keep “Use uploaded colour patterns in generated bodies” enabled, then build the chosen prime family. Source complete sprites keep priority when that option is enabled; they are not silently recoloured.
+
+PROTECTION
+Finished311–340, individually painted block shapes, explicit selected body references, and sourcePalette=false retain priority. Beyond2447, the existing inferred factor-colour rules remain drafts. A pure prime keeps its counted prime-body colour rules; the new product-pattern correction applies to multiplied families.
+
+CHECKED
+Family355,393,614,2008,2028,2035,426: output colours match the current product checkerboard lookup at every occupied coordinate. All occupied coordinates and counts are unchanged. Outdated colour placement was reproduced for393,614,2008,2028,2035. Already matching355 and426 retained their rest colours. Six’s black/purple pose changes still pass. Existing mask-expansion, nested-checkerboard, own-face and source-timing checks passed.

@@ -1,0 +1,242 @@
+{
+  "313": {
+    "prime": 313,
+    "name": "Leuck",
+    "pair": "LE",
+    "columns": 25,
+    "rows": 25,
+    "radius": 12,
+    "formula": "13\u00b2 + 12\u00b2 = 313",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      12,
+      12
+    ],
+    "character_art_verified": false
+  },
+  "421": {
+    "prime": 421,
+    "name": "Erop",
+    "pair": "ER",
+    "columns": 29,
+    "rows": 29,
+    "radius": 14,
+    "formula": "15\u00b2 + 14\u00b2 = 421",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      14,
+      14
+    ],
+    "character_art_verified": false
+  },
+  "613": {
+    "prime": 613,
+    "name": "Alke",
+    "pair": "AK",
+    "columns": 35,
+    "rows": 35,
+    "radius": 17,
+    "formula": "18\u00b2 + 17\u00b2 = 613",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      17,
+      17
+    ],
+    "character_art_verified": false
+  },
+  "761": {
+    "prime": 761,
+    "name": "Remis",
+    "pair": "RE",
+    "columns": 39,
+    "rows": 39,
+    "radius": 19,
+    "formula": "20\u00b2 + 19\u00b2 = 761",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      19,
+      19
+    ],
+    "character_art_verified": false
+  },
+  "1013": {
+    "prime": 1013,
+    "name": "Siwa",
+    "pair": "SW",
+    "columns": 45,
+    "rows": 45,
+    "radius": 22,
+    "formula": "23\u00b2 + 22\u00b2 = 1013",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      22,
+      22
+    ],
+    "character_art_verified": false
+  },
+  "1201": {
+    "prime": 1201,
+    "name": "Yord",
+    "pair": "YO",
+    "columns": 49,
+    "rows": 49,
+    "radius": 24,
+    "formula": "25\u00b2 + 24\u00b2 = 1201",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      24,
+      24
+    ],
+    "character_art_verified": false
+  },
+  "1301": {
+    "prime": 1301,
+    "name": "Esse",
+    "pair": "ES",
+    "columns": 51,
+    "rows": 51,
+    "radius": 25,
+    "formula": "26\u00b2 + 25\u00b2 = 1301",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      25,
+      25
+    ],
+    "character_art_verified": false
+  },
+  "1741": {
+    "prime": 1741,
+    "name": "Germa",
+    "pair": "GM",
+    "columns": 59,
+    "rows": 59,
+    "radius": 29,
+    "formula": "30\u00b2 + 29\u00b2 = 1741",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      29,
+      29
+    ],
+    "character_art_verified": false
+  },
+  "1861": {
+    "prime": 1861,
+    "name": "August",
+    "pair": "AU",
+    "columns": 61,
+    "rows": 61,
+    "radius": 30,
+    "formula": "31\u00b2 + 30\u00b2 = 1861",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      30,
+      30
+    ],
+    "character_art_verified": false
+  },
+  "2113": {
+    "prime": 2113,
+    "name": "Nene",
+    "pair": "NT",
+    "columns": 65,
+    "rows": 65,
+    "radius": 32,
+    "formula": "33\u00b2 + 32\u00b2 = 2113",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      32,
+      32
+    ],
+    "character_art_verified": false
+  },
+  "2381": {
+    "prime": 2381,
+    "name": "Bruc",
+    "pair": "BC",
+    "columns": 69,
+    "rows": 69,
+    "radius": 34,
+    "formula": "35\u00b2 + 34\u00b2 = 2381",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      34,
+      34
+    ],
+    "character_art_verified": false
+  },
+  "2521": {
+    "prime": 2521,
+    "name": "Dorot",
+    "pair": "DT",
+    "columns": 71,
+    "rows": 71,
+    "radius": 35,
+    "formula": "36\u00b2 + 35\u00b2 = 2521",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      35,
+      35
+    ],
+    "character_art_verified": false
+  },
+  "3121": {
+    "prime": 3121,
+    "name": "Pala",
+    "pair": "PA",
+    "columns": 79,
+    "rows": 79,
+    "radius": 39,
+    "formula": "40\u00b2 + 39\u00b2 = 3121",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      39,
+      39
+    ],
+    "character_art_verified": false
+  },
+  "3613": {
+    "prime": 3613,
+    "name": "Ocllo",
+    "pair": "OC",
+    "columns": 85,
+    "rows": 85,
+    "radius": 42,
+    "formula": "43\u00b2 + 42\u00b2 = 3613",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      42,
+      42
+    ],
+    "character_art_verified": false
+  },
+  "4513": {
+    "prime": 4513,
+    "name": "Olym",
+    "pair": "OY",
+    "columns": 95,
+    "rows": 95,
+    "radius": 47,
+    "formula": "48\u00b2 + 47\u00b2 = 4513",
+    "source": "User-requested centered-square prime geometry; colours follow current letter reference; centre colour and full character require review",
+    "status": "mathematical_shape_draft",
+    "centre": [
+      47,
+      47
+    ],
+    "character_art_verified": false
+  }
+}

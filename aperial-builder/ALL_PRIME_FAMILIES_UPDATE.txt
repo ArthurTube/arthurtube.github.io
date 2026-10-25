@@ -1,0 +1,23 @@
+ALL PRIME FAMILIES — 301+ AND OTHER PRODUCTS UP TO5100
+
+71 is an example, not the only supported prime. Any valid counted prime mask can be expanded, including imported masks and counted supplied drawings. Group expansion replaces each occupied prime position with a multiplier-sized group. Empty outline positions remain empty.
+
+NEW CONTROLS
+• Counted masks currently available: select a counted source/imported/draft mask.
+• Refresh counted masks: include masks added since the panel opened.
+• Use selected number as a prime family: populate the prime and multiplier fields from the selected number, then click Build. This is an explicit family construction; it does not automatically replace a rectangular band design.
+
+PRIORITY
+1. When “Keep complete source sprite” is enabled, a supplied complete product is retained first, including its original artwork, scripts and sounds.
+2. A user-imported counted prime mask remains selected.
+3. A valid counted loaded prime drawing is preferred over a generated fallback mask.
+4. Existing counted draft masks can be used with their draft status retained. A missing counted body produces an error instead of filling its outline with an invented rectangle.
+
+GROUP SHAPES
+×2:1×2;×3:1×3;×4:2×2;×5:1×5;×6:2×3. Larger multipliers default to closest factor dimensions. Group width remains editable and must divide the multiplier. The product must be at most5100; multipliers are1–300.
+
+PATTERNS
+The nested colour layer supports prime×2,×3 and larger multipliers using prime-body coordinates and multiplier-group coordinates separately. Mask positions, holes and occupied block counts are not changed by checkerboard colour rules. Own faces and existing face/limb controls remain available.
+
+VALIDATION
+832 counted-mask expansions checked. A custom imported mask with empty positions was built into305=5×61, retaining those empty positions. A complete supplied301 won before mask extraction. Loaded counted prime artwork replaced a draft fallback, while a user-imported mask was preserved. Existing nested-checkerboard and own-face checks passed. Native Scratch playback was not verified.

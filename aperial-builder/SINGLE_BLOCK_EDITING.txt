@@ -1,0 +1,20 @@
+SINGLE BLOCK EDITING FIX
+
+Newly generated rectangle, prime-family and edited-shape costumes now contain one separate SVG rectangle per block. Same-colour blocks are no longer merged into one compound path or one body group.
+
+Re-export the affected draft as sprite3/SB3 and import the new export into Scratch or TurboWarp. In the Costumes vector editor, click a square to select and move that square. If the editor initially selects the entire imported costume, use Ungroup first. Shift-click is for selecting multiple objects.
+
+Previously downloaded costumes do not update automatically. Original supplied reference sprites remain unchanged. Colours, block counts, poses, timing and sound data are retained.
+
+ANIMATION COSTUMES
+Default export: costume 1 is named number (rest pose); costumes 2-5 are Animation 1-4. Only the four Animation costumes enter the playback loop. They cover 6.4 seconds; number is the initial resting costume.
+Under Animation references, set Animation costume count to change the number of animated costumes, then click Set animation count. Total costumes = 1 rest + chosen animation count. 0 adds the rest costume to automatic source animation poses. Repeated sampled poses remain separate editable costumes. This does not invent new poses. Complete supplied reference sprites retain native costumes and scripts.
+
+PRIME BLOCK FIX
+All 618 generated colour-bank SVGs (primes 311-5099) now use one independent top-level rectangle per block. Same-colour squares are separate objects. Prime outline downloads also use separate ungrouped squares. Original source reference artwork is preserved unchanged. Re-import the updated SVG or re-export the draft to replace an older merged costume.
+
+FLIP BLOCKS
+Open Edit blocks / shape (or Edit individual prime blocks). Select blocks with Shift-click or a box selection; Select all flips the entire body. Click Flip horizontal for left/right or Flip vertical for top/bottom. Colours move with the blocks. A single plain square looks identical when flipped. Undo reverses the flip. Overlapping flips are rejected. Click Apply shape to draft, then export.
+
+CHANGE BLOCK COLOURS
+Open Edit blocks / shape. Click one block, Shift-click multiple blocks, or Select all. Choose Block colour or enter an exact six-digit Hex colour (for example #fffe2f). Click Apply colour to selected blocks. Undo restores the earlier colours. Apply shape to draft, then export, to keep the edited colours. Unselected blocks and the original source reference are unchanged.

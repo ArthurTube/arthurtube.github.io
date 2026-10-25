@@ -1,0 +1,29 @@
+{
+  "Poly307": {
+    "count": 307,
+    "teal": 153,
+    "lime": 153,
+    "white": 1,
+    "grid": [
+      17,
+      19
+    ],
+    "static": true,
+    "small_example_excluded": 9
+  },
+  "Centered313": {
+    "count": 313,
+    "radius": 12,
+    "grid": [
+      25,
+      25
+    ],
+    "formula": "13² +12²",
+    "first_letter_colour": 156,
+    "second_letter_colour": 156,
+    "centre": 1,
+    "character_status": "body layout draft; no verified face, limbs, symbol, sound or animation"
+  },
+  "additional_centered_prime_layouts": 15,
+  "native_Scratch_playback": "not performed"
+}

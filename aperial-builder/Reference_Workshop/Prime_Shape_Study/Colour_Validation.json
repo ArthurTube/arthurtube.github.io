@@ -1,0 +1,27 @@
+{
+  "Poly307": {
+    "teal_P": "#008b8b",
+    "P_blocks": 153,
+    "lime_L": "#b2fa0a",
+    "L_blocks": 153,
+    "white_centre_blocks": 1,
+    "uploaded_svg_unchanged": true
+  },
+  "later_primes_checked": 618,
+  "new_body_drafts_coloured": 601,
+  "palette": "Current prime letter palette; numeric3 and other supplied source art unchanged",
+  "new_placement": "Poly-style upper/right first letter, lower/left second letter, white centre; explicitly a design draft",
+  "preserved_uploaded_colour_masks": [
+    307,
+    311,
+    313,
+    317
+  ],
+  "tests": [
+    "All618 prime cell counts and non-overlap checks passed",
+    "Poly307 exact square colours match the counted supplied body",
+    "311/313/317 source square-colour masks match exactly",
+    "331/349/5099 actual exported SVG costumes contain their two letter colours and white centre; no sounds added"
+  ],
+  "limits": "Shape and new colour placement remain drafts. Native Scratch/browser playback not tested."
+}

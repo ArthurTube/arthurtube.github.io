@@ -1,0 +1,46 @@
+{
+  "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3 version2",
+  "primes": {
+    "311": {
+      "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+      "costume": "aa3a0d7942c331ac1be1bfe7276b984e.svg",
+      "old_costume": "7212dce7a695edace7c5f70ed34a9eb5.svg",
+      "count": 311,
+      "columns": 19.0,
+      "rows": 17.0,
+      "fill_counts": {
+        "#101010": 1,
+        "#4aa7e0": 155,
+        "#a50f0f": 155
+      }
+    },
+    "313": {
+      "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+      "costume": "1f3c071c9dc1c82f0374dc979433dd8a.svg",
+      "old_costume": "39261563d7c484e79b8b4d3c169aac3e.svg",
+      "count": 313,
+      "columns": 25.0,
+      "rows": 25.0,
+      "fill_counts": {
+        "#b2fa0a": 192,
+        "#12a325": 120,
+        "#101010": 1
+      }
+    },
+    "317": {
+      "source": "Sprite2_311_317_ALIGNED_CAPS.sprite3",
+      "costume": "b4f53fa2e9f5cb40d89214e7cab623d9.svg",
+      "old_costume": "9a5e7e8fec3a9082310ad3e32514fc53.svg",
+      "count": 317,
+      "columns": 15.0,
+      "rows": 23.0,
+      "fill_counts": {
+        "#a86118": 158,
+        "#4a4b4d": 158,
+        "#101010": 1
+      }
+    }
+  },
+  "animation": "static only",
+  "official_status": "unverified"
+}

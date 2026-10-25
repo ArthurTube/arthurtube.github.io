@@ -1,0 +1,28 @@
+APERIAL COLOUR REFERENCE UPDATE — 25 October 2026
+
+Open Aperial_Builder_UPDATED.html and use “Uploaded Aperial colours · 1–2447”.
+The new panel can inspect a numbered source swatch and create a separate body-colour draft.
+
+SOURCE
+Aperial colors.sprite3 contains 25 sheets, 100 swatch positions per sheet, populated through 2447. All original sheet SVGs are included in Colour_References_1-2447. The original sprite is also included unchanged.
+
+CHANGES
+• 2447 numbered swatches are available to the builder.
+• Generated rectangular bodies can use the supplied composite checkerboard motifs.
+• Prime body drafts use uploaded colour pairs instead of outdated generated pairs. 295 prime-bank entries after 340 were compared with the upload; 128 pairs differed and were corrected. 60 generated prime centres were also corrected to the uploaded black centre. The complete comparison is included.
+• Prime-bank SVGs, its CSV/catalog, its importable sprite3, and normal family rendering use the corrected pairs.
+• 3 is yellow #fffe2f. 6 is purple #723bc2. 9 uses #919191 / #aaaaaa / #d1d1d1.
+• Your finished 311–340 designs, individual block painting, own faces, and source references keep priority. No faces, limbs, sounds or source scripts were replaced.
+• Native timing boundaries are retained. The body-colour layer applies source colour changes over the new rest palette; it does not invent new costume timing.
+
+2448 AND BEYOND
+The existing closest-factor builder can combine available factor swatches. These are drafts: the upload does not verify their final colour placement, shapes, animation or prime names. Primes without an uploaded swatch retain an explicitly unverified letter-colour draft.
+
+LIMITS
+A colour swatch is not a body silhouette or a counted block diagram. The 84×84 interior sample preserves flat swatch fills and visible motifs; applying it to a differently sized body can change pattern spacing. Original vector sheets remain available for exact visual comparison. Prime centre colours follow the uploaded white/black swatches; counted outlines are preserved rather than copying the swatch’s square outline.
+The original 1–300 reference animation and sound coverage has not been expanded by this update. No native Scratch playback verification is claimed.
+
+FILES
+Colour_References_1-2447/Colour_Audit_1-2447.csv
+Colour_References_1-2447/Prime_Palette_Comparison.csv
+Colour_References_1-2447/Validation.json

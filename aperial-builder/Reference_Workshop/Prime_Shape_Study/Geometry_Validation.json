@@ -1,0 +1,19 @@
+{
+  "source_primes_131_307": 32,
+  "first_pose_counts_matching": 31,
+  "source_mismatch": {
+    "281": "277 individually drawn squares; no automatic source alteration"
+  },
+  "later_primes": 618,
+  "exact_count_growth_drafts": 601,
+  "uploaded_static_revisions": 3,
+  "other_centered_square_math_drafts": 14,
+  "total_later_body_cells_checked": 1600114,
+  "checks": [
+    "Every later prime is prime and has exactly P distinct non-overlapping unit square cells",
+    "All618 outlines form one edge-connected body",
+    "Uploaded311/313/317 row profiles kept",
+    "No source artwork overwritten; no canonical status, sound or animation inferred"
+  ],
+  "limits": "First-pose counting only. Construction choice is not evidence of Rodolfo-approved later shapes. No native Scratch playback performed."
+}

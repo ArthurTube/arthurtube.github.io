@@ -1,0 +1,19 @@
+NESTED CHECKERBOARDS — 1–5100
+
+Open Aperial_Builder_UPDATED.html. The new “Nested checkerboards · 1–5100” option is enabled by default for generated body drafts.
+
+WHAT CHANGED
+• Composite source motifs with three or more colours now repeat at the scale of individual body squares. They are no longer stretched into large colour regions.
+• 2001 uses its uploaded3×3 motif. Mathematical factorization:3×23×29; selected closest rectangle29×69.
+• 2028 uses its uploaded4×2 motif, including its two beige shades and blue. The rectangle remains39×52. Mathematical prime factors2×2×3×13×13 do not replace the supplied colour scheme.
+• 2035 uses its uploaded3×3 motif. Mathematical factors5×11×37; selected rectangle37×55.
+• Prime×2,×3,×4,×5,×6 and higher family multipliers retain prime colours at the prime-body coordinates and multiplier patterns at the multiplier-group coordinates. The family builder supports multipliers up to300 and products up to5100.
+• For composites beyond the uploaded1–2447 swatches, available factor motifs are nested recursively. These new placements remain drafts.
+• Native source colour changes and timing boundaries are retained where available. There is no newly invented music in this update.
+
+PRESERVED
+Finished311–340, supplied reference sprites, individually painted blocks, selected body references, own faces, limb selections, sound assets, the1728cube, and explicit880=22×8×5 grouping retain priority. Prime numbers by themselves keep their prime-body rules.
+
+CHECKS
+Representative output colour lookups were checked over the full1–5100 range. Generated2001/2028/2035 SVGs retain exactly2001/2028/2035 separate square blocks. Prime-family colour logic was tested across allowed multipliers2–300 for17/71/131/307/641 within5100. Existing own-face and animation-export checks passed.
+Source swatches establish colour motifs, not a completed or official character design. Automatically inferred later arrangements and family layouts need visual review. Native Scratch playback has not been verified.

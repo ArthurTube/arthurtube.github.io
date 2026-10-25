@@ -1,0 +1,47 @@
+{
+  "336": {
+    "number": 336,
+    "columns": 16,
+    "rows": 21,
+    "source": "336.svg",
+    "visible_squares": 336,
+    "group_multiplier": 1
+  },
+  "329": {
+    "number": 329,
+    "columns": 7,
+    "rows": 47,
+    "source": "Sedoss (1).svg",
+    "visible_squares": 329,
+    "group_multiplier": 1
+  },
+  "322": {
+    "number": 322,
+    "columns": 14,
+    "rows": 23,
+    "source": "Eilneem.svg",
+    "visible_squares": 322,
+    "group_multiplier": 1
+  },
+  "880": {
+    "number": 880,
+    "columns": 11,
+    "rows": 16,
+    "source": "880.svg",
+    "visible_squares": 176,
+    "group_multiplier": 5
+  },
+  "912": {
+    "number": 912,
+    "columns": 24,
+    "rows": 38,
+    "source": "912.svg",
+    "visible_squares": 912,
+    "group_multiplier": 1,
+    "nested_factors": [
+      24,
+      2,
+      19
+    ]
+  }
+}

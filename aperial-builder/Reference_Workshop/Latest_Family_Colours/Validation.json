@@ -1,0 +1,24 @@
+{
+  "source": "Uploaded Aperial colours1\u20132447 plus newer explicit checkerboard references",
+  "tested_families": [
+    355,
+    393,
+    614,
+    2008,
+    2028,
+    2035,
+    426
+  ],
+  "source_inconsistent_colours_reproduced_at_positions": {
+    "393": 261,
+    "614": 385,
+    "2008": 1279,
+    "2028": 975,
+    "2035": 1423
+  },
+  "all_occupied_coordinates_unchanged": true,
+  "all_square_counts_unchanged": true,
+  "latest_colour_lookup_checked_per_occupied_block": true,
+  "six_native_black_poses_checked": true,
+  "native_scratch_playback_verified": false
+}
