@@ -10,3 +10,8 @@ Official project: https://scratch.mit.edu/users/Aperial10080/
 The builder keeps supplied/reference artwork ahead of generated drafts and includes the current prime-family, checkerboard, own-face, block-line, colour and shape correction logic from the uploaded builder package.
 
 Open index.html through ArthurTube.github.io/aperial-builder/
+
+
+TUTORIAL EXAMPLES
+- All prime families · 301+: Prime 197, Multiplier 2 -> 394 = 197 x 2.
+- Rectangle form: choose Band 36 (351-360), open 352, and use 352 = 16 x 22.
