@@ -1,0 +1,11 @@
+All prime families · 301+ group-width fix
+
+Automatic group width now uses the smaller factor.
+4 -> 2 x 2
+6 -> 2 x 3
+8 -> 2 x 4 (Group width = 2)
+9 -> 3 x 3
+Prime multipliers -> 1 x prime
+
+311, 313 and 317 supplied SVG shape overrides are preserved.
+Prime source-swatch tutorial behavior is preserved.
