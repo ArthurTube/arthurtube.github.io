@@ -1,0 +1,9 @@
+Supplied prime shape priority
+
+311 = Cire.svg (exact uploaded SVG)
+313 = leuck.svg (exact uploaded SVG)
+317 = atale.svg (exact uploaded SVG)
+
+These three SVG files override generated/reference drafts when the standalone prime is opened.
+The existing uploaded prime tutorial/source-swatch behavior for other primes is retained.
+No new geometry was invented for 311, 313, or 317.
