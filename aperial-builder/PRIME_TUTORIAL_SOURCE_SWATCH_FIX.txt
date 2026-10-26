@@ -1,0 +1,7 @@
+Prime tutorial source-swatch fix
+
+When Or inspect one number > Open is used on a prime with an uploaded 1-2447 colour swatch, the main tutorial stage now shows the exact cropped uploaded swatch motif instead of a generic prime placeholder/letter-colour body.
+
+Example: 1987 Anahit uses its 1901-2000 uploaded swatch. The page explicitly says body shape/placement is unresolved and is not inferred from the swatch.
+
+2448+ primes without an uploaded swatch remain continuation/unverified.
