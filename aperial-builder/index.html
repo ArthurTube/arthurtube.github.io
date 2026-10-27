@@ -134,7 +134,8 @@ window.AperialBuilder={...window.AperialBuilder,customFaceFrame,eventTimes,draft
 // "stop other scripts" blocks can kill the newly broadcast play handler.
 const previousMakeStage=makeStage;
 makeStage=function(list,files){let t=previousMakeStage(list,files);for(let b of Object.values(t.blocks))if(b.opcode==='event_broadcast'&&b.inputs.BROADCAST_INPUT?.[1]?.[1]==='hide all')b.opcode='event_broadcastandwait';return t};
-</script></html>
+</script><script src="project_aperials_v3_data.js"></script><script src="project_aperials_v3_rules.js"></script><script src="project_aperials_v3_browser.js"></script><script src="project_aperials_v3_examples.js"></script>
+</html>
 <script src="ultimate_assets.js"></script>
 <script src="ultimate_assets_editor.js"></script>
 
