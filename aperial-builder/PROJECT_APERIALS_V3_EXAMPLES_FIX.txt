@@ -1,0 +1,8 @@
+Project Aperials v3 exact builder examples fix
+
+Source target: Secret//Sprite4
+8 costumes, 0 Scratch blocks, 1 sound
+Covered examples: 131, 167, 262-1, 262-2, 968, 999, 1001, 1002
+Default builder example: 262-1
+
+The builder now previews these exact supplied SVG costumes and does not replace them with generated block artwork. 262-1 and 262-2 remain distinct variants of Aperial 262.

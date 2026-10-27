@@ -1,0 +1,9 @@
+Project Aperials v3 arbitrary example preview fix
+
+- Keeps the eight Secret//Sprite4 supplied examples, with 262-1 as the default supplied example.
+- Adds Preview any Aperial example for 1-5100.
+- Defaults to 2001; Previous/Next makes 2002 and later examples quick to inspect.
+- Exact supplied v3 examples keep priority.
+- Other values invoke the same main Aperial Builder block renderer, then mirror its actual stage preview.
+- Project Aperials v3 source-rule classification is displayed before generated fallback status.
+- Generated/reconstructed examples are not labelled official/canon.

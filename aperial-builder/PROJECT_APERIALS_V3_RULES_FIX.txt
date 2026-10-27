@@ -1,0 +1,6 @@
+Project Aperials v3 rules fix
+- Added the supplied Numbers hierarchy: 0-35 base-36 transdecimal; 37-127 independent primes; 131-5099 1st Twin Color Primes; 5103-9901 2nd Twin Color Primes/Unknown; 9907-10079 Unknown.
+- Added supplied Compound Functions classification: 2 Color Checker, 3 Color Stripes, 4 Color Stripes, 4 Color Superchecker, n × >127 Prime, x(10080)+n probable rule.
+- Added Double Color Prime status legend: red Vacant, green Confirmed, blue Prediction.
+- Prime-family generation now consults/stores the v3 source rule before generated fallback and keeps generated geometry labelled as review draft.
+- Predictions and unknowns are not promoted to canon.

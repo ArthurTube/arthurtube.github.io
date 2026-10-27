@@ -1,0 +1,9 @@
+Project Aperials v3 functional reference update
+- Uses the original v3 Aperial Table 0-10079 costumes as navigable pages.
+- Number lookup 0-10079 follows the Scratch project's Find rule: page costume = floor(number / 100) + 1.
+- Previous/Next 100 navigation added.
+- Displays exact page range and position within the page.
+- Keeps the full 37-target / 369-asset reference browser for other v3 material.
+- PNG references are previewable as well as SVG references.
+- v3 source/reference material remains separate from generated builder drafts.
+- Unconfirmed v3 material remains labelled by its original target name/status.
