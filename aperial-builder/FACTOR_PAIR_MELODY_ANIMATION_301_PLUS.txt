@@ -1,0 +1,18 @@
+Aperialblocks Band Builder — 301+ real-source factor references
+
+REAL SOURCE WORKFLOW — NO AI RECREATION
+
+For a composite Aperial N = A × B:
+- Select the intended factor pair.
+- Inspect the real supplied source character for factor A.
+- Inspect the real supplied source character for factor B.
+- Use their existing costumes, scripts, block motion, face motion, arm/leg motion and sounds as references.
+- Do NOT invent, redraw, synthesize or AI-generate missing faces, limbs, bodies, animations, melodies or sounds.
+- If either source is missing, mark that reference missing/unverified.
+- Supplied/official material always has priority.
+- Factor pairs do not automatically determine body shape.
+
+Example:
+360 = 18 × 20
+Use the real supplied 18 and 20 animation/sound references.
+Do not create replacement source material when either reference is unavailable.

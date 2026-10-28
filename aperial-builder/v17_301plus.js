@@ -18,3 +18,102 @@ window.AperialV17Builder={load301Plus,applyDonor,get data(){return service.data}
 const restorePlan=$('restore').onchange;$('restore').onchange=async function(e){await restorePlan.call(this,e);try{const n=current?.v17Reference;if(n){await service.loadWorkshop();const r=service.data.records.find(r=>r.category==='V17'&&r.number===n);if(r){service.registerReference(r);service.clearWorkshopCaches();choose(current)}}}catch(err){$('v17Status').textContent='Saved V17 donor could not be restored: '+err.message}};
 window.AperialBuilder={...window.AperialBuilder,draft,choose,eventTimes,asset,get refs(){return refs},get current(){return current},get items(){return items}};
 })();
+
+/* REAL_SOURCE_FACTOR_PAIR_301_PLUS — source-only; never generates missing assets. */
+(function(){
+"use strict";
+const preferred=Object.freeze({360:[18,20]});
+function pairs(n){n=Number(n);const r=[];for(let a=2;a*a<=n;a++)if(n%a===0)r.push([a,n/a]);return r;}
+function choose(n){n=Number(n);if(preferred[n])return preferred[n].slice();const p=pairs(n);return p.length?p[p.length-1].slice():null;}
+function source(n){
+ const banks=[window.APERIAL_SOURCE_REFERENCES,window.APERIAL_SOURCE_BANK,window.APERIAL_ASSETS,
+ window.ULTIMATE_ASSETS,window.SOURCE_REFERENCES,window.sourceReferences,window.sourceBank,window.aperialAssets];
+ for(const b of banks){if(b && Object.prototype.hasOwnProperty.call(b,n))return b[n];
+ if(b && Object.prototype.hasOwnProperty.call(b,String(n)))return b[String(n)];}
+ return null;
+}
+function resolve(n,pair){
+ n=Number(n); const p=Array.isArray(pair)?pair.map(Number):choose(n);
+ if(n<301||!p||p.length!==2||p[0]*p[1]!==n)return {number:n,valid:false,pair:p||null,sources:[]};
+ const A=source(p[0]),B=source(p[1]);
+ return {number:n,valid:true,pair:p,sources:[
+ {number:p[0],source:A,status:A?"supplied":"missing/unverified"},
+ {number:p[1],source:B,status:B?"supplied":"missing/unverified"}],
+ canUseBoth:!!(A&&B),policy:"real supplied sources only; never synthesize missing material"};
+}
+window.AperialRealSourceFactorPair=Object.freeze({pairs:pairs,choose:choose,source:source,resolve:resolve,preferred:preferred});
+document.addEventListener("aperial-factor-pair-selected",e=>{
+ const d=e.detail||{}; document.dispatchEvent(new CustomEvent("aperial-real-source-factor-references",{detail:resolve(d.number,d.pair)}));
+});
+})();
+
+/* REAL_SOURCE_FACTOR_LIMB_REFERENCES_301_PLUS
+   Reads limb references/motion only from supplied factor sources.
+   Missing limbs remain missing/unverified. Nothing is synthesized.
+*/
+(function(){
+"use strict";
+
+function first(obj, keys){
+  if(!obj) return null;
+  for(const k of keys){
+    if(obj[k] !== undefined && obj[k] !== null) return obj[k];
+  }
+  return null;
+}
+
+function limbBundle(source){
+  if(!source) return null;
+  const limbs = source.limbs || source.limbAssets || source.parts || source.costumeParts || source;
+  const motion = source.limbMotion || source.motion || source.animation || source.animations || source.scripts || null;
+  return {
+    leftArm:first(limbs,["leftArm","left_arm","leftArmSVG","armLeft"]),
+    rightArm:first(limbs,["rightArm","right_arm","rightArmSVG","armRight"]),
+    leftLeg:first(limbs,["leftLeg","left_leg","leftLegSVG","legLeft"]),
+    rightLeg:first(limbs,["rightLeg","right_leg","rightLegSVG","legRight"]),
+    motion:motion
+  };
+}
+
+function status(v){ return v === null || v === undefined ? "missing/unverified" : "supplied"; }
+
+function resolveFactorLimbs(result){
+  if(!result || !result.valid || !result.sources || result.sources.length!==2){
+    return {valid:false, sources:[]};
+  }
+  return {
+    valid:true,
+    number:result.number,
+    pair:result.pair.slice(),
+    sources:result.sources.map(function(entry){
+      const b=limbBundle(entry.source);
+      return {
+        number:entry.number,
+        leftArm:b && b.leftArm,
+        rightArm:b && b.rightArm,
+        leftLeg:b && b.leftLeg,
+        rightLeg:b && b.rightLeg,
+        motion:b && b.motion,
+        status:{
+          leftArm:status(b && b.leftArm),
+          rightArm:status(b && b.rightArm),
+          leftLeg:status(b && b.leftLeg),
+          rightLeg:status(b && b.rightLeg),
+          motion:status(b && b.motion)
+        }
+      };
+    }),
+    policy:"real supplied factor limb assets and motion references only; never generate replacements"
+  };
+}
+
+window.AperialRealSourceFactorLimbs=Object.freeze({
+  limbBundle:limbBundle,
+  resolve:resolveFactorLimbs
+});
+
+document.addEventListener("aperial-real-source-factor-references",function(e){
+  const resolved=resolveFactorLimbs(e.detail);
+  document.dispatchEvent(new CustomEvent("aperial-real-source-factor-limbs",{detail:resolved}));
+});
+})();
