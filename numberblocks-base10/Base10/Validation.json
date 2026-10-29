@@ -1,0 +1,27 @@
+{
+  "range": [
+    0,
+    1000000000000
+  ],
+  "base": 10,
+  "source": "User uploaded older builder",
+  "source_artwork_byte_identical": true,
+  "tested": [
+    0,
+    5100,
+    5101,
+    5102,
+    10000,
+    1000000,
+    1000000000,
+    1000000000000
+  ],
+  "checks": [
+    "Exact factors and region counts",
+    "Same-page input and rendering",
+    "Real SVG/Scratch ZIP exports and MD5 asset hashes",
+    "Square/cube/cuboid volume checks",
+    "No base selector"
+  ],
+  "native_browser_playback_verified": false
+}

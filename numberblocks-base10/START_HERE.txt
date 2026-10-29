@@ -1,0 +1,9 @@
+BASE-10 BUILDER · 0 TO ONE TRILLION
+
+Extract the entire ZIP into a folder and open index.html.
+This update starts from your supplied older builder. It keeps its original source artwork, asset sheets and appearance. It removes the 5100 input ceiling and supports 0 through 1000000000000 on the same page.
+
+Only base10 is exposed. No other base selector or Aperial digit bank is included.
+Rectangle and square bodies retain exact place-value regions inside the body. Large bodies use compressed region geometry rather than trillions of SVG cell elements. Cube and cuboid volume previews are also available. Rectangles use closest exact factors, with manual factor selection.
+
+Source costumes remain static and unchanged. Generated drafts are not official designs. Native browser/Scratch playback has not been tested.
