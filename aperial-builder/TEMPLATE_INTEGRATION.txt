@@ -1,0 +1,3 @@
+Uploaded numberling templates are integrated into generated prime symbols. Three selectable styles retain exact source paths: uppercase, lowercase, combined. All 35 cells per style are preserved (26 alphabetic and 9 extended shapes). The current 650 prime records use A-Z; all 1300 colour assignments match the labelled vector palette. The 1225 raster colour combinations have different RGB values and are retained separately. They do not establish prime letter pairs.
+
+Exact supplied numeral SVGs 0-539 and complete character costumes take priority. Symbols beyond the source bank remain clearly labelled generated drafts. Factor compositions also remain drafts. No new sound or animation rules are inferred.

@@ -1,0 +1,295 @@
+{
+  "source_names": [
+    "Aperial templates part 1 aperial colors.sb3",
+    "Aperial templates part 2 Aperial Numberlings (final part).sb3"
+  ],
+  "numeric_palette": {
+    "1": "#f31119",
+    "2": "#f7ac32",
+    "3": "#fffe2f",
+    "4": "#5dee27",
+    "5": "#1af7ff",
+    "6": "#723bc2",
+    "7": "#c467dc",
+    "8": "#ff3cd8",
+    "9": "#9f9f9f",
+    "10": "#a86118",
+    "11": "#fd82ff",
+    "12": "#4aa7e0",
+    "13": "#ffd988",
+    "14": "#12a325",
+    "15": "#2159f2",
+    "16": "#d28fff",
+    "17": "#fa9a91",
+    "18": "#a50f0f",
+    "19": "#dddddd",
+    "20": "#8b8c08",
+    "21": "#b2fa0a",
+    "22": "#f72a6e",
+    "23": "#fad42a",
+    "24": "#85e678",
+    "25": "#008b8b",
+    "26": "#5e007e",
+    "27": "#f1ee97",
+    "28": "#91e6e6",
+    "29": "#4a4b4d",
+    "30": "#00ff90",
+    "31": "#ad008f",
+    "32": "#9c94ff",
+    "33": "#821af9",
+    "34": "#f85b0c",
+    "35": "#000e7b",
+    "37": "#5f8fb9",
+    "41": "#857044",
+    "43": "#478441",
+    "47": "#445587",
+    "67": "#aa7d66",
+    "53": "#9c68aa",
+    "61": "#834746",
+    "59": "#c1a3a0",
+    "71": "#8f8c53",
+    "73": "#94aa69",
+    "79": "#ad6894",
+    "83": "#aa9d66",
+    "89": "#a3c4a6",
+    "97": "#4c6f70",
+    "101": "#644683",
+    "103": "#c2c1a1",
+    "107": "#9197ac",
+    "109": "#8267a8",
+    "113": "#68ab84",
+    "127": "#834682"
+  },
+  "letter_palette_A_Z": {
+    "A": "#a86118",
+    "B": "#fd82ff",
+    "C": "#4aa7e0",
+    "D": "#ffd988",
+    "E": "#12a325",
+    "F": "#2159f2",
+    "G": "#d28fff",
+    "H": "#fa9a91",
+    "I": "#a50f0f",
+    "J": "#dddddd",
+    "K": "#8b8c08",
+    "L": "#b2fa0a",
+    "M": "#f72a6e",
+    "N": "#fad42a",
+    "O": "#85e678",
+    "P": "#008b8b",
+    "Q": "#5e007e",
+    "R": "#f1ee97",
+    "S": "#91e6e6",
+    "T": "#4a4b4d",
+    "U": "#00ff90",
+    "V": "#ad008f",
+    "W": "#9c94ff",
+    "X": "#821af9",
+    "Y": "#f85b0c",
+    "Z": "#000e7b"
+  },
+  "prime_records_checked": 650,
+  "prime_colour_slots_checked": 1300,
+  "prime_colour_mismatches": [],
+  "colour_grid": {
+    "tiles": 1225,
+    "rows": 35,
+    "columns": 35,
+    "all_named_positions_present": true,
+    "off_diagonal_combinations_verified": 1190,
+    "diagonal_shades": 35,
+    "vector_vs_raster_palette_differences": [
+      {
+        "number": 1,
+        "labelled_vector": "#f31119",
+        "raster_grid": "#ed1c24"
+      },
+      {
+        "number": 2,
+        "labelled_vector": "#f7ac32",
+        "raster_grid": "#ff7f09"
+      },
+      {
+        "number": 3,
+        "labelled_vector": "#fffe2f",
+        "raster_grid": "#fff200"
+      },
+      {
+        "number": 4,
+        "labelled_vector": "#5dee27",
+        "raster_grid": "#07e012"
+      },
+      {
+        "number": 5,
+        "labelled_vector": "#1af7ff",
+        "raster_grid": "#00d4e8"
+      },
+      {
+        "number": 6,
+        "labelled_vector": "#723bc2",
+        "raster_grid": "#910cfe"
+      },
+      {
+        "number": 7,
+        "labelled_vector": "#c467dc",
+        "raster_grid": "#c13ffe"
+      },
+      {
+        "number": 8,
+        "labelled_vector": "#ff3cd8",
+        "raster_grid": "#ff0bd5"
+      },
+      {
+        "number": 9,
+        "labelled_vector": "#9f9f9f",
+        "raster_grid": "#a1a1a1"
+      },
+      {
+        "number": 10,
+        "labelled_vector": "#a86118",
+        "raster_grid": "#914b00"
+      },
+      {
+        "number": 11,
+        "labelled_vector": "#fd82ff",
+        "raster_grid": "#ff60eb"
+      },
+      {
+        "number": 12,
+        "labelled_vector": "#4aa7e0",
+        "raster_grid": "#458ae9"
+      },
+      {
+        "number": 13,
+        "labelled_vector": "#ffd988",
+        "raster_grid": "#feca69"
+      },
+      {
+        "number": 14,
+        "labelled_vector": "#12a325",
+        "raster_grid": "#0fae17"
+      },
+      {
+        "number": 15,
+        "labelled_vector": "#2159f2",
+        "raster_grid": "#0d55ea"
+      },
+      {
+        "number": 16,
+        "labelled_vector": "#d28fff",
+        "raster_grid": "#d172f5"
+      },
+      {
+        "number": 17,
+        "labelled_vector": "#fa9a91",
+        "raster_grid": "#ff5b57"
+      },
+      {
+        "number": 18,
+        "labelled_vector": "#a50f0f",
+        "raster_grid": "#b30000"
+      },
+      {
+        "number": 19,
+        "labelled_vector": "#dddddd",
+        "raster_grid": "#cecece"
+      },
+      {
+        "number": 20,
+        "labelled_vector": "#8b8c08",
+        "raster_grid": "#9b9400"
+      },
+      {
+        "number": 21,
+        "labelled_vector": "#b2fa0a",
+        "raster_grid": "#aafb02"
+      },
+      {
+        "number": 22,
+        "labelled_vector": "#f72a6e",
+        "raster_grid": "#fb0f6d"
+      },
+      {
+        "number": 23,
+        "labelled_vector": "#fad42a",
+        "raster_grid": "#ffc90e"
+      },
+      {
+        "number": 24,
+        "labelled_vector": "#85e678",
+        "raster_grid": "#74fc77"
+      },
+      {
+        "number": 25,
+        "labelled_vector": "#008b8b",
+        "raster_grid": "#159184"
+      },
+      {
+        "number": 26,
+        "labelled_vector": "#5e007e",
+        "raster_grid": "#75099d"
+      },
+      {
+        "number": 27,
+        "labelled_vector": "#f1ee97",
+        "raster_grid": "#fff87a"
+      },
+      {
+        "number": 28,
+        "labelled_vector": "#91e6e6",
+        "raster_grid": "#75f5f9"
+      },
+      {
+        "number": 29,
+        "labelled_vector": "#4a4b4d",
+        "raster_grid": "#545454"
+      },
+      {
+        "number": 30,
+        "labelled_vector": "#00ff90",
+        "raster_grid": "#04f991"
+      },
+      {
+        "number": 31,
+        "labelled_vector": "#ad008f",
+        "raster_grid": "#ad07ad"
+      },
+      {
+        "number": 32,
+        "labelled_vector": "#9c94ff",
+        "raster_grid": "#9292fe"
+      },
+      {
+        "number": 33,
+        "labelled_vector": "#821af9",
+        "raster_grid": "#620df0"
+      },
+      {
+        "number": 34,
+        "labelled_vector": "#f85b0c",
+        "raster_grid": "#fb540d"
+      },
+      {
+        "number": 35,
+        "labelled_vector": "#000e7b",
+        "raster_grid": "#0e01a7"
+      }
+    ]
+  },
+  "limitations": [
+    "Neither template contains Scratch scripts or number/name lists assigning the 1225 tiles to primes.",
+    "Prime letter pairs in builder were used for colour comparison; templates alone do not establish which pair belongs to each prime."
+  ],
+  "integration": {
+    "status": "integrated",
+    "styles": [
+      "uppercase",
+      "lowercase",
+      "combined"
+    ],
+    "glyphs_per_style": 35,
+    "svg_compositions_tested": 1950,
+    "supplied_symbol_priority_preserved": true,
+    "native_browser_and_scratch_playback_tested": false
+  }
+}

@@ -1,0 +1,11 @@
+Open index.html with all folders kept together.
+
+The symbol workshop imports exactly 540 supplied symbols (0–539) and 539 names from Official aperial numbers(2).sb3. Number 0 has no Names-list entry; its zero label is descriptive. The source SVG paths, ink colours and transforms are retained. Symbol 200 includes both source paths. Lighter symbols may be unconfirmed: source provenance is not a claim of confirmation.
+
+Numbers outside the supplied bank can use existing prime drafts, or a labelled draft composition of two supplied factors. No generated composition is claimed official. Unsupported compositions show a missing-reference message. SVG and JSON download buttons are included. Applying a symbol to the current generated numberling is opt-in. Complete supplied characters, faces, limbs, costumes, colour banks, sounds and animation references are preserved.
+
+Original SB3 and individual 0–539 SVGs are in Official_Aperial_Symbols. This is a symbol update, not completion of every character or sound through 5100.
+
+Two additionally uploaded template projects are included unchanged in Uploaded_Aperial_Templates. The reference browser shows the colour palette, all 1225 named prime colour tiles, three letter-numberling sheets, and the aperialSymbols sheet. Row/column tile names are preserved without inventing numerical assignments.
+
+Validation: all 540 SVGs parse, source Names and paths checked, module syntax and generator tests passed, ZIP integrity checked. Native Scratch playback and complete browser interaction have not been tested.
