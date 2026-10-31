@@ -23,5 +23,34 @@
     "Square/cube/cuboid volume checks",
     "No base selector"
   ],
-  "native_browser_playback_verified": false
+  "native_browser_playback_verified": false,
+  "scaleGroupingUpdate": {
+    "range": [
+      10000,
+      1000000000000
+    ],
+    "majorUnitRule": "1000 powers, at most1000major groups; recursive exact remainder",
+    "verified": "991thousand-step models, selected remainders/nonoverlap;7scale exports with33costumes,asset hashes,6.4s",
+    "visualReview": [
+      10000,
+      100000,
+      1000000
+    ],
+    "nativeBrowserOrScratchPlayback": false
+  },
+  "rectangleDefaultUpdate": {
+    "defaultShape": "rectangle",
+    "range": [
+      10000,
+      1000000000000
+    ],
+    "verified": "flat integer regions and exact counts on representative powers/remainders; actual Scratch exports at7scales with33costumes and6.4s",
+    "nativePlaybackTested": false
+  },
+  "visibleSquareCells": {
+    "checkerCells": "square",
+    "innerGridCells": "square",
+    "test": "pattern widths=heights and unit pitches equal across8large scales; actual Scratch exports at7scales pass",
+    "nativePlayback": false
+  }
 }

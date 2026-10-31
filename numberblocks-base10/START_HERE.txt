@@ -7,3 +7,28 @@ Only base10 is exposed. No other base selector or Aperial digit bank is included
 Rectangle and square bodies retain exact place-value regions inside the body. Large bodies use compressed region geometry rather than trillions of SVG cell elements. Cube and cuboid volume previews are also available. Rectangles use closest exact factors, with manual factor selection.
 
 Source costumes remain static and unchanged. Generated drafts are not official designs. Native browser/Scratch playback has not been tested.
+
+RAINBOW DIRECTION FIX
+Based on the uploaded Numberblocks_Base10_0_to_1_Trillion(1).zip. Generated Seven now follows the reference: violet, indigo, cyan, green, yellow, orange, red from top to bottom. The same group sequence applies to generated digit7place-value groups (17,70,700,7000,etc.) in cell and compressed renderers.
+This changes colour order, not the orientation of the character, face, limbs, numberling or SVG canvas. Supplied source costumes are unchanged.
+The large-number grouping is corrected by the update below.
+
+LARGE REFERENCE GROUPING UPDATE
+Automatic/rectangle mode with Automatic columns now uses grouped bodies from10000 through1000000000000. Select an explicit factor to retain a flat rectangle, or choose Reference grouping explicitly.
+10000:1×10×1 thousand-block cubes =10×100×10unit cubes, white front and red sides/borders.
+100000:10×10×1 thousand-block cubes =100×100×10unit cubes, alternating red thousand-group tones.
+1000000:10×10×10 thousand-block cubes =100×100×100unit cubes, solid red with thousand-group and finer surface grids.
+Other values in this range are counted as full1000-block cubes plus the exact remainder of unit cubes. Partial depth layers contain only the actual groups; empty capacity is not counted.
+Visible surfaces show a nested unit grid. Hidden cubes are included in exact count metadata. These are reference-inspired generated bodies with no new face/limbs/audio. Supplied source artwork stays unchanged.
+Counting previews and Scratch exports retain6.4-second sampled progress; partial thousand groups use proportional glow, not individually visible hidden-unit animation. Native Scratch/browser playback remains unverified.
+
+EXTENDED SCALE RULE
+10000000 uses10million-block cubes (100×1000×100unit dimensions).100000000 uses10×10million-block cubes (1000×1000×100).1000000000 uses10×10×10million-block cubes (1000³). The same rule repeats with billion-block cubes through1000000000000 (10000³).
+Remainders are recursively decomposed into smaller1000-power cubes and unit cubes; every represented value is included exactly. Subpixel unit lines are omitted for legibility, with coarser nested group boundaries retained. Exact dimensions/counts remain in SVG metadata.
+
+RECTANGLE DEFAULT CORRECTION
+Rectangle mode now always stays flat, including10000and above. It uses an exact factor pair; manual factor choices remain available. Grouping colours and borders are laid inside the rectangle. Reference grouping, cubes and cuboids are optional3Dchoices and are never selected merely because the number is large.
+Examples:10000=100×100;100000=250×400;1000000=1000×1000. Larger values continue through1trillion. Small detail is omitted only when subpixel. Group regions and unit totals remain exact.
+
+VISIBLE SQUARE CELL CORRECTION
+Large flat rectangles now use square checkerboard cells and square inner-grid cells. Equal horizontal and vertical unit pitch is preserved. At reduced scale, a visible square can represent100,10000,1000000or another square power-of-ten count; it is not necessarily a single unit. Rectangular outer outlines still identify place-value groups. Patterns are clipped to exact-count region boundaries.

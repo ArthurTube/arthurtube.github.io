@@ -1,5 +1,5 @@
 (function(root){'use strict';
-const colours=['#ffffff','#e41a20','#f29621','#fffe2f','#5dee27','#1af7ff','#723bc2','#9b48d0','#ff3cd8','#aaaaaa'],rainbow=['#ff1b1c','#f7ac32','#fffe2f','#5dee27','#1af7ff','#723bc2','#9b48d0'],grey=['#919191','#aaaaaa','#d1d1d1'];
+const colours=['#ffffff','#e41a20','#f29621','#fffe2f','#5dee27','#1af7ff','#723bc2','#9b48d0','#ff3cd8','#aaaaaa'],rainbow=['#9b48d0','#723bc2','#1af7ff','#5dee27','#fffe2f','#f7ac32','#ff1b1c'],grey=['#919191','#aaaaaa','#d1d1d1'];
 function check(n){if(!Number.isInteger(n)||n<0||n>1000000000000)throw Error('Use a whole number from 0 to 1000000000000 (one trillion).');return n}
 const pairCache=new Map();function pairs(n){check(n);if(pairCache.has(n))return pairCache.get(n);const a=[];for(let k=1;k*k<=n;k++)if(n%k===0)a.push([k,n/k]);if(pairCache.size>16)pairCache.clear();pairCache.set(n,a);return a}
 function autoColumns(n){check(n);return n?pairs(n).at(-1)[0]:1}
