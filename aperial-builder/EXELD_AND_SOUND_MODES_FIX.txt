@@ -1,0 +1,5 @@
+1296 is Exeld, not Exundund. Explicit user correction has priority over the old workbook name. Display also identifies 6^4 and keeps closest factors 36 × 36. The raw name table and source-aware name checker are both updated. The power-name calculator uses supplied prefix/suffix forms, keeps existing supplied names first, and labels newly constructed names as proposals. Unknown suffixes remain unresolved.
+
+The sound generator now has Source pitches, Major, and Minor choices. Source mode retains all notes. Major/Minor modes explicitly convert base note pitches to nearest scale tones in the retained source key; expressive bends are retained, so bends and instrument pitch-shifts can still depart from the displayed scale. Source rhythms, instrument settings and detune are retained. Converted arrangements are drafts, not official sounds. Three-loop peak checking still runs after encoding, with the main player-volume setting unchanged.
+
+1296 Major and Minor links are included in 1296_Exeld_Major_Minor_Links.html. Both loops are 6.4 seconds and passed full-volume peak checks, metadata/key/tempo and instrument checks. No animation or listening verification is claimed.

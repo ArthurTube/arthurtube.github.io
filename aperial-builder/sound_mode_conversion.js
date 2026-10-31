@@ -1,0 +1,6 @@
+/* Explicit creative mode conversion: source-pitch mode never changes notes. */
+(function(root){'use strict';function convert(json,mode='source'){if(!['source','major','minor'].includes(mode))throw Error('Unknown sound mode.');const result=JSON.parse(JSON.stringify(json));if(mode==='source')return{json:result,changedNotes:0,mode};const scale=mode==='major'?[0,2,4,5,7,9,11]:[0,2,3,5,7,8,10];let changedNotes=0;function snap(p){let best=p,distance=Infinity;for(let q=Math.max(0,p-2);q<=Math.min(95,p+2);q++)if(scale.includes((q%12+12)%12)&&Math.abs(q-p)<distance){best=q;distance=Math.abs(q-p);}return best;}
+for(const c of result.channels)if(c.type==='pitch')for(const pat of c.patterns)for(const n of pat.notes||[]){n.pitches=[...new Set(n.pitches.map(p=>{const q=snap(p);if(q!==p)changedNotes++;return q;}))];}
+result.scale=mode==='major'?'Major':'Minor';result.name+=' - '+mode+' conversion';return{json:result,changedNotes,mode,note:'Explicit '+mode+' conversion: base notes snapped to the nearest scale tone; original key, timing, instruments, detune and expressive bends retained. This is a new arrangement draft, not the original reference sound.'};}
+root.AperialSoundMode={convert};if(typeof module!=='undefined')module.exports=root.AperialSoundMode;
+})(globalThis);

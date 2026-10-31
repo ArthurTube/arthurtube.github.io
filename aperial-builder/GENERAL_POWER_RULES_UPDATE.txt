@@ -1,0 +1,9 @@
+GENERAL POWER-NAME NORMALIZATION
+
+The rule is no longer a one-number Exeld override. Every number 0–5100 is scanned; all 82 power values from 36 to 5100 are audited. Supplied Names-list entries and explicit user corrections take priority. Existing flat power names matching a valid decomposition are retained, including Ninard and Pentund. Nested or unmatched names receive a flattened power-name proposal with explicit non-official status. Example proposals: 2048 Diberd, 2187 Trisevld, 2401 Seveld, 3125 Kilahkard.
+
+The power-name calculator now honours the requested base/exponent, instead of always returning an old workbook name. For example, 5^4 produces Kield as a proposal and lists Pentund as the existing range name. Supplied names still override conflicting proposals. Undefined suffixes are not invented.
+
+Review POWER_NAME_REVIEW.html or the JSON/CSV audit. This is implementation and arithmetic validation, not confirmation that every proposal is an official spelling.
+
+Existing Major/Minor sound conversion, full-volume peak checking, original assets and supplied references are retained. No new listening or animation verification is claimed.

@@ -1,0 +1,33 @@
+{
+  "results": [
+    "Name check: 1296 Exeld",
+    "Power calculator: 5^4 Kield proposal",
+    {
+      "number": 24,
+      "visualFrameChanges": true,
+      "clock": "0.28 s",
+      "sequenceLength": 12,
+      "uniqueCostumes": 12
+    },
+    {
+      "number": 319,
+      "visualFrameChanges": true,
+      "clock": "0.24 s",
+      "sequenceLength": 24,
+      "uniqueCostumes": 8
+    },
+    "Source sprite export downloaded: Aperial_24.sprite3",
+    "1395 missing factor 31 correctly blocks incomplete generation",
+    {
+      "mode": "major",
+      "status": "Generated major draft · 6.40 seconds. Original factor notes, rhythms and instruments retained; factor B pitches rebased to preserve concert pitch. Global mixer settings follow factor A. Combined arrangement requires listening review. Explicit major conversion: base notes snapped to the nearest scale tone; original key, timing, instruments, detune and expressive bends retained. This is a new arrangement draft, not the original reference sound. Output gain adjusted only when needed; three-loop peak check passed at player volume 100%. Peak: -5.11 dBFS.",
+      "urlLength": 1798
+    },
+    {
+      "mode": "minor",
+      "status": "Generated minor draft · 6.40 seconds. Original factor notes, rhythms and instruments retained; factor B pitches rebased to preserve concert pitch. Global mixer settings follow factor A. Combined arrangement requires listening review. Explicit minor conversion: base notes snapped to the nearest scale tone; original key, timing, instruments, detune and expressive bends retained. This is a new arrangement draft, not the original reference sound. Output gain adjusted only when needed; three-loop peak check passed at player volume 100%. Peak: -4.13 dBFS.",
+      "urlLength": 1798
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,7 @@
+CLIPPING CORRECTION
+
+Generated source combinations now undergo an offline peak check after URL encode/decode, at player volume 1.0 (100%), for three full loops. Song output gain is adjusted only when needed, then rechecked. The main player slider, notes, instruments, detune, keys, tempo and rhythm are not edited by this correction.
+
+2088: passed with peak -1.86 dBFS, after output gain adjustment from 1.0 to 0.78. No samples exceeded full scale in the passing three-loop render. All musical/channel data were compared with the pre-fix encoded song and matched.
+
+Limits: loops longer than 60 seconds require manual mix review. Peak tests depend on the tested synthesizer/sample rate and do not prove every future noisy/random playback is identical. Existing sound source and active-modulation guards still apply. This is not a listening review and does not verify animations.

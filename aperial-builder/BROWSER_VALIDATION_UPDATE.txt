@@ -1,0 +1,9 @@
+BROWSER AND SOURCE CHECKS
+
+Tested the extracted local index.html in headless Chromium 150. The page loaded its reference bank and sound encoder with no JavaScript page errors. Tested name checker 1296 Exeld, power calculator 5^4 Kield proposal, live source preview for 24 and 319, source sprite export, missing factor 31 guard for 1395, and real browser generation of 1296 Major and Minor sound links. Both generated links passed the three-loop peak check at 100% player volume.
+
+FIX: The old costume timeline reader showed 319 as one static pose because it could not evaluate timer-based costume reporters. The new reader follows source timer/variable arithmetic without editing the sprite or its artwork. The 319 preview now has 24 steps, 8 source costumes and a 0.72-second cycle. The other 316 bank timelines were regression-checked and unchanged. This checks costume changes; it does not establish complete native Scratch motion/effect emulation.
+
+Source bank validation: 317 base references; all 2758 costumes present and SVGs parse; all 330 unique OGG audio assets decoded with FFmpeg. Browser-installed references can differ in count because supplemental modules add exact references. Source sprite 24 exported with 13 costumes, 2 sounds and 39 blocks; ZIP integrity, asset and next/parent block references passed.
+
+Still unverified: native Scratch/PenguinMod playback, perceptual listening quality, every generated composite animation, official spelling of generated name proposals, and complete synchronization across every source script. This is a checked builder update, not a claim that all generated content is canon or finished.

@@ -1,0 +1,9 @@
+SOURCE-BASED SOUND LINK GENERATION
+
+Open index.html after extracting every file. Find “Generate an editable sound link from factor references”. Enter a number, review its canonical factor pair and original links, then generate. Copy the resulting URL or download editable JSON.
+
+2088 = 36 × 58: both source songs are available and a generated source-layer draft can be encoded. 1395 = 31 × 45: 31 has source audio but no embedded editor link. Paste an approved editable 31 source link to enable the complete combination. Missing sources are never silently replaced with invented melodies.
+
+The generator retains patterns/instruments, rebases note numbers to retain concert pitches across different keys, loops factors to a common complete length and uses the first factor’s global mixer settings. This is a layer combination for review, not a claim to an official arrangement or final mix. Conflicting tempo/meter, active modulation and unsupported pitch ranges block generation. Original individual links remain available for comparison.
+
+The vendor encoding engine is from https://jukeebox.github.io/beepbox_editor.min.js, with editor startup removed and engine exports retained; its original MIT notice is retained. It runs in a hidden separate document to isolate editor CSS.

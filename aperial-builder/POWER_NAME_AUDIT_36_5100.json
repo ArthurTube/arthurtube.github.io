@@ -1,0 +1,1450 @@
+{
+  "range": [
+    0,
+    5100
+  ],
+  "powerNumbersAudited": 82,
+  "rule": "Supplied names first; retain valid flat names; normalize nested/unmatched names to explicit proposals.",
+  "records": [
+    {
+      "number": 36,
+      "name": "exund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 6,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Exund"
+    },
+    {
+      "number": 49,
+      "name": "sevund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 7,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Sevund"
+    },
+    {
+      "number": 64,
+      "name": "otund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 6
+        },
+        {
+          "base": 4,
+          "exponent": 3
+        },
+        {
+          "base": 8,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Otund"
+    },
+    {
+      "number": 81,
+      "name": "ninund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 3,
+          "exponent": 4
+        },
+        {
+          "base": 9,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Ninund"
+    },
+    {
+      "number": 100,
+      "name": "abund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 10,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Abund"
+    },
+    {
+      "number": 121,
+      "name": "blevund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 11,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Blevund"
+    },
+    {
+      "number": 125,
+      "name": "kinard",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 5,
+          "exponent": 3
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Kipent"
+    },
+    {
+      "number": 128,
+      "name": "otigoln",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 7
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Otigoln"
+    },
+    {
+      "number": 144,
+      "name": "cadund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 12,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Cadund"
+    },
+    {
+      "number": 169,
+      "name": "deckund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 13,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Deckund"
+    },
+    {
+      "number": 196,
+      "name": "eilund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 14,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Eilund"
+    },
+    {
+      "number": 216,
+      "name": "exard",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 6,
+          "exponent": 3
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Exard"
+    },
+    {
+      "number": 225,
+      "name": "flenund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 15,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Pentund"
+    },
+    {
+      "number": 243,
+      "name": "nirode",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 3,
+          "exponent": 5
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Nirode"
+    },
+    {
+      "number": 256,
+      "name": "golnund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 8
+        },
+        {
+          "base": 4,
+          "exponent": 4
+        },
+        {
+          "base": 16,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Golnund"
+    },
+    {
+      "number": 289,
+      "name": "hevund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 17,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Heffund"
+    },
+    {
+      "number": 324,
+      "name": "ideund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 18,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Ideund"
+    },
+    {
+      "number": 343,
+      "name": "sevard",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 7,
+          "exponent": 3
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Sevard"
+    },
+    {
+      "number": 361,
+      "name": "jullund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 19,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Jullund"
+    },
+    {
+      "number": 400,
+      "name": "kwenund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 20,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Kwenard"
+    },
+    {
+      "number": 441,
+      "name": "lenund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 21,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Lenund"
+    },
+    {
+      "number": 484,
+      "name": "monzund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 22,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Monzund"
+    },
+    {
+      "number": 512,
+      "name": "otard",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 9
+        },
+        {
+          "base": 8,
+          "exponent": 3
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Otard"
+    },
+    {
+      "number": 529,
+      "name": "neemund",
+      "status": "supplied-name",
+      "source": "Uploaded Official aperial numbers(2).sb3 · Names list",
+      "powers": [
+        {
+          "base": 23,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Neemund"
+    },
+    {
+      "number": 576,
+      "name": "Oureund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 24,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 24,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Oureund"
+    },
+    {
+      "number": 625,
+      "name": "Pentund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 5,
+          "exponent": 4
+        },
+        {
+          "base": 25,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 25,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Pentund"
+    },
+    {
+      "number": 676,
+      "name": "Quoleund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 26,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 26,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Quoleund"
+    },
+    {
+      "number": 729,
+      "name": "Ninard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 3,
+          "exponent": 6
+        },
+        {
+          "base": 9,
+          "exponent": 3
+        },
+        {
+          "base": 27,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 9,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Ninard"
+    },
+    {
+      "number": 784,
+      "name": "Sanund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 28,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 28,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Sanund"
+    },
+    {
+      "number": 841,
+      "name": "Toffund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 29,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 29,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Toffund"
+    },
+    {
+      "number": 900,
+      "name": "Unbeund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 30,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 30,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Unbeund"
+    },
+    {
+      "number": 961,
+      "name": "Villund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 31,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 31,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Villund"
+    },
+    {
+      "number": 1000,
+      "name": "Abard",
+      "status": "supplied-text-name",
+      "source": "User-supplied List of numbers text; matched by arithmetic, not line position",
+      "powers": [
+        {
+          "base": 10,
+          "exponent": 3
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Abard"
+    },
+    {
+      "number": 1024,
+      "name": "Wateund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 10
+        },
+        {
+          "base": 4,
+          "exponent": 5
+        },
+        {
+          "base": 32,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 32,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Wateund"
+    },
+    {
+      "number": 1089,
+      "name": "Xengund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 33,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 33,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Xengund"
+    },
+    {
+      "number": 1156,
+      "name": "Yireund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 34,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 34,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Yireund"
+    },
+    {
+      "number": 1225,
+      "name": "Zarund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 35,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 35,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Zarund"
+    },
+    {
+      "number": 1296,
+      "name": "Exeld",
+      "status": "user-corrected-name",
+      "source": "Explicit user correction: 1296 = 6^4; ex- + -eld",
+      "powers": [
+        {
+          "base": 6,
+          "exponent": 4
+        },
+        {
+          "base": 36,
+          "exponent": 2
+        }
+      ],
+      "action": "preserved-supplied-name",
+      "previousName": "Exeld"
+    },
+    {
+      "number": 1331,
+      "name": "Blevard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 11,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 11,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Blevard"
+    },
+    {
+      "number": 1369,
+      "name": "Agenund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 37,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 37,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Agenund"
+    },
+    {
+      "number": 1444,
+      "name": "Dullund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 38,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 38,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Dullund"
+    },
+    {
+      "number": 1521,
+      "name": "Treckund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 39,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 39,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Treckund"
+    },
+    {
+      "number": 1600,
+      "name": "Kinotund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 40,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 40,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Kinotund"
+    },
+    {
+      "number": 1681,
+      "name": "Blumeund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 41,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 41,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Blumeund"
+    },
+    {
+      "number": 1728,
+      "name": "Cadard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 12,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 12,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Cadard"
+    },
+    {
+      "number": 1764,
+      "name": "Exsevund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 42,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 42,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Exsevund"
+    },
+    {
+      "number": 1849,
+      "name": "Cillund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 43,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 43,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Cillund"
+    },
+    {
+      "number": 1936,
+      "name": "Cablevund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 44,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 44,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Cablevund"
+    },
+    {
+      "number": 2025,
+      "name": "Kinineund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 45,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 45,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Kinineund"
+    },
+    {
+      "number": 2048,
+      "name": "Diberd",
+      "status": "rule-generated-power-proposal",
+      "source": "Flattened power construction using supplied prefix/suffix rules. Final official spelling needs a source.",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 11
+        }
+      ],
+      "construction": {
+        "base": 2,
+        "exponent": 11
+      },
+      "action": "proposed-flat-name",
+      "previousName": "Wateotund"
+    },
+    {
+      "number": 2116,
+      "name": "Deemund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 46,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 46,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Deemund"
+    },
+    {
+      "number": 2187,
+      "name": "Trisevld",
+      "status": "rule-generated-power-proposal",
+      "source": "Flattened power construction using supplied prefix/suffix rules. Final official spelling needs a source.",
+      "powers": [
+        {
+          "base": 3,
+          "exponent": 7
+        }
+      ],
+      "construction": {
+        "base": 3,
+        "exponent": 7
+      },
+      "action": "proposed-flat-name",
+      "previousName": "Rodninund"
+    },
+    {
+      "number": 2197,
+      "name": "Deckard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 13,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 13,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Deckard"
+    },
+    {
+      "number": 2209,
+      "name": "Dossund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 47,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 47,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Dossund"
+    },
+    {
+      "number": 2304,
+      "name": "Exotund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 48,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 48,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Exotund"
+    },
+    {
+      "number": 2401,
+      "name": "Seveld",
+      "status": "rule-generated-power-proposal",
+      "source": "Flattened power construction using supplied prefix/suffix rules. Final official spelling needs a source.",
+      "powers": [
+        {
+          "base": 7,
+          "exponent": 4
+        },
+        {
+          "base": 49,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 7,
+        "exponent": 4
+      },
+      "action": "proposed-flat-name",
+      "previousName": "Sevundund"
+    },
+    {
+      "number": 2500,
+      "name": "Kinabund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 50,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 50,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Kinabund"
+    },
+    {
+      "number": 2601,
+      "name": "Triheffund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 51,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 51,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Triheffund"
+    },
+    {
+      "number": 2704,
+      "name": "Cadeckund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 52,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 52,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Cadeckund"
+    },
+    {
+      "number": 2744,
+      "name": "Eilard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 14,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 14,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Eilard"
+    },
+    {
+      "number": 2809,
+      "name": "Enulund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 53,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 53,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Enulund"
+    },
+    {
+      "number": 2916,
+      "name": "Exineund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 54,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 54,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Exineund"
+    },
+    {
+      "number": 3025,
+      "name": "Kibleund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 55,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 55,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Kibleund"
+    },
+    {
+      "number": 3125,
+      "name": "Kilahkard",
+      "status": "rule-generated-power-proposal",
+      "source": "Flattened power construction using supplied prefix/suffix rules. Final official spelling needs a source.",
+      "powers": [
+        {
+          "base": 5,
+          "exponent": 5
+        }
+      ],
+      "construction": {
+        "base": 5,
+        "exponent": 5
+      },
+      "action": "proposed-flat-name",
+      "previousName": "Pentkinard"
+    },
+    {
+      "number": 3136,
+      "name": "Sevotund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 56,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 56,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Sevotund"
+    },
+    {
+      "number": 3249,
+      "name": "Trullund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 57,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 57,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Trullund"
+    },
+    {
+      "number": 3364,
+      "name": "Doffund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 58,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 58,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Doffund"
+    },
+    {
+      "number": 3375,
+      "name": "Flenard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 15,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 15,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Flenard"
+    },
+    {
+      "number": 3481,
+      "name": "Floreund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 59,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 59,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Floreund"
+    },
+    {
+      "number": 3600,
+      "name": "Exabund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 60,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 60,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Exabund"
+    },
+    {
+      "number": 3721,
+      "name": "Garonund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 61,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 61,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Garonund"
+    },
+    {
+      "number": 3844,
+      "name": "Divillund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 62,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 62,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Divillund"
+    },
+    {
+      "number": 3969,
+      "name": "Sevineund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 63,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 63,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Sevineund"
+    },
+    {
+      "number": 4096,
+      "name": "Golnard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 2,
+          "exponent": 12
+        },
+        {
+          "base": 4,
+          "exponent": 6
+        },
+        {
+          "base": 8,
+          "exponent": 4
+        },
+        {
+          "base": 16,
+          "exponent": 3
+        },
+        {
+          "base": 64,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 16,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Golnard"
+    },
+    {
+      "number": 4225,
+      "name": "Kideckund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 65,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 65,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Kideckund"
+    },
+    {
+      "number": 4356,
+      "name": "Exbleund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 66,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 66,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Exbleund"
+    },
+    {
+      "number": 4489,
+      "name": "Hassund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 67,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 67,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Hassund"
+    },
+    {
+      "number": 4624,
+      "name": "Caheffund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 68,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 68,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Caheffund"
+    },
+    {
+      "number": 4761,
+      "name": "Trineemund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 69,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 69,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Trineemund"
+    },
+    {
+      "number": 4900,
+      "name": "Sevabund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 70,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 70,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Sevabund"
+    },
+    {
+      "number": 4913,
+      "name": "Hevard",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 17,
+          "exponent": 3
+        }
+      ],
+      "construction": {
+        "base": 17,
+        "exponent": 3
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Hevard"
+    },
+    {
+      "number": 5041,
+      "name": "Icaleund",
+      "status": "rule-compatible-power-name",
+      "source": "Existing name matches a flat supplied power construction; official spelling is not newly verified.",
+      "powers": [
+        {
+          "base": 71,
+          "exponent": 2
+        }
+      ],
+      "construction": {
+        "base": 71,
+        "exponent": 2
+      },
+      "action": "preserved-compatible-name",
+      "previousName": "Icaleund"
+    }
+  ]
+}
