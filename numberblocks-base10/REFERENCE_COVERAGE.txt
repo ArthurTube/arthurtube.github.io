@@ -1,0 +1,8 @@
+Supplied complete costumes: 236 designs.
+All 51–99 are included. For 101 onward, 101–234, 240, and 243 are included.
+235–239 and 241–242 have no supplied complete costume. Beyond 243 is generated unless additional references are imported in a future update.
+A new comparison panel shows the current supplied design beside the rectangle draft, with reference grids for 1–100, 51–99 and 101–243.
+Use the supplied design button to preserve its original internal positions, face, limbs and borders in preview/export.
+Official/fan-made status is not established by presence in the supplied set.
+Generated rectangle geometry is count checked. A mathematically valid rectangle is not a guarantee of a matching character design.
+The builder is not fully finished: unseen design placements and band animation/sounds remain unverified.

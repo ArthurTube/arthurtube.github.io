@@ -1,0 +1,17 @@
+BLOCK POSITION CORRECTIONS
+1. Extract the entire ZIP. Open index.html.
+2. Choose a number, Rectangle shape, and Rectangle body draft artwork.
+3. In Correct block positions, click one block and then its destination. This swaps their colour and place-value group data.
+4. Undo swap reverses the most recent move. Reset restores the supplied screenshot profile or default draft for the current rectangle dimensions.
+5. Save all arrangements downloads JSON. Load that JSON later to restore corrections. Unexported changes are held only in the current open page.
+6. SVG, sprite3 and SB3 exports include the edited positions. Counting-glow drafts use the edited layout as well.
+7. Different column widths have separate saved arrangements. Original supplied costumes are never overwritten by these edits.
+Detailed individual block editing covers 1–5100. The number input and exact grouped rendering still support 0–1 trillion. A trillion individual interactive cells are not rendered.
+Edits preserve count and colour-group membership. They do not certify the design as official. Full band music and limb animations are not added by this editor.
+
+VALIDATION
+All 482 factor-pair orientations across 1–100 retain exact counts and square cells.
+Swap, undo, reset, JSON export/import, rejection of invalid permutations, and atomic import validation passed.
+DOM-emulated integration passed initial page load, actual cell click events, undo, source/missing references, one-trillion preview generation, and edited sprite3 export inspection.
+Original source_data.js and source SB3 are byte-for-byte unchanged.
+A real browser rendering test has not been run for this version.

@@ -1,0 +1,19 @@
+WHOLE PLACE-VALUE GROUP MOVEMENT — COMPLETE FEATURE
+The new Move whole place-value groups panel supports 1–1,000,000,000,000.
+Choose Rectangle and Rectangle body draft, select a group, then use Move earlier/later or beginning/end. The selected group is outlined blue in its group-order preview. Groups may also be selected by clicking their visible region.
+Groups include ones, tens, hundreds, thousands, ten-thousands, hundred-thousands, millions, ten-millions, hundred-millions, billions, ten-billions, hundred-billions and a trillion.
+Each group keeps its exact value, colour family and border styling. Moving an unequal-sized group reflows the remaining groups along rectangle rows. This keeps the rectangle completely filled without overlaps or gaps; it does not translate a fixed polygon into overlapping space.
+For instance, 2001 has two groups of 1000 and one group of 1; move the 1 to the beginning to place it before the thousands. A number that consists of only one complete group has no other group to move past.
+Undo group move restores the preceding order. Reset group order returns to the original reference/default arrangement. Moving a whole group clears individual block swaps for that number, because the group order changes the base arrangement those swaps refer to.
+Save block and group arrangements uses the existing arrangement JSON download. Version 2 files contain both kinds of edits; old version 1 block-only files still load. Imports validate all entries before applying changes.
+Group moves affect generated rectangle previews, SVG, sprite3, SB3, and counting-glow exports. Supplied original costumes are unchanged. Original 3D reference-group views keep their canonical geometry/order; the new movement controls operate in rectangle mode.
+Individual block editing remains available up to 5100, while whole-group editing uses at most 108 decimal groups and supports the full trillion range without expanding each unit cell.
+Changes are kept in the open page until the arrangements JSON is saved; reload it in a future session.
+
+VERIFICATION
+Tested mixed groups at 12, 123, 2001, 12345, 987654, 1234567890 and 999999999999; exact group values, bounded non-overlapping rectangle partitions and total counts passed.
+Tested undo/reset, compatible JSON v1/v2, invalid permutation rejection and atomic validation.
+DOM-emulated interaction tested group selection and movement at 2001, movement of a billion-block group, edited SB3 export, and the one-trillion boundary.
+Previous individual block editor interaction and edited sprite3 export checks passed; all 482 1–100 factor-pair orientations still pass.
+Rendered before/after SVGs were inspected. Real browser UI rendering is not verified in this update.
+This finishes whole-group movement, not the verification of every character design or band animation/sound.

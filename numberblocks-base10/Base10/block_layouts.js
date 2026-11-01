@@ -1,0 +1,12 @@
+(function(root){'use strict';
+ const C=root.Base10Core,maps=new Map(),history=new Map();
+ function key(n,w){C.check(n);if(n<1||n>5100||!Number.isInteger(w)||w<1||n%w)throw Error('Editable layouts require 1–5100 blocks and an exact rectangle width.');return n+':'+w;}
+ function valid(n,a){return Array.isArray(a)&&a.length===n&&new Set(a).size===n&&a.every(v=>Number.isInteger(v)&&v>=0&&v<n);}
+ function apply(n,w,cells){const a=maps.get(n+':'+w);return a?a.map((j,i)=>({...cells[j],index:i,x:i%w,y:Math.floor(i/w)})):cells;}
+ function swap(n,w,a,b){const k=key(n,w);if(![a,b].every(v=>Number.isInteger(v)&&v>=0&&v<n))throw Error('Choose two existing blocks.');const m=(maps.get(k)||Array.from({length:n},(_,i)=>i)).slice(),h=history.get(k)||[];h.push(m.slice());if(h.length>50)h.shift();history.set(k,h);[m[a],m[b]]=[m[b],m[a]];maps.set(k,m);}
+ function undo(n,w){const k=key(n,w),h=history.get(k)||[];if(h.length)maps.set(k,h.pop());}
+ function reset(n,w){const k=key(n,w);maps.delete(k);history.delete(k);}
+ function serialize(){return JSON.stringify({format:'Numberblocks-Base10-Block-Layouts',version:2,groupLayouts:root.Base10GroupLayouts?.dump()||[],layouts:[...maps].map(([k,order])=>{const [number,columns]=k.split(':').map(Number);return{number,columns,order};})},null,2);}
+ function load(text){const data=JSON.parse(text);if(data.format!=='Numberblocks-Base10-Block-Layouts'||![1,2].includes(data.version)||!Array.isArray(data.layouts)||data.layouts.length>1000)throw Error('Unsupported arrangement file.');const groupPending=root.Base10GroupLayouts?.validate(data.version===2?data.groupLayouts:[])||new Map();const pending=new Map();let total=0;for(const l of data.layouts){const k=key(l.number,l.columns);total+=l.number;if(total>1000000||!valid(l.number,l.order)||pending.has(k))throw Error('Invalid block permutation. No arrangements were imported.');pending.set(k,l.order.slice());}for(const number of groupPending.keys())for(const k of [...maps.keys()])if(k.startsWith(number+':')){maps.delete(k);history.delete(k);}for(const k of pending.keys()){const number=Number(k.split(':')[0]);if(!groupPending.has(number))root.Base10GroupLayouts?.reset(number);}root.Base10GroupLayouts?.commit(groupPending);for(const[k,v]of pending){maps.set(k,v);history.delete(k);}return pending.size+groupPending.size;}
+ root.Base10BlockLayouts={apply,swap,undo,reset,serialize,load,resetNumber(n){for(const k of [...maps.keys()])if(k.startsWith(n+':')){maps.delete(k);history.delete(k);}},has:(n,w)=>maps.has(n+':'+w)};
+})(typeof window==='object'?window:globalThis);

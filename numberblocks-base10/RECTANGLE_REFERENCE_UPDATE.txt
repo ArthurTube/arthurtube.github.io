@@ -1,0 +1,9 @@
+RECTANGLE REFERENCE UPDATE
+
+Extract all files and open index.html. Automatic rectangle layout now offers Reference-aligned rectangles for 1–100, or Closest exact factors. Manual columns remain exact factors only.
+
+40 count-checked rectangle preferences are included. Examples: 20 uses 2 × 10, 24 uses 3 × 8, 28 uses 2 × 14, 30 uses 3 × 10, 40 uses 4 × 10, 54 uses 9 × 6 and 72 uses 6 × 12. These are generated rectangular body preferences transcribed from the supplied screenshot examples, not new official artwork. Cases not explicitly covered use closest exact factors.
+
+Source staircase, cube, frame and incomplete-row designs remain unchanged in original supplied costume mode. A warning identifies special source shapes rather than claiming that a filled rectangle is the same silhouette. Prime numbers can only have a 1 × p full integer rectangle. Zero has no blocks. No faces or limbs were invented or copied onto resized bodies.
+
+Verification: exact cell counts and valid factor dimensions for every integer 0–100; reference/closest policy checks; script syntax/load ordering; original source data, original SB3 and large-number renderer bytes unchanged. Browser interaction/export tests could not run because no browser executable was available in this session.

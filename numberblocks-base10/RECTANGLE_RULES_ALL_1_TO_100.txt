@@ -1,0 +1,9 @@
+All 1–100 use general exact-rectangle rules, not a whitelist of supported numbers.
+Zero: no body blocks. One: 1 × 1.
+Primes: only 1 × p (or rotated p × 1).
+Semiprimes: p × q; includes p squared, which permits p × p.
+Other composites: every exact factor pair is selectable, including rotated layouts.
+Perfect squares include the square arrangement; reference preferences can choose another exact pair.
+All unlisted reference numbers use closest exact factors. Number changes reset columns to automatic, preventing a previous manual width from accidentally making the next character too tall.
+Properties show classification and all factor pairs. Supplied artwork, faces, limbs and colours are preserved; generated rectangles are drafts, not official character designs.
+Validated all 1–100 classifications, every factor-pair rectangle in both orientations, exact cell counts, square cell geometry, and rejection of non-dividing widths. Browser interaction not verified in this update.

@@ -1,0 +1,7 @@
+Internal block positions checked against supplied screenshots for 12, 16, 18, 25, 32, 35, 36, 48, 49, 64, 70, 81, and 90.
+The mask applies to the referenced rectangle dimensions or its 90-degree rotation. Other factor layouts keep general place-value drafts, clearly labelled.
+Twelve's two orange blocks occupy the center column, rows 2 and 3 (counting from 1), inside a 3-column, 4-row body.
+Forty-eight is corrected to 8 columns and 6 rows with pink along the top.
+Every profile preserves all unit/tens group memberships and colours. Counting animation follows the final spatial cell order.
+Supplied source costumes, faces and limbs are unchanged. No generated draft is called official.
+Not every number 1–100 has a verified internal placement profile. Unknown arrangements are labelled rather than inferred as canon.
