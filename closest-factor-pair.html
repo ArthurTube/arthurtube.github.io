@@ -1,1 +1,62 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Closest Factor Pair Calculator — Arthur Tube</title><style>body{margin:0;background:#091b55;color:#162250;font:16px/1.6 Verdana,Arial,sans-serif}main{max-width:760px;margin:40px auto;padding:24px}.window{background:#fffdf2;border:3px solid #20316c;box-shadow:7px 7px 0 #030c30}.title{background:#102b7b;color:white;padding:10px 16px;font-weight:bold}.inside{padding:26px}h1{margin-top:0}input{width:min(100%,320px);padding:11px;font-size:18px;border:2px solid #20316c}button,a.button{display:inline-block;margin:8px 4px 8px 0;padding:10px 14px;border:2px solid #20316c;background:#ffdc50;color:#162250;font-weight:bold;text-decoration:none;cursor:pointer}.result{margin-top:18px;padding:16px;background:#eaf0ff;border-left:5px solid #102b7b;overflow-wrap:anywhere}.result strong{font-size:24px}</style></head><body><main><div class="window"><div class="title">Arthur Tube · Math Tool</div><div class="inside"><h1>Closest Factor Pair Calculator</h1><p>Enter a positive whole number to find its closest factors and every factor pair.</p><label for="n"><strong>Number</strong></label><br><input id="n" type="number" min="1" step="1" value="672"><button id="go">Find closest factors</button><div class="result" id="r" aria-live="polite"><strong>672 = 24 × 28</strong><p>Difference: 4</p><p>Factor pairs: 1×672, 2×336, 3×224, 4×168, 6×112, 7×96, 8×84, 12×56, 14×48, 16×42, 21×32, 24×28</p></div><a class="button" href="./index.html#factor-calculator">Back to Arthur Tube</a></div></div></main><script>const n=document.getElementById('n'),r=document.getElementById('r');function go(){const x=Number(n.value);if(!Number.isSafeInteger(x)||x<1){r.innerHTML='<strong>Please enter a positive whole number.</strong>';return}const p=[];let c=[1,x];for(let a=1;a*a<=x;a++)if(x%a===0){let b=x/a;p.push([a,b]);c=[a,b]}r.innerHTML='<strong>'+x+' = '+c[0]+' × '+c[1]+'</strong><p>Difference: '+(c[1]-c[0])+'</p><p>Factor pairs: '+p.map(q=>q[0]+'×'+q[1]).join(', ')+'</p>'}document.getElementById('go').onclick=go;n.addEventListener('keydown',e=>{if(e.key==='Enter')go()});</script></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Closest Factor Pair Calculator — Arthur Tube</title><style>body{margin:0;background:#091b55;color:#162250;font:16px/1.6 Verdana,Arial,sans-serif}main{max-width:760px;margin:40px auto;padding:24px}.window{background:#fffdf2;border:3px solid #20316c;box-shadow:7px 7px 0 #030c30}.title{background:#102b7b;color:white;padding:10px 16px;font-weight:bold}.inside{padding:26px}h1{margin-top:0}input{width:min(100%,320px);padding:11px;font-size:18px;border:2px solid #20316c}button,a.button{display:inline-block;margin:8px 4px 8px 0;padding:10px 14px;border:2px solid #20316c;background:#ffdc50;color:#162250;font-weight:bold;text-decoration:none;cursor:pointer}.result{margin-top:18px;padding:16px;background:#eaf0ff;border-left:5px solid #102b7b;overflow-wrap:anywhere}.result strong{font-size:24px} .detail{margin:10px 0;padding:10px;background:#fff;border:1px solid #c9d3ed} .muted{font-size:14px;color:#39456b} .error{color:#a00020} </style></head><body><main><div class="window"><div class="title">Arthur Tube · Math Tool</div><div class="inside"><h1>Closest Factor Pair Calculator</h1><p>Type a positive whole number and answer the Yes/No prime question. The calculator also shows classification, prime factorization, all factors and closest factor pair.</p><label for="n"><strong>Number</strong></label><br><input id="n" type="number" min="1" max="1000000000" step="1" value="2027" inputmode="numeric"><button id="go">Calculate factors</button><div><button class="example" data-n="2027">2027</button><button class="example" data-n="2026">2026</button><button class="example" data-n="301">301</button><button class="example" data-n="603">603</button><button class="example" data-n="1246">1246</button></div><div class="result" id="r" aria-live="polite"></div><div class="factor-question" id="math-questions" style="margin:12px 0;padding:12px;border:2px solid #20316c;background:#fff"></div></main>
+<script>
+'use strict';
+
+function factorAnalysis(n){
+ let x=n, primes=[],pairs=[],divisors=[];
+ for(let d=2;d*d<=x;d+=(d===2?1:2))while(x%d===0){primes.push(d);x/=d;}
+ if(x>1)primes.push(x);
+ for(let a=1;a*a<=n;a++)if(n%a===0){let b=n/a;pairs.push([a,b]);divisors.push(a);if(a!==b)divisors.push(b);}
+ divisors.sort((a,b)=>a-b);
+ let powers=[];for(let p of primes){if(powers.length&&powers[powers.length-1][0]===p)powers[powers.length-1][1]++;else powers.push([p,1]);}
+ return {prime:primes.length===1,semi:primes.length===2,pairs,divisors,powers,closest:pairs[pairs.length-1]};
+}
+function factorMarkup(n,a){
+ const f=x=>x.toLocaleString('en-US'), classification=n===1?'Neither prime nor composite':a.prime?'Prime':a.semi?'Semiprime (composite)':'Composite';
+ const product=a.powers.length?a.powers.map(([p,e])=>f(p)+(e>1?'^'+e:'')).join(' × '):'1 (no prime factors)';
+ const [lo,hi]=a.closest;
+ return '<p><strong>'+f(n)+'</strong> — '+classification+'</p><p><b>Closest factor pair:</b> '+f(lo)+' × '+f(hi)+' (difference '+f(hi-lo)+')</p><p><b>Prime factorization:</b> '+product+'</p><p><b>Positive factors ('+a.divisors.length+'):</b> '+a.divisors.map(f).join(', ')+'</p><p><b>Factor pairs:</b> '+a.pairs.map(([x,y])=>f(x)+' × '+f(y)).join(', ')+'</p>';
+}
+function attachFactorCalculator(inputId,resultId,buttonId,questionId,feedbackId){
+ const input=document.getElementById(inputId),result=document.getElementById(resultId),container=document.getElementById(questionId);
+ let current=null,number=0;
+ function calculate(){
+  const raw=input.value.trim(),n=Number(raw);
+  if(!/^\d+$/.test(raw)||!Number.isSafeInteger(n)||n<1||n>1000000000){current=null;result.textContent='Enter a positive whole number from 1 to 1,000,000,000.';container.replaceChildren();return;}
+  number=n;current=factorAnalysis(n);result.innerHTML=factorMarkup(n,current);
+  const a=current, f=x=>x.toLocaleString('en-US');
+  const square=Number.isInteger(Math.sqrt(n)), cube=Math.round(Math.cbrt(n))**3===n;
+  const isPower=a.powers.length===1&&a.powers[0][1]>=2;
+  const questions=[
+   ['Is '+f(n)+' a prime number?',a.prime,'A prime has exactly two positive divisors.'],
+   ['Is '+f(n)+' a composite number?',n>1&&!a.prime,'A composite number is greater than 1 and has more than two positive divisors.'],
+   ['Is '+f(n)+' a semiprime?',a.semi,'A semiprime has exactly two prime factors, counted with multiplicity.'],
+   ['Is '+f(n)+' an even number?',n%2===0,'An even number is divisible by 2.'],
+   ['Is '+f(n)+' an odd number?',n%2!==0,'An odd number is not divisible by 2.'],
+   ['Is '+f(n)+' a perfect square?',square,'A perfect square equals an integer multiplied by itself.'],
+   ['Is '+f(n)+' a perfect cube?',cube,'A perfect cube equals an integer multiplied by itself three times.'],
+   ['Is '+f(n)+' a prime power (exponent at least 2)?',isPower,'A prime power here is p^k for prime p and integer k ≥ 2.'],
+   ['Is '+f(n)+' divisible by 3?',n%3===0,'Check whether dividing by 3 leaves a remainder.'],
+   ['Is '+f(n)+' divisible by 5?',n%5===0,'A number is divisible by 5 if it ends in 0 or 5.'],
+   ['Does '+f(n)+' have exactly four positive divisors?',a.divisors.length===4,'Count the distinct positive divisors.'],
+   ['Is the closest factor pair of '+f(n)+' equal to 1 × '+f(n)+'?',a.closest[0]===1,'The closest pair has the smallest difference between its factors.']
+  ];
+  container.replaceChildren();
+  const heading=document.createElement('h3');heading.textContent='Yes / No Math Questions ('+questions.length+')';container.append(heading);
+  const score=document.createElement('p');score.setAttribute('aria-live','polite');container.append(score);
+  let answers=Array(questions.length).fill(null);
+  function updateScore(){score.textContent='Answered: '+answers.filter(x=>x!==null).length+'/'+questions.length+' · Correct: '+answers.filter((x,i)=>x!==null&&x===questions[i][1]).length;}
+  questions.forEach(([q,truth,why],i)=>{
+   const block=document.createElement('div');block.style.cssText='padding:10px;margin:8px 0;border:1px solid #a7b3d1;background:#fff;';
+   const title=document.createElement('strong');title.textContent=(i+1)+'. '+q;block.append(title);
+   const controls=document.createElement('div'),feedback=document.createElement('p');feedback.setAttribute('aria-live','polite');feedback.style.margin='4px 0';
+   ['Yes','No'].forEach(label=>{const btn=document.createElement('button');btn.type='button';btn.textContent=label;btn.addEventListener('click',()=>{answers[i]=label==='Yes';feedback.textContent=(answers[i]===truth?'Correct! ':'Incorrect. ')+(truth?'Yes. ':'No. ')+why;updateScore();});controls.append(btn);});
+   block.append(controls,feedback);container.append(block);
+  });updateScore();
+ }
+ document.getElementById(buttonId).addEventListener('click',calculate);
+ input.addEventListener('input',calculate);calculate();
+}
+attachFactorCalculator('n','r','go','math-questions',null);
+document.querySelectorAll('.example').forEach(b=>b.addEventListener('click',()=>{document.getElementById('n').value=b.dataset.n;document.getElementById('n').dispatchEvent(new Event('input'));}));
+</script></body></html>
